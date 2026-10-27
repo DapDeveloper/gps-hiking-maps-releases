@@ -20,19 +20,19 @@
   {
     "region": "trentino",
     "name": "Trentino-Alto Adige",
-    "version": "20261027.2",
-    "file": "trentino-v20261027.2.mbtiles",
-    "size": 128897024,
-    "size_mb": 128.9,
-    "sha256": "3e17132b2384dc233eacf97c5de195edfb1b1c95c519584bde1fd3e807a78255",
+    "version": "20261027.3",
+    "file": "trentino-v20261027.3.mbtiles",
+    "size": 1072500736,
+    "size_mb": 1072.5,
+    "sha256": "e7c630ad1339a75ba3814d82517b61550fd85056f4f49e357a9a59d654e3a036",
     "attribution": "\u00a9 OpenStreetMap contributors (ODbL) \u2014 built by HikingLife MapBuilder",
     "minZoom": 7,
-    "maxZoom": 14,
+    "maxZoom": 17,
     "bounds": {
-      "minLat": 43.736159,
-      "minLon": 9.197846,
+      "minLat": 45.55,
+      "minLon": 10.35,
       "maxLat": 47.146101,
-      "maxLon": 13.923673
+      "maxLon": 12.05
     }
   }
 ]
