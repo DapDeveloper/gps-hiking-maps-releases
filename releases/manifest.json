@@ -2,10 +2,10 @@
   {
     "region": "liechtenstein",
     "name": "Liechtenstein",
-    "version": "20261027",
-    "file": "liechtenstein-v20261027.mbtiles",
+    "version": "20261027.2",
+    "file": "liechtenstein-v20261027.2.mbtiles",
     "size_mb": 0.2,
-    "sha256": "622e6b01eb7cc62972e54ce67d04eeaed636e3bc1c9bbc21c68f3d1c1a9ae77a",
+    "sha256": "de1bacd08cc55c4e9f5d830523f995e0ad62507f7ef21efe1f498907dd5b56e7",
     "attribution": "\u00a9 OpenStreetMap contributors (ODbL) \u2014 built by HikingLife MapBuilder",
     "minZoom": 7,
     "maxZoom": 14,
