@@ -5,6 +5,15 @@
     "version": "20261027",
     "file": "liechtenstein-v20261027.mbtiles",
     "size_mb": 0.2,
-    "sha256": "71289abcfcd5cfd852f0ad384d16eb682ce08c65adf8e0bdee51f20a654c6aa5"
+    "sha256": "622e6b01eb7cc62972e54ce67d04eeaed636e3bc1c9bbc21c68f3d1c1a9ae77a",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL) \u2014 built by HikingLife MapBuilder",
+    "minZoom": 7,
+    "maxZoom": 14,
+    "bounds": {
+      "minLat": 47.048515,
+      "minLon": 9.467149,
+      "maxLat": 47.296625,
+      "maxLon": 9.653045
+    }
   }
 ]
