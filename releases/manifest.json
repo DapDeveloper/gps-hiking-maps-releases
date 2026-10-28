@@ -1,20 +1,21 @@
 [
   {
+    "id": "liechtenstein",
     "region": "liechtenstein",
     "name": "Liechtenstein",
-    "version": "20261027.2",
-    "file": "liechtenstein-v20261027.2.mbtiles",
-    "size": 151552,
-    "size_mb": 0.2,
-    "sha256": "de1bacd08cc55c4e9f5d830523f995e0ad62507f7ef21efe1f498907dd5b56e7",
-    "attribution": "\u00a9 OpenStreetMap contributors (ODbL) \u2014 built by HikingLife MapBuilder",
+    "version": "20261028.1",
+    "file": "liechtenstein-v20261028.1.pkg",
+    "size": 759050,
+    "sha256": "6d81ea362cc2da7d449f16fe8934d5ffa08ec118c47bcaeec675d2cf9d38f7e9",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
     "minZoom": 7,
-    "maxZoom": 14,
+    "maxZoom": 20,
     "bounds": {
-      "minLat": 47.048515,
-      "minLon": 9.467149,
-      "maxLat": 47.296625,
-      "maxLon": 9.653045
+      "minLat": 47.04774,
+      "minLon": 9.471078,
+      "maxLat": 47.27128,
+      "maxLon": 9.636217
     }
   },
   {
