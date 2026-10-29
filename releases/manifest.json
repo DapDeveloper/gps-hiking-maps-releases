@@ -209,6 +209,25 @@
     }
   },
   {
+    "id": "molise",
+    "region": "molise",
+    "name": "Molise",
+    "version": "20261028",
+    "file": "molise-v20261028.pkg",
+    "size": 10430264,
+    "sha256": "ac23604b3943ffecf9eea195e30816add9454c275bec103fa47088b99fa21580",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 41.344,
+      "minLon": 13.921,
+      "maxLat": 42.09,
+      "maxLon": 15.182
+    }
+  },
+  {
     "id": "trentino",
     "region": "trentino",
     "name": "Trentino-Alto Adige",
