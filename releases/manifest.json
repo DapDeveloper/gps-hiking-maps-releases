@@ -359,5 +359,24 @@
       "maxLat": 43.637,
       "maxLon": 13.284
     }
+  },
+  {
+    "id": "valle-d-aosta",
+    "region": "valle-d-aosta",
+    "name": "Valle d'Aosta",
+    "version": "20261029",
+    "file": "valle-d-aosta-v20261029.pkg",
+    "size": 7460175,
+    "sha256": "50b7a761e17ee7c8f438fa06aba0a69a6e9a021dda9ab4f7087597bc6465fb52",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 45.447,
+      "minLon": 6.782,
+      "maxLat": 46.008,
+      "maxLon": 7.96
+    }
   }
 ]
