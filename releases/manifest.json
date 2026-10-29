@@ -285,6 +285,25 @@
     }
   },
   {
+    "id": "sicilia",
+    "region": "sicilia",
+    "name": "Sicilia",
+    "version": "20261028",
+    "file": "sicilia-v20261028.pkg",
+    "size": 27355866,
+    "sha256": "81c5f0fbc460601cd0ba28c8cadc0fc94965279758c871d55d4d44f8c65dac67",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 35.473,
+      "minLon": 11.906,
+      "maxLat": 38.838,
+      "maxLon": 15.673
+    }
+  },
+  {
     "id": "trentino",
     "region": "trentino",
     "name": "Trentino-Alto Adige",
