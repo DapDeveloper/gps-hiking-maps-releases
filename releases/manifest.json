@@ -171,6 +171,25 @@
     }
   },
   {
+    "id": "lombardia",
+    "region": "lombardia",
+    "name": "Lombardia",
+    "version": "20261029",
+    "file": "lombardia-v20261029.pkg",
+    "size": 70897536,
+    "sha256": "059bce7df84b5d1a802d4d692dbdd9a11ae87e2270abd35cfa3947f41ee08fd9",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 44.66,
+      "minLon": 8.478,
+      "maxLat": 46.655,
+      "maxLon": 11.448
+    }
+  },
+  {
     "id": "trentino",
     "region": "trentino",
     "name": "Trentino-Alto Adige",
