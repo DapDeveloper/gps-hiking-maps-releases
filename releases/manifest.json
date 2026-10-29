@@ -38,6 +38,25 @@
     }
   },
   {
+    "id": "calabria",
+    "region": "calabria",
+    "name": "Calabria",
+    "version": "20261028",
+    "file": "calabria-v20261028.pkg",
+    "size": 16400351,
+    "sha256": "04deba96f1e7f086a2199699a8e798d7db3304a156a1a35951eb28cffa987419",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 37.896,
+      "minLon": 15.61,
+      "maxLat": 40.165,
+      "maxLon": 17.226
+    }
+  },
+  {
     "id": "liechtenstein",
     "region": "liechtenstein",
     "name": "Liechtenstein",
