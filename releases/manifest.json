@@ -304,6 +304,25 @@
     }
   },
   {
+    "id": "toscana",
+    "region": "toscana",
+    "name": "Toscana",
+    "version": "20261028",
+    "file": "toscana-v20261028.pkg",
+    "size": 53249186,
+    "sha256": "d1d44649481f21fa6b2aef5cdddb35f9a27f6eff9bf6b78563ba76181ee608c7",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 42.218,
+      "minLon": 9.667,
+      "maxLat": 44.493,
+      "maxLon": 12.392
+    }
+  },
+  {
     "id": "trentino",
     "region": "trentino",
     "name": "Trentino-Alto Adige",
