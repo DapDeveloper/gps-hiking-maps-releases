@@ -228,6 +228,25 @@
     }
   },
   {
+    "id": "piemonte",
+    "region": "piemonte",
+    "name": "Piemonte",
+    "version": "20261029",
+    "file": "piemonte-v20261029.pkg",
+    "size": 86002975,
+    "sha256": "a13cc3ffc7b30fc765b764f250250e8bdb8e44f8b7b2bb6b1bdddc74f5628f2c",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 44.04,
+      "minLon": 6.607,
+      "maxLat": 46.484,
+      "maxLon": 9.234
+    }
+  },
+  {
     "id": "trentino",
     "region": "trentino",
     "name": "Trentino-Alto Adige",
