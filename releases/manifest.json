@@ -152,6 +152,25 @@
     }
   },
   {
+    "id": "liguria",
+    "region": "liguria",
+    "name": "Liguria",
+    "version": "20261028",
+    "file": "liguria-v20261028.pkg",
+    "size": 24103122,
+    "sha256": "fa4ca96a98de4915c46c047f41f7a0dfd435cb6d7b5777cdbd480dbd65396201",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 43.756,
+      "minLon": 7.475,
+      "maxLat": 44.696,
+      "maxLon": 10.092
+    }
+  },
+  {
     "id": "trentino",
     "region": "trentino",
     "name": "Trentino-Alto Adige",
