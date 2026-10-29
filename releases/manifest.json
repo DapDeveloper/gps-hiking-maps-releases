@@ -114,6 +114,25 @@
     }
   },
   {
+    "id": "lazio",
+    "region": "lazio",
+    "name": "Lazio",
+    "version": "20261028",
+    "file": "lazio-v20261028.pkg",
+    "size": 32615220,
+    "sha256": "f8610f81e587c6131ffba36be1800b98096ba4f5272c1d96df7a36d1195a540e",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 40.765,
+      "minLon": 11.429,
+      "maxLat": 42.859,
+      "maxLon": 14.048
+    }
+  },
+  {
     "id": "liechtenstein",
     "region": "liechtenstein",
     "name": "Liechtenstein",
