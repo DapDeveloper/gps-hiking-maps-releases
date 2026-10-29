@@ -340,5 +340,24 @@
       "maxLat": 47.15,
       "maxLon": 12.05
     }
+  },
+  {
+    "id": "umbria",
+    "region": "umbria",
+    "name": "Umbria",
+    "version": "20261028",
+    "file": "umbria-v20261028.pkg",
+    "size": 22127904,
+    "sha256": "1dfa587e956c76d6cfbc174e6f9137822f604b9c53f644dda03aa55088dd5451",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 42.345,
+      "minLon": 11.872,
+      "maxLat": 43.637,
+      "maxLon": 13.284
+    }
   }
 ]
