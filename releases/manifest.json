@@ -266,6 +266,25 @@
     }
   },
   {
+    "id": "sardegna",
+    "region": "sardegna",
+    "name": "Sardegna",
+    "version": "20261028",
+    "file": "sardegna-v20261028.pkg",
+    "size": 23456435,
+    "sha256": "f00e9ec6caff6f69367072c3110649970113d5bc3647481683db4158dcf467d2",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 38.839,
+      "minLon": 8.111,
+      "maxLat": 41.333,
+      "maxLon": 9.849
+    }
+  },
+  {
     "id": "trentino",
     "region": "trentino",
     "name": "Trentino-Alto Adige",
