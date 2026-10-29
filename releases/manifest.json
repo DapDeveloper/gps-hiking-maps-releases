@@ -378,5 +378,24 @@
       "maxLat": 46.008,
       "maxLon": 7.96
     }
+  },
+  {
+    "id": "veneto",
+    "region": "veneto",
+    "name": "Veneto Mountains",
+    "version": "20261028",
+    "file": "veneto-v20261028.pkg",
+    "size": 61753173,
+    "sha256": "5636b6ae964851a9c1f2234793f62a5accf688cd78e7909f9ced4dc4fa952397",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 45.25,
+      "minLon": 10.85,
+      "maxLat": 46.85,
+      "maxLon": 13.15
+    }
   }
 ]
