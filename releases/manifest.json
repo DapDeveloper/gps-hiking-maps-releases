@@ -1,5 +1,24 @@
 [
   {
+    "id": "abruzzo",
+    "region": "abruzzo",
+    "name": "Abruzzo",
+    "version": "20261028",
+    "file": "abruzzo-v20261028.pkg",
+    "size": 28104699,
+    "sha256": "fb7d62d51aa1d7e3b40aaaaec1b59953cfa718b5ac912fd6e0454f5ad16f6a5f",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 41.662,
+      "minLon": 12.999,
+      "maxLat": 42.915,
+      "maxLon": 14.804
+    }
+  },
+  {
     "id": "liechtenstein",
     "region": "liechtenstein",
     "name": "Liechtenstein",
