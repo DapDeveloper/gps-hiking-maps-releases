@@ -57,6 +57,25 @@
     }
   },
   {
+    "id": "campania",
+    "region": "campania",
+    "name": "Campania",
+    "version": "20261028",
+    "file": "campania-v20261028.pkg",
+    "size": 25262174,
+    "sha256": "161d1c546055b833bfdbb1b4cab1468782ec65b01de28aebe5a8ca29b915a4b2",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 39.971,
+      "minLon": 13.742,
+      "maxLat": 41.528,
+      "maxLon": 15.826
+    }
+  },
+  {
     "id": "liechtenstein",
     "region": "liechtenstein",
     "name": "Liechtenstein",
