@@ -95,6 +95,25 @@
     }
   },
   {
+    "id": "friuli-venezia-giulia",
+    "region": "friuli-venezia-giulia",
+    "name": "Friuli-Venezia Giulia",
+    "version": "20261028",
+    "file": "friuli-venezia-giulia-v20261028.pkg",
+    "size": 21393352,
+    "sha256": "949742f5f1083e1f59d51179a05caf123fbb5e99481c450e108fa3ba8138f155",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 45.561,
+      "minLon": 12.301,
+      "maxLat": 46.668,
+      "maxLon": 13.939
+    }
+  },
+  {
     "id": "liechtenstein",
     "region": "liechtenstein",
     "name": "Liechtenstein",
