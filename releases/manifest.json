@@ -190,6 +190,25 @@
     }
   },
   {
+    "id": "marche",
+    "region": "marche",
+    "name": "Marche",
+    "version": "20261028",
+    "file": "marche-v20261028.pkg",
+    "size": 23279032,
+    "sha256": "821726f8715e6272df26af3c4d25f1d4379bb99ee8621f273872c1f5da9faeb0",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 42.667,
+      "minLon": 12.165,
+      "maxLat": 43.992,
+      "maxLon": 13.936
+    }
+  },
+  {
     "id": "trentino",
     "region": "trentino",
     "name": "Trentino-Alto Adige",
