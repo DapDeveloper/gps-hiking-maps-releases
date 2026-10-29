@@ -76,6 +76,25 @@
     }
   },
   {
+    "id": "emilia-romagna",
+    "region": "emilia-romagna",
+    "name": "Emilia-Romagna",
+    "version": "20261029",
+    "file": "emilia-romagna-v20261029.pkg",
+    "size": 38614552,
+    "sha256": "a59f8076d5574044142659c7ce9c51ef039b59a0802fa9c8058c0c204550f2bb",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 43.711,
+      "minLon": 9.178,
+      "maxLat": 45.16,
+      "maxLon": 12.776
+    }
+  },
+  {
     "id": "liechtenstein",
     "region": "liechtenstein",
     "name": "Liechtenstein",
