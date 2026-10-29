@@ -19,6 +19,25 @@
     }
   },
   {
+    "id": "basilicata",
+    "region": "basilicata",
+    "name": "Basilicata",
+    "version": "20261028",
+    "file": "basilicata-v20261028.pkg",
+    "size": 16742274,
+    "sha256": "88c19823fcdf1a2fe69ac85cdf0cd0ce7249802372b241edb136d853dc16eaa6",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 39.876,
+      "minLon": 15.315,
+      "maxLat": 41.16,
+      "maxLon": 16.887
+    }
+  },
+  {
     "id": "liechtenstein",
     "region": "liechtenstein",
     "name": "Liechtenstein",
