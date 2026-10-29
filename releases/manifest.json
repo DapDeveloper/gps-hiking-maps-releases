@@ -247,6 +247,25 @@
     }
   },
   {
+    "id": "puglia",
+    "region": "puglia",
+    "name": "Puglia",
+    "version": "20261029",
+    "file": "puglia-v20261029.pkg",
+    "size": 36225247,
+    "sha256": "dc115b6eb302170fba1df399501782abcf5a7a1f2093101d435febfbc45b265c",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 39.77,
+      "minLon": 14.914,
+      "maxLat": 42.246,
+      "maxLon": 18.541
+    }
+  },
+  {
     "id": "trentino",
     "region": "trentino",
     "name": "Trentino-Alto Adige",
