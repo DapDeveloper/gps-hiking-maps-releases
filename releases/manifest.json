@@ -308,6 +308,11 @@
       "minLon": 8.111,
       "maxLat": 41.333,
       "maxLon": 9.849
+    },
+    "dem": {
+      "file": "sardegna-v20261029-dem.dem",
+      "size": 4450734,
+      "sha256": "ec4ddfb74d0344260b6c8b42f3502dfcde8dc105aa54226326badc3aae9e001d"
     }
   },
   {
