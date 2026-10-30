@@ -40,6 +40,11 @@
       "minLon": 15.315,
       "maxLat": 41.16,
       "maxLon": 16.887
+    },
+    "dem": {
+      "file": "basilicata-v20261029-dem.dem",
+      "size": 3202440,
+      "sha256": "a5126f3234ac50249b30d663044409160576968342a97c369aa61f87220c2d8f"
     }
   },
   {
