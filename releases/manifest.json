@@ -16,6 +16,11 @@
       "minLon": 12.999,
       "maxLat": 42.915,
       "maxLon": 14.804
+    },
+    "dem": {
+      "file": "abruzzo-v20261029-dem.dem",
+      "size": 3648603,
+      "sha256": "382bf651a08105048995ba0f6433b9c63e1429cb7491109e7f3e543851dc6236"
     }
   },
   {
