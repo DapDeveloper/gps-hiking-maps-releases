@@ -126,6 +126,11 @@
       "minLon": 12.301,
       "maxLat": 46.668,
       "maxLon": 13.939
+    },
+    "dem": {
+      "file": "friuli-venezia-giulia-v20261029-dem.dem",
+      "size": 2655300,
+      "sha256": "da41d0eab1037fbc10e70f5f6eeff94d824f9eb0c835e07351225f9d1f7fb93a"
     }
   },
   {
