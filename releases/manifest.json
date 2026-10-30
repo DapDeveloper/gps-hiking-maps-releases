@@ -217,6 +217,11 @@
       "minLon": 12.165,
       "maxLat": 43.992,
       "maxLon": 13.936
+    },
+    "dem": {
+      "file": "marche-v20261029-dem.dem",
+      "size": 3528598,
+      "sha256": "68440be8a27a3aff851b2e288b592fbbca52bc089a428b7a83e29b6543ca5941"
     }
   },
   {
