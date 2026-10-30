@@ -102,6 +102,11 @@
       "minLon": 9.178,
       "maxLat": 45.16,
       "maxLon": 12.776
+    },
+    "dem": {
+      "file": "emilia-romagna-v20261029-dem.dem",
+      "size": 6070574,
+      "sha256": "95df1a4d8e9b22f95fbd14c82c650eaa3fd25698d2c72517e055e1ea56e85176"
     }
   },
   {
