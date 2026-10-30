@@ -265,6 +265,11 @@
       "minLon": 6.607,
       "maxLat": 46.484,
       "maxLon": 9.234
+    },
+    "dem": {
+      "file": "piemonte-v20261029-dem.dem",
+      "size": 11775637,
+      "sha256": "d4b3f511fde1006d6cd3b28c4e747bbb1222e459d275c1ee794afa152b2a1392"
     }
   },
   {
