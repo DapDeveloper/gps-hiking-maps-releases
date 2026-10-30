@@ -399,6 +399,11 @@
       "minLon": 11.872,
       "maxLat": 43.637,
       "maxLon": 13.284
+    },
+    "dem": {
+      "file": "umbria-v20261029-dem.dem",
+      "size": 3290870,
+      "sha256": "8321b67bb5fb22cedaa6348c950ea4e56358ebf6687ab9bf027b771c0f9341a8"
     }
   },
   {
