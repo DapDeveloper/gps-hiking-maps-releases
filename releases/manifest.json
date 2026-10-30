@@ -447,6 +447,11 @@
       "minLon": 10.603,
       "maxLat": 46.701,
       "maxLon": 13.122
+    },
+    "dem": {
+      "file": "veneto-v20261029-dem.dem",
+      "size": 6151994,
+      "sha256": "5ecf668850a0bbb8e839156703c713298c0f8971db2de4341ff91d5a27011741"
     }
   }
 ]
