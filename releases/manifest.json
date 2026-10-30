@@ -304,6 +304,11 @@
       "minLon": 14.914,
       "maxLat": 42.246,
       "maxLon": 18.541
+    },
+    "dem": {
+      "file": "puglia-v20261029-dem.dem",
+      "size": 6651098,
+      "sha256": "eead65322da67817ec42f880978a290d8fd902376d32a8737c7cb02d23a1c3b6"
     }
   },
   {
