@@ -64,6 +64,11 @@
       "minLon": 15.61,
       "maxLat": 40.165,
       "maxLon": 17.226
+    },
+    "dem": {
+      "file": "calabria-v20261029-dem.dem",
+      "size": 3464315,
+      "sha256": "b6300f34e770d35572f7f82cc5732cc9fbbfb8d3990419192b38ffbfe1797dbe"
     }
   },
   {
