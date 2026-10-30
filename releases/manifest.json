@@ -358,6 +358,11 @@
       "minLon": 6.782,
       "maxLat": 46.008,
       "maxLon": 7.96
+    },
+    "dem": {
+      "file": "valle-d-aosta-v20261029-dem.dem",
+      "size": 1485552,
+      "sha256": "c323c0856803e034f109ee5eebd09f268e43ed5520a39803a5069e0064cc037a"
     }
   },
   {
