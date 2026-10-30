@@ -160,6 +160,11 @@
       "minLon": 11.429,
       "maxLat": 42.859,
       "maxLon": 14.048
+    },
+    "dem": {
+      "file": "lazio-v20261029-dem.dem",
+      "size": 6194683,
+      "sha256": "0e5bbe669f61ce8e859096c839e0e0b6dd8e03df993b8e60556d12c216887d9d"
     }
   },
   {
