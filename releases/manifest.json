@@ -351,6 +351,11 @@
       "minLon": 9.667,
       "maxLat": 44.493,
       "maxLon": 12.392
+    },
+    "dem": {
+      "file": "toscana-v20261029-dem.dem",
+      "size": 7658536,
+      "sha256": "1ef19de283a06ca0f593803ee4000272e63497f96e8725b702ff6b26146bbfcd"
     }
   },
   {
