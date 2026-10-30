@@ -375,6 +375,11 @@
       "minLon": 10.362,
       "maxLat": 47.112,
       "maxLon": 12.498
+    },
+    "dem": {
+      "file": "trentino-v20261029-dem.dem",
+      "size": 6574722,
+      "sha256": "c69b10ba886e918c3b484878a1fa658078877acfad537209ad72fec631ab460f"
     }
   },
   {
