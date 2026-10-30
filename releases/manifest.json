@@ -352,6 +352,11 @@
       "minLon": 11.906,
       "maxLat": 38.838,
       "maxLon": 15.673
+    },
+    "dem": {
+      "file": "sicilia-v20261029-dem.dem",
+      "size": 4987655,
+      "sha256": "56b1c71b01c47bf9499d8cfd475de8ee6b9f4e3bcb991d70a883a537fe13a9e2"
     }
   },
   {
