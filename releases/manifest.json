@@ -730,6 +730,26 @@
     "country": "Marshall Islands"
   },
   {
+    "id": "mauritania",
+    "region": "mauritania",
+    "name": "Mauritania",
+    "version": "20261110",
+    "file": "mauritania-v20261110.pkg",
+    "size": 9871612,
+    "sha256": "651088b91a4d28e81eaff16d4d2864e9a7e152b4ce9cf710c6fa1e8492825678",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 16,
+    "bounds": {
+      "minLat": 14.715784,
+      "minLon": -17.350161,
+      "maxLat": 27.336135,
+      "maxLon": -4.816056
+    },
+    "country": "Mauritania"
+  },
+  {
     "id": "mauritius",
     "region": "mauritius",
     "name": "Mauritius",
