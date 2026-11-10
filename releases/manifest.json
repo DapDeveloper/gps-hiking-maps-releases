@@ -700,6 +700,26 @@
     "country": "Ecuador"
   },
   {
+    "id": "egypt",
+    "region": "egypt",
+    "name": "Egypt",
+    "version": "20261110",
+    "file": "egypt-v20261110.pkg",
+    "size": 140714430,
+    "sha256": "6a0fcb97a16060c946e4cacfc12aae7e203ff82d4d74ab2dc36d0003842d9d1c",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 16,
+    "bounds": {
+      "minLat": 21.983803,
+      "minLon": 24.626276,
+      "maxLat": 32.52518,
+      "maxLon": 37.162628
+    },
+    "country": "Egypt"
+  },
+  {
     "id": "el-salvador",
     "region": "el-salvador",
     "name": "El Salvador",
