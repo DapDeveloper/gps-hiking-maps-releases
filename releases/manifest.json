@@ -790,6 +790,26 @@
     "country": "Kiribati"
   },
   {
+    "id": "laos",
+    "region": "laos",
+    "name": "Laos",
+    "version": "20261110",
+    "file": "laos-v20261110.pkg",
+    "size": 26540306,
+    "sha256": "6c1534c5cb50aac17ecbbb78bfb306b4752cd3e3b9057c26158834a2d57e86cd",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 16,
+    "bounds": {
+      "minLat": 13.901591,
+      "minLon": 100.082831,
+      "maxLat": 22.528246,
+      "maxLon": 107.650279
+    },
+    "country": "Laos"
+  },
+  {
     "id": "lazio",
     "region": "lazio",
     "name": "Lazio",
