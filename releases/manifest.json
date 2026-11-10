@@ -655,6 +655,26 @@
     "country": "Italy"
   },
   {
+    "id": "liberia",
+    "region": "liberia",
+    "name": "Liberia",
+    "version": "20261110",
+    "file": "liberia-v20261110.pkg",
+    "size": 7040295,
+    "sha256": "c2646353619c0a77f5b7f832f2a8295ade48912e9112a2fa11ef49edaaead872",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 16,
+    "bounds": {
+      "minLat": -0.681003,
+      "minLon": -14.95454,
+      "maxLat": 8.570158,
+      "maxLon": -7.24572
+    },
+    "country": "Liberia"
+  },
+  {
     "id": "liechtenstein",
     "region": "liechtenstein",
     "name": "Liechtenstein",
