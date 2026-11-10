@@ -1935,6 +1935,26 @@
     "country": "Papua New Guinea"
   },
   {
+    "id": "paraguay",
+    "region": "paraguay",
+    "name": "Paraguay",
+    "version": "20261110",
+    "file": "paraguay-v20261110.pkg",
+    "size": 50108259,
+    "sha256": "1f54c1a5b59a8648484eb4106a0c4d6d198bcbdfe5715cd0a3dbad291da20a63",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 16,
+    "bounds": {
+      "minLat": -27.65675,
+      "minLon": -62.69475,
+      "maxLat": -19.24012,
+      "maxLon": -54.20176
+    },
+    "country": "Paraguay"
+  },
+  {
     "id": "piemonte",
     "region": "piemonte",
     "name": "Piemonte",
