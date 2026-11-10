@@ -485,6 +485,26 @@
     "country": "Italy"
   },
   {
+    "id": "saint-helena-ascension-and-tristan-da-cunha",
+    "region": "saint-helena-ascension-and-tristan-da-cunha",
+    "name": "Saint Helena, Ascension, and Tristan da Cunha",
+    "version": "20261110",
+    "file": "saint-helena-ascension-and-tristan-da-cunha-v20261110.pkg",
+    "size": 280170,
+    "sha256": "1f652d44ffcfb6cae14ad2db2c5259e6afce402f9e107d8a80c5913478aa228a",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": -43.832453,
+      "minLon": -15.570256,
+      "maxLat": -4.591221,
+      "maxLon": -2.781278
+    },
+    "country": "Saint Helena, Ascension, and Tristan da Cunha"
+  },
+  {
     "id": "sardegna",
     "region": "sardegna",
     "name": "Sardegna",
