@@ -2456,12 +2456,12 @@
     "id": "sicilia",
     "region": "sicilia",
     "name": "Sicilia",
-    "version": "20261029",
-    "file": "sicilia-v20261029.pkg",
-    "size": 27355866,
-    "sha256": "615fbe69aac17d1c04a97bcd65160093a2380b8afad095d2217c7e05582e6a52",
+    "version": "20261110",
+    "file": "sicilia-v20261110.pkg",
+    "size": 27537715,
+    "sha256": "97e461a6711ed433455d52f35806734462779214ef83b7f4260be21bcab1b7dc",
     "format": "hlv1",
-    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife \u00b7 Official trails: \u00a9 Club Alpino Italiano (CAI) \u2014 INFOMONT (infomont.cai.it), ODbL 1.0",
     "minZoom": 7,
     "maxZoom": 20,
     "bounds": {
@@ -2470,12 +2470,15 @@
       "maxLat": 38.838,
       "maxLon": 15.673
     },
+    "country": "Italy",
+    "trail_sources": [
+      "CAI"
+    ],
     "dem": {
-      "file": "sicilia-v20261029-dem.dem",
+      "file": "sicilia-v20261110-dem.dem",
       "size": 4987655,
-      "sha256": "56b1c71b01c47bf9499d8cfd475de8ee6b9f4e3bcb991d70a883a537fe13a9e2"
-    },
-    "country": "Italy"
+      "sha256": "ff70a90a8eb35797d18771d400140c283edb0fcc0316dcab831ce902faec876d"
+    }
   },
   {
     "id": "sierra-leone",
