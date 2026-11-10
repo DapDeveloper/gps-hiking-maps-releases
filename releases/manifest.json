@@ -65,6 +65,26 @@
     "country": "Andorra"
   },
   {
+    "id": "antarctica",
+    "region": "antarctica",
+    "name": "Antarctica",
+    "version": "20261110",
+    "file": "antarctica-v20261110.pkg",
+    "size": 694910087,
+    "sha256": "f9455523073006afa613408ed8f2fb9e76a89f2ae99a414f2f7b095bb53cea72",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 14,
+    "bounds": {
+      "minLat": -90.0,
+      "minLon": -180.0,
+      "maxLat": -60.0,
+      "maxLon": 180.0
+    },
+    "country": "Antarctica"
+  },
+  {
     "id": "bahamas",
     "region": "bahamas",
     "name": "Bahamas",
