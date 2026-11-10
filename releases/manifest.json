@@ -2861,12 +2861,12 @@
     "id": "umbria",
     "region": "umbria",
     "name": "Umbria",
-    "version": "20261029",
-    "file": "umbria-v20261029.pkg",
-    "size": 22127905,
-    "sha256": "c371e23c5dbc365d695a01f8eca77809bdafef9b990f2797f017a9ed5495625f",
+    "version": "20261110",
+    "file": "umbria-v20261110.pkg",
+    "size": 22985521,
+    "sha256": "378f87e027156a50a0a9bddb123a6ed62e3c98fa7087eb950f5d23d4848fa218",
     "format": "hlv1",
-    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife \u00b7 Official trails: \u00a9 Club Alpino Italiano (CAI) \u2014 INFOMONT (infomont.cai.it), ODbL 1.0",
     "minZoom": 7,
     "maxZoom": 20,
     "bounds": {
@@ -2875,12 +2875,15 @@
       "maxLat": 43.637,
       "maxLon": 13.284
     },
+    "country": "Italy",
+    "trail_sources": [
+      "CAI"
+    ],
     "dem": {
-      "file": "umbria-v20261029-dem.dem",
+      "file": "umbria-v20261110-dem.dem",
       "size": 3290870,
-      "sha256": "8321b67bb5fb22cedaa6348c950ea4e56358ebf6687ab9bf027b771c0f9341a8"
-    },
-    "country": "Italy"
+      "sha256": "76756740677400c7aabed8e12e0dcf6d2261e8aa1bfedf7310ae6249cf0274bb"
+    }
   },
   {
     "id": "uruguay",
