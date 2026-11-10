@@ -1235,6 +1235,26 @@
     "country": "Lebanon"
   },
   {
+    "id": "lesotho",
+    "region": "lesotho",
+    "name": "Lesotho",
+    "version": "20261110",
+    "file": "lesotho-v20261110.pkg",
+    "size": 20908301,
+    "sha256": "ee2e21b8b75973ef128a1fb89bcaaa0198767caaf87ba130d67dc57355824194",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 16,
+    "bounds": {
+      "minLat": -30.684721,
+      "minLon": 27.009201,
+      "maxLat": -28.567336,
+      "maxLon": 29.46393
+    },
+    "country": "Lesotho"
+  },
+  {
     "id": "liberia",
     "region": "liberia",
     "name": "Liberia",
