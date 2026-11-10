@@ -1535,6 +1535,26 @@
     "country": "Swaziland"
   },
   {
+    "id": "tajikistan",
+    "region": "tajikistan",
+    "name": "Tajikistan",
+    "version": "20261110",
+    "file": "tajikistan-v20261110.pkg",
+    "size": 16962693,
+    "sha256": "af6f3a9bd0391792891e9dd1484089b0e01f0dd350c8d7de1b6411678cb04adf",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 16,
+    "bounds": {
+      "minLat": 36.663738,
+      "minLon": 67.320098,
+      "maxLat": 41.05502,
+      "maxLon": 75.16571
+    },
+    "country": "Tajikistan"
+  },
+  {
     "id": "tokelau",
     "region": "tokelau",
     "name": "Tokelau",
