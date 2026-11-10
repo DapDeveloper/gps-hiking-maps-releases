@@ -25,6 +25,26 @@
     "country": "Italy"
   },
   {
+    "id": "andorra",
+    "region": "andorra",
+    "name": "Andorra",
+    "version": "20261110",
+    "file": "andorra-v20261110.pkg",
+    "size": 1024618,
+    "sha256": "a1b86a2c24d866aacf61a407bdbddb029238be112bafb658416038e1a39ea6fb",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 42.4276,
+      "minLon": 1.412368,
+      "maxLat": 42.65717,
+      "maxLon": 1.787481
+    },
+    "country": "Andorra"
+  },
+  {
     "id": "basilicata",
     "region": "basilicata",
     "name": "Basilicata",
