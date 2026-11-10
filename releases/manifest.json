@@ -610,6 +610,26 @@
     "country": "Italy"
   },
   {
+    "id": "seychelles",
+    "region": "seychelles",
+    "name": "Seychelles",
+    "version": "20261110",
+    "file": "seychelles-v20261110.pkg",
+    "size": 545793,
+    "sha256": "262ccec7937be66f2d83e15728b15fed362f9dab86268d5227795df98ae6bbef",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": -12.55844,
+      "minLon": 45.684947,
+      "maxLat": -3.17239,
+      "maxLon": 57.574329
+    },
+    "country": "Seychelles"
+  },
+  {
     "id": "sicilia",
     "region": "sicilia",
     "name": "Sicilia",
