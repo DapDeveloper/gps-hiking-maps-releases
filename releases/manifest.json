@@ -335,6 +335,26 @@
     "country": "Italy"
   },
   {
+    "id": "nauru",
+    "region": "nauru",
+    "name": "Nauru",
+    "version": "20261110",
+    "file": "nauru-v20261110.pkg",
+    "size": 59880,
+    "sha256": "86f6fea45b5fb1c8ac1be317af75229eb2d016bc04794c39cd1ed247a0b3a261",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": -3.771196,
+      "minLon": 163.7052,
+      "maxLat": 2.693851,
+      "maxLon": 168.5599
+    },
+    "country": "Nauru"
+  },
+  {
     "id": "piemonte",
     "region": "piemonte",
     "name": "Piemonte",
