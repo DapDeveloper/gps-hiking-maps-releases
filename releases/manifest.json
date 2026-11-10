@@ -750,6 +750,26 @@
     "country": "Guyane"
   },
   {
+    "id": "iceland",
+    "region": "iceland",
+    "name": "Iceland",
+    "version": "20261110",
+    "file": "iceland-v20261110.pkg",
+    "size": 73763271,
+    "sha256": "66671346d520f6221810f57d3d63380c59e901efd346e16db4b61a3a92c69333",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 16,
+    "bounds": {
+      "minLat": 62.84553,
+      "minLon": -25.74085,
+      "maxLat": 67.50085,
+      "maxLon": -12.41708
+    },
+    "country": "Iceland"
+  },
+  {
     "id": "ile-de-clipperton",
     "region": "ile-de-clipperton",
     "name": "\u00cele de Clipperton",
