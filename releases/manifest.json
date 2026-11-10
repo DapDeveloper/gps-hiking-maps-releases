@@ -170,6 +170,26 @@
     "country": "Bhutan"
   },
   {
+    "id": "burundi",
+    "region": "burundi",
+    "name": "Burundi",
+    "version": "20261110",
+    "file": "burundi-v20261110.pkg",
+    "size": 36861872,
+    "sha256": "5b5c7795db8fad445c13e763375caece5f6559abaade7a01629e2c0e5a8d1624",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 16,
+    "bounds": {
+      "minLat": -4.481328,
+      "minLon": 29.000181,
+      "maxLat": -2.307893,
+      "maxLon": 30.851147
+    },
+    "country": "Burundi"
+  },
+  {
     "id": "calabria",
     "region": "calabria",
     "name": "Calabria",
