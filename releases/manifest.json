@@ -350,6 +350,26 @@
     "country": "Botswana"
   },
   {
+    "id": "bulgaria",
+    "region": "bulgaria",
+    "name": "Bulgaria",
+    "version": "20261110",
+    "file": "bulgaria-v20261110.pkg",
+    "size": 53354463,
+    "sha256": "4fb566443253de8a348a9bdd501c63b7a317be0b29e4039720798a0bf4c76813",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 16,
+    "bounds": {
+      "minLat": 41.22681,
+      "minLon": 22.34875,
+      "maxLat": 44.21777,
+      "maxLon": 29.18819
+    },
+    "country": "Bulgaria"
+  },
+  {
     "id": "burkina-faso",
     "region": "burkina-faso",
     "name": "Burkina Faso",
