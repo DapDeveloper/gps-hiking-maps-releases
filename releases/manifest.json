@@ -510,6 +510,26 @@
     "country": "\u00cele de Clipperton"
   },
   {
+    "id": "jordan",
+    "region": "jordan",
+    "name": "Jordan",
+    "version": "20261110",
+    "file": "jordan-v20261110.pkg",
+    "size": 8430242,
+    "sha256": "5e409effbde3ea9ffed740cb10ecda956ed531476a6e611614543b192be962c8",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 16,
+    "bounds": {
+      "minLat": 29.18213,
+      "minLon": 34.86886,
+      "maxLat": 33.37922,
+      "maxLon": 39.31022
+    },
+    "country": "Jordan"
+  },
+  {
     "id": "kiribati",
     "region": "kiribati",
     "name": "Kiribati",
