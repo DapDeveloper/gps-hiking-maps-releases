@@ -658,5 +658,25 @@
       "sha256": "5ecf668850a0bbb8e839156703c713298c0f8971db2de4341ff91d5a27011741"
     },
     "country": "Italy"
+  },
+  {
+    "id": "wallis-et-futuna",
+    "region": "wallis-et-futuna",
+    "name": "Wallis et Futuna",
+    "version": "20261110",
+    "file": "wallis-et-futuna-v20261110.pkg",
+    "size": 150196,
+    "sha256": "fdf4eaa46e4561cb96121368eb0008e06f6feb9a3b6fa51b8fafa22292778d96",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": -16.256846,
+      "minLon": -179.978049,
+      "maxLat": -9.05868,
+      "maxLon": -174.155295
+    },
+    "country": "Wallis et Futuna"
   }
 ]
