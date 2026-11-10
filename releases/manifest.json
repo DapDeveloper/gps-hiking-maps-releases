@@ -21,7 +21,8 @@
       "file": "abruzzo-v20261029-dem.dem",
       "size": 3648603,
       "sha256": "382bf651a08105048995ba0f6433b9c63e1429cb7491109e7f3e543851dc6236"
-    }
+    },
+    "country": "Italy"
   },
   {
     "id": "basilicata",
@@ -45,7 +46,8 @@
       "file": "basilicata-v20261029-dem.dem",
       "size": 3202440,
       "sha256": "a5126f3234ac50249b30d663044409160576968342a97c369aa61f87220c2d8f"
-    }
+    },
+    "country": "Italy"
   },
   {
     "id": "calabria",
@@ -69,7 +71,8 @@
       "file": "calabria-v20261029-dem.dem",
       "size": 3464315,
       "sha256": "b6300f34e770d35572f7f82cc5732cc9fbbfb8d3990419192b38ffbfe1797dbe"
-    }
+    },
+    "country": "Italy"
   },
   {
     "id": "campania",
@@ -93,7 +96,8 @@
       "file": "campania-v20261029-dem.dem",
       "size": 3799466,
       "sha256": "917c011ea88ab6647506337e806094948036299b7f487606ac21b43e76b33348"
-    }
+    },
+    "country": "Italy"
   },
   {
     "id": "emilia-romagna",
@@ -117,7 +121,8 @@
       "file": "emilia-romagna-v20261029-dem.dem",
       "size": 6070574,
       "sha256": "95df1a4d8e9b22f95fbd14c82c650eaa3fd25698d2c72517e055e1ea56e85176"
-    }
+    },
+    "country": "Italy"
   },
   {
     "id": "friuli-venezia-giulia",
@@ -141,7 +146,8 @@
       "file": "friuli-venezia-giulia-v20261029-dem.dem",
       "size": 2655300,
       "sha256": "da41d0eab1037fbc10e70f5f6eeff94d824f9eb0c835e07351225f9d1f7fb93a"
-    }
+    },
+    "country": "Italy"
   },
   {
     "id": "lazio",
@@ -165,7 +171,8 @@
       "file": "lazio-v20261029-dem.dem",
       "size": 6194683,
       "sha256": "0e5bbe669f61ce8e859096c839e0e0b6dd8e03df993b8e60556d12c216887d9d"
-    }
+    },
+    "country": "Italy"
   },
   {
     "id": "liguria",
@@ -189,7 +196,8 @@
       "file": "liguria-v20261029-dem.dem",
       "size": 2900932,
       "sha256": "1567d9a9e2550f6d0107786efd8938e55e877267752d635e1c934435267ee763"
-    }
+    },
+    "country": "Italy"
   },
   {
     "id": "lombardia",
@@ -213,7 +221,8 @@
       "file": "lombardia-v20261029-dem.dem",
       "size": 9012308,
       "sha256": "f0716ebd25ec442e9449e9290345e0b6858b901e3cf6f5ccc625bf21e274a296"
-    }
+    },
+    "country": "Italy"
   },
   {
     "id": "marche",
@@ -237,7 +246,8 @@
       "file": "marche-v20261029-dem.dem",
       "size": 3528598,
       "sha256": "68440be8a27a3aff851b2e288b592fbbca52bc089a428b7a83e29b6543ca5941"
-    }
+    },
+    "country": "Italy"
   },
   {
     "id": "molise",
@@ -261,7 +271,8 @@
       "file": "molise-v20261029-dem.dem",
       "size": 1717540,
       "sha256": "42b02e6af4183d69b27e925e4ba57dbfd721703ada15c08b35d177689cc9f0e7"
-    }
+    },
+    "country": "Italy"
   },
   {
     "id": "piemonte",
@@ -285,7 +296,8 @@
       "file": "piemonte-v20261029-dem.dem",
       "size": 11775637,
       "sha256": "d4b3f511fde1006d6cd3b28c4e747bbb1222e459d275c1ee794afa152b2a1392"
-    }
+    },
+    "country": "Italy"
   },
   {
     "id": "puglia",
@@ -309,7 +321,8 @@
       "file": "puglia-v20261029-dem.dem",
       "size": 6651098,
       "sha256": "eead65322da67817ec42f880978a290d8fd902376d32a8737c7cb02d23a1c3b6"
-    }
+    },
+    "country": "Italy"
   },
   {
     "id": "sardegna",
@@ -333,7 +346,8 @@
       "file": "sardegna-v20261029-dem.dem",
       "size": 4450734,
       "sha256": "ec4ddfb74d0344260b6c8b42f3502dfcde8dc105aa54226326badc3aae9e001d"
-    }
+    },
+    "country": "Italy"
   },
   {
     "id": "sicilia",
@@ -357,7 +371,8 @@
       "file": "sicilia-v20261029-dem.dem",
       "size": 4987655,
       "sha256": "56b1c71b01c47bf9499d8cfd475de8ee6b9f4e3bcb991d70a883a537fe13a9e2"
-    }
+    },
+    "country": "Italy"
   },
   {
     "id": "toscana",
@@ -381,7 +396,8 @@
       "file": "toscana-v20261029-dem.dem",
       "size": 7658536,
       "sha256": "1ef19de283a06ca0f593803ee4000272e63497f96e8725b702ff6b26146bbfcd"
-    }
+    },
+    "country": "Italy"
   },
   {
     "id": "trentino",
@@ -405,7 +421,8 @@
       "file": "trentino-v20261029-dem.dem",
       "size": 6574722,
       "sha256": "c69b10ba886e918c3b484878a1fa658078877acfad537209ad72fec631ab460f"
-    }
+    },
+    "country": "Italy"
   },
   {
     "id": "umbria",
@@ -429,7 +446,8 @@
       "file": "umbria-v20261029-dem.dem",
       "size": 3290870,
       "sha256": "8321b67bb5fb22cedaa6348c950ea4e56358ebf6687ab9bf027b771c0f9341a8"
-    }
+    },
+    "country": "Italy"
   },
   {
     "id": "valle-d-aosta",
@@ -453,7 +471,8 @@
       "file": "valle-d-aosta-v20261029-dem.dem",
       "size": 1485552,
       "sha256": "c323c0856803e034f109ee5eebd09f268e43ed5520a39803a5069e0064cc037a"
-    }
+    },
+    "country": "Italy"
   },
   {
     "id": "veneto",
@@ -477,6 +496,7 @@
       "file": "veneto-v20261029-dem.dem",
       "size": 6151994,
       "sha256": "5ecf668850a0bbb8e839156703c713298c0f8971db2de4341ff91d5a27011741"
-    }
+    },
+    "country": "Italy"
   }
 ]
