@@ -1830,6 +1830,26 @@
     "country": "Italy"
   },
   {
+    "id": "uruguay",
+    "region": "uruguay",
+    "name": "Uruguay",
+    "version": "20261110",
+    "file": "uruguay-v20261110.pkg",
+    "size": 44635259,
+    "sha256": "7b818bb33e071ad24f81224418cd5bc7cef0797084d01db8152db050bac88f75",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 16,
+    "bounds": {
+      "minLat": -36.248699,
+      "minLon": -58.525887,
+      "maxLat": -30.07355,
+      "maxLon": -52.7723
+    },
+    "country": "Uruguay"
+  },
+  {
     "id": "valle-d-aosta",
     "region": "valle-d-aosta",
     "name": "Valle d'Aosta",
