@@ -1989,6 +1989,26 @@
     "country": "Montenegro"
   },
   {
+    "id": "morocco",
+    "region": "morocco",
+    "name": "Morocco",
+    "version": "20261110",
+    "file": "morocco-v20261110.pkg",
+    "size": 64366652,
+    "sha256": "f0ba77f573dacaf42fedcc628094d214efe73f00e529d463ae03d08cdedfc113",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 16,
+    "bounds": {
+      "minLat": 20.40373,
+      "minLon": -18.183499,
+      "maxLat": 36.16199,
+      "maxLon": -0.993576
+    },
+    "country": "Morocco"
+  },
+  {
     "id": "namibia",
     "region": "namibia",
     "name": "Namibia",
