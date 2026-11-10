@@ -270,6 +270,26 @@
     "country": "Bhutan"
   },
   {
+    "id": "botswana",
+    "region": "botswana",
+    "name": "Botswana",
+    "version": "20261110",
+    "file": "botswana-v20261110.pkg",
+    "size": 19426817,
+    "sha256": "ff01beb0d33d4ade27061c6d2e20e55faf8f3caa88d13cf4f9ae708c36410356",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 16,
+    "bounds": {
+      "minLat": -26.91539,
+      "minLon": 19.98745,
+      "maxLat": -17.774026,
+      "maxLon": 29.38549
+    },
+    "country": "Botswana"
+  },
+  {
     "id": "burkina-faso",
     "region": "burkina-faso",
     "name": "Burkina Faso",
