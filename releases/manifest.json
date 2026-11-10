@@ -1155,6 +1155,26 @@
     "country": "Suriname"
   },
   {
+    "id": "swaziland",
+    "region": "swaziland",
+    "name": "Swaziland",
+    "version": "20261110",
+    "file": "swaziland-v20261110.pkg",
+    "size": 4417210,
+    "sha256": "451ea9122189fb00d94d2fde9b2181f08178ca7fb09de0849fd30d519a6b6a79",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 16,
+    "bounds": {
+      "minLat": -27.318256,
+      "minLon": 30.785751,
+      "maxLat": -25.717811,
+      "maxLon": 32.136984
+    },
+    "country": "Swaziland"
+  },
+  {
     "id": "tokelau",
     "region": "tokelau",
     "name": "Tokelau",
