@@ -525,6 +525,26 @@
     "country": "Saint Helena, Ascension, and Tristan da Cunha"
   },
   {
+    "id": "sao-tome-and-principe",
+    "region": "sao-tome-and-principe",
+    "name": "Sao Tome and Principe",
+    "version": "20261110",
+    "file": "sao-tome-and-principe-v20261110.pkg",
+    "size": 442550,
+    "sha256": "f5714a1df86195c0074e2869d693b7040cd10a9202ba0397ac08f6071f0a8ecc",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": -0.525565,
+      "minLon": 5.273916,
+      "maxLat": 2.440286,
+      "maxLon": 8.366995
+    },
+    "country": "Sao Tome and Principe"
+  },
+  {
     "id": "sardegna",
     "region": "sardegna",
     "name": "Sardegna",
