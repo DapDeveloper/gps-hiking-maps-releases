@@ -455,6 +455,26 @@
     "country": "Cambodia"
   },
   {
+    "id": "cameroon",
+    "region": "cameroon",
+    "name": "Cameroon",
+    "version": "20261110",
+    "file": "cameroon-v20261110.pkg",
+    "size": 59024853,
+    "sha256": "a49b9559b5952338d3219e399e557113030b547dd890cd343071ae65bb49dfde",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 16,
+    "bounds": {
+      "minLat": 1.645663,
+      "minLon": 8.33,
+      "maxLat": 13.09278,
+      "maxLon": 16.203117
+    },
+    "country": "Cameroon"
+  },
+  {
     "id": "campania",
     "region": "campania",
     "name": "Campania",
