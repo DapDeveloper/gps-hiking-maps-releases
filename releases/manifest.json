@@ -335,6 +335,26 @@
     "country": "Italy"
   },
   {
+    "id": "monaco",
+    "region": "monaco",
+    "name": "Monaco",
+    "version": "20261110",
+    "file": "monaco-v20261110.pkg",
+    "size": 119894,
+    "sha256": "b47d828df8d003de399786ccce5e878111f3737e0d14de263944bf68507d7a77",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 43.483817,
+      "minLon": 7.408583,
+      "maxLat": 43.75293,
+      "maxLon": 7.595671
+    },
+    "country": "Monaco"
+  },
+  {
     "id": "nauru",
     "region": "nauru",
     "name": "Nauru",
