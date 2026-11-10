@@ -1215,6 +1215,26 @@
     "country": "Montenegro"
   },
   {
+    "id": "namibia",
+    "region": "namibia",
+    "name": "Namibia",
+    "version": "20261110",
+    "file": "namibia-v20261110.pkg",
+    "size": 25544872,
+    "sha256": "2e4f5ea806e87deb5df1385d72e049d5c7b890170fbbda2cc95754502d978065",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 16,
+    "bounds": {
+      "minLat": -30.206859,
+      "minLon": 9.784615,
+      "maxLat": -16.91682,
+      "maxLon": 25.265894
+    },
+    "country": "Namibia"
+  },
+  {
     "id": "nauru",
     "region": "nauru",
     "name": "Nauru",
