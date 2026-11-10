@@ -1195,6 +1195,26 @@
     "country": "Monaco"
   },
   {
+    "id": "mongolia",
+    "region": "mongolia",
+    "name": "Mongolia",
+    "version": "20261110",
+    "file": "mongolia-v20261110.pkg",
+    "size": 35762885,
+    "sha256": "86b2c8228a467ce11850797980159657ebdc5cc9891d97f568ad60f55af76404",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 16,
+    "bounds": {
+      "minLat": 41.500354,
+      "minLon": 87.70255,
+      "maxLat": 52.195825,
+      "maxLon": 120.020139
+    },
+    "country": "Mongolia"
+  },
+  {
     "id": "montenegro",
     "region": "montenegro",
     "name": "Montenegro",
