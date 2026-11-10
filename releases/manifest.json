@@ -325,6 +325,26 @@
     "country": "Equatorial Guinea"
   },
   {
+    "id": "eritrea",
+    "region": "eritrea",
+    "name": "Eritrea",
+    "version": "20261110",
+    "file": "eritrea-v20261110.pkg",
+    "size": 12245853,
+    "sha256": "ad1524fdefa1c8855eb561390f9249da5d809cfaff23fd0ec5272c25ad7cb943",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 16,
+    "bounds": {
+      "minLat": 12.343852,
+      "minLon": 36.420705,
+      "maxLat": 18.329616,
+      "maxLon": 43.346016
+    },
+    "country": "Eritrea"
+  },
+  {
     "id": "faroe-islands",
     "region": "faroe-islands",
     "name": "Faroe Islands",
