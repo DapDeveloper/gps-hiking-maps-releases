@@ -2315,6 +2315,26 @@
     "country": "Solomon Islands"
   },
   {
+    "id": "somalia",
+    "region": "somalia",
+    "name": "Somalia",
+    "version": "20261110",
+    "file": "somalia-v20261110.pkg",
+    "size": 58888568,
+    "sha256": "9724d766efb60bdf960637bf73aa47e4e96805232d8cd91aa67c4c1fa6171542",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 16,
+    "bounds": {
+      "minLat": -1.816753,
+      "minLon": 40.97489,
+      "maxLat": 12.710943,
+      "maxLon": 52.448708
+    },
+    "country": "Somalia"
+  },
+  {
     "id": "south-sudan",
     "region": "south-sudan",
     "name": "South Sudan",
