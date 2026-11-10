@@ -1315,6 +1315,26 @@
     "country": "Panama"
   },
   {
+    "id": "papua-new-guinea",
+    "region": "papua-new-guinea",
+    "name": "Papua New Guinea",
+    "version": "20261110",
+    "file": "papua-new-guinea-v20261110.pkg",
+    "size": 24363849,
+    "sha256": "f2b80cc453e79db5d98554e845a9f69429d43c96c9b30b3c37cb962246bd16a1",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 16,
+    "bounds": {
+      "minLat": -14.74845,
+      "minLon": 139.2014,
+      "maxLat": 2.587814,
+      "maxLon": 162.8034
+    },
+    "country": "Papua New Guinea"
+  },
+  {
     "id": "piemonte",
     "region": "piemonte",
     "name": "Piemonte",
