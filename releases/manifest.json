@@ -1485,6 +1485,26 @@
     "country": "Macedonia"
   },
   {
+    "id": "malawi",
+    "region": "malawi",
+    "name": "Malawi",
+    "version": "20261110",
+    "file": "malawi-v20261110.pkg",
+    "size": 37856044,
+    "sha256": "34030bdf7bce1263a1118507aa313d8c31012fade19deec005cdf9567a0ce701",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 16,
+    "bounds": {
+      "minLat": -17.133244,
+      "minLon": 32.664413,
+      "maxLat": -9.362691,
+      "maxLon": 35.929412
+    },
+    "country": "Malawi"
+  },
+  {
     "id": "maldives",
     "region": "maldives",
     "name": "Maldives",
