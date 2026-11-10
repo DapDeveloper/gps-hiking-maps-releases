@@ -2772,12 +2772,12 @@
     "id": "trentino",
     "region": "trentino",
     "name": "Trentino-Alto Adige",
-    "version": "20261029",
-    "file": "trentino-v20261029.pkg",
-    "size": 45235693,
-    "sha256": "63657602ee8ef20d03238229ef40505f223f36e9b089acea757bbf4142b00199",
+    "version": "20261110",
+    "file": "trentino-v20261110.pkg",
+    "size": 47600889,
+    "sha256": "5d71a7d668d7016de1bd2231cf86d2f47f5591de2e27e19165ede886ff820014",
     "format": "hlv1",
-    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife \u00b7 Official trails: \u00a9 Club Alpino Italiano (CAI) \u2014 INFOMONT (infomont.cai.it), ODbL 1.0 \u00b7 \u00a9 Societ\u00e0 degli Alpinisti Tridentini (SAT) \u2014 sat.tn.it, ODbL 1.0",
     "minZoom": 7,
     "maxZoom": 20,
     "bounds": {
@@ -2786,12 +2786,16 @@
       "maxLat": 47.112,
       "maxLon": 12.498
     },
+    "country": "Italy",
+    "trail_sources": [
+      "CAI",
+      "SAT"
+    ],
     "dem": {
-      "file": "trentino-v20261029-dem.dem",
+      "file": "trentino-v20261110-dem.dem",
       "size": 6574722,
-      "sha256": "c69b10ba886e918c3b484878a1fa658078877acfad537209ad72fec631ab460f"
-    },
-    "country": "Italy"
+      "sha256": "4cd0c66a115345b94ede6405a1c0c118ff14f69e766bbec221e9e2c75665a4b2"
+    }
   },
   {
     "id": "tunisia",
