@@ -1415,6 +1415,26 @@
     "country": "Nicaragua"
   },
   {
+    "id": "niger",
+    "region": "niger",
+    "name": "Niger",
+    "version": "20261110",
+    "file": "niger-v20261110.pkg",
+    "size": 24071364,
+    "sha256": "80a97113e71ce7174046c9e092854626f975106cffdc04c5b57882c54c48121b",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 16,
+    "bounds": {
+      "minLat": 11.686838,
+      "minLon": 0.119721,
+      "maxLat": 23.56864,
+      "maxLon": 16.05605
+    },
+    "country": "Niger"
+  },
+  {
     "id": "niue",
     "region": "niue",
     "name": "Niue",
