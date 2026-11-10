@@ -955,6 +955,26 @@
     "country": "Liberia"
   },
   {
+    "id": "libya",
+    "region": "libya",
+    "name": "Libya",
+    "version": "20261110",
+    "file": "libya-v20261110.pkg",
+    "size": 22024261,
+    "sha256": "43555c268cd65f4fab243acc05411d10aeafdda4fac77d68a4776204c7550ee0",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 16,
+    "bounds": {
+      "minLat": 19.45087,
+      "minLon": 9.374405,
+      "maxLat": 33.57972,
+      "maxLon": 25.407256
+    },
+    "country": "Libya"
+  },
+  {
     "id": "liechtenstein",
     "region": "liechtenstein",
     "name": "Liechtenstein",
