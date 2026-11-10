@@ -625,6 +625,26 @@
     "country": "Italy"
   },
   {
+    "id": "macedonia",
+    "region": "macedonia",
+    "name": "Macedonia",
+    "version": "20261110",
+    "file": "macedonia-v20261110.pkg",
+    "size": 10160603,
+    "sha256": "07d92e6f6823c80c0418fbdc6f3014b8f107e06ac726255f4710f18e54498e9a",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 16,
+    "bounds": {
+      "minLat": 40.84759,
+      "minLon": 20.44671,
+      "maxLat": 42.37969,
+      "maxLon": 23.04012
+    },
+    "country": "Macedonia"
+  },
+  {
     "id": "maldives",
     "region": "maldives",
     "name": "Maldives",
