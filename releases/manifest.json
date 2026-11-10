@@ -943,12 +943,12 @@
     "id": "friuli-venezia-giulia",
     "region": "friuli-venezia-giulia",
     "name": "Friuli-Venezia Giulia",
-    "version": "20261029",
-    "file": "friuli-venezia-giulia-v20261029.pkg",
-    "size": 21393353,
-    "sha256": "cd30c0663593f29140fdfca548e0996b4ce528e72c68382b86bc5b1fda61526f",
+    "version": "20261110",
+    "file": "friuli-venezia-giulia-v20261110.pkg",
+    "size": 22024694,
+    "sha256": "745c5c001bde1e37ee9e9a354919550faee855baa27241a4dcaf40b0b91fcc0f",
     "format": "hlv1",
-    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife \u00b7 Official trails: \u00a9 Club Alpino Italiano (CAI) \u2014 INFOMONT (infomont.cai.it), ODbL 1.0",
     "minZoom": 7,
     "maxZoom": 20,
     "bounds": {
@@ -957,12 +957,15 @@
       "maxLat": 46.668,
       "maxLon": 13.939
     },
+    "country": "Italy",
+    "trail_sources": [
+      "CAI"
+    ],
     "dem": {
-      "file": "friuli-venezia-giulia-v20261029-dem.dem",
+      "file": "friuli-venezia-giulia-v20261110-dem.dem",
       "size": 2655300,
-      "sha256": "da41d0eab1037fbc10e70f5f6eeff94d824f9eb0c835e07351225f9d1f7fb93a"
-    },
-    "country": "Italy"
+      "sha256": "be962c2e382a86cd19fbc97df9e75d46d17ab16bb7a2775d9b7baa5579a3289f"
+    }
   },
   {
     "id": "gabon",
