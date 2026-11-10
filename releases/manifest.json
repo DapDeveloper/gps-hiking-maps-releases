@@ -85,6 +85,26 @@
     "country": "Antarctica"
   },
   {
+    "id": "azerbaijan",
+    "region": "azerbaijan",
+    "name": "Azerbaijan",
+    "version": "20261110",
+    "file": "azerbaijan-v20261110.pkg",
+    "size": 286037276,
+    "sha256": "5e7a0e40cef19037e27843b7eec2be79971dedc32da8d74d89828f6607f4bdb0",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 16,
+    "bounds": {
+      "minLat": 38.247274,
+      "minLon": 44.750061,
+      "maxLat": 42.674367,
+      "maxLon": 51.723097
+    },
+    "country": "Azerbaijan"
+  },
+  {
     "id": "bahamas",
     "region": "bahamas",
     "name": "Bahamas",
