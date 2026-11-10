@@ -915,6 +915,26 @@
     "country": "Monaco"
   },
   {
+    "id": "montenegro",
+    "region": "montenegro",
+    "name": "Montenegro",
+    "version": "20261110",
+    "file": "montenegro-v20261110.pkg",
+    "size": 8986613,
+    "sha256": "92e266bc345a7cf31899e5eae695abb7f1a5ce6fa1e970bfea8c14607c890623",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 16,
+    "bounds": {
+      "minLat": 41.61621,
+      "minLon": 18.17282,
+      "maxLat": 43.562169,
+      "maxLon": 20.358827
+    },
+    "country": "Montenegro"
+  },
+  {
     "id": "nauru",
     "region": "nauru",
     "name": "Nauru",
