@@ -195,6 +195,26 @@
     "country": "Italy"
   },
   {
+    "id": "cambodia",
+    "region": "cambodia",
+    "name": "Cambodia",
+    "version": "20261110",
+    "file": "cambodia-v20261110.pkg",
+    "size": 16514993,
+    "sha256": "7a2ca98faf467ea2aba43def10d2c6d53c72795aedb0be7789bc796f3c9eef97",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 16,
+    "bounds": {
+      "minLat": 8.858092,
+      "minLon": 101.852218,
+      "maxLat": 14.71875,
+      "maxLon": 107.639734
+    },
+    "country": "Cambodia"
+  },
+  {
     "id": "campania",
     "region": "campania",
     "name": "Campania",
