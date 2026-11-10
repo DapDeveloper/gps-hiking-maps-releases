@@ -170,6 +170,26 @@
     "country": "Italy"
   },
   {
+    "id": "ile-de-clipperton",
+    "region": "ile-de-clipperton",
+    "name": "\u00cele de Clipperton",
+    "version": "20261110",
+    "file": "ile-de-clipperton-v20261110.pkg",
+    "size": 14424,
+    "sha256": "946e684b7d2260b219acc5f1ec1e875e915d6178875b98e32bab39ebeaa21a48",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 9.595339,
+      "minLon": -110.121465,
+      "maxLat": 11.156851,
+      "maxLon": -108.374639
+    },
+    "country": "\u00cele de Clipperton"
+  },
+  {
     "id": "lazio",
     "region": "lazio",
     "name": "Lazio",
