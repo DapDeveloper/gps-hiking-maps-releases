@@ -355,6 +355,26 @@
     "country": "Nauru"
   },
   {
+    "id": "niue",
+    "region": "niue",
+    "name": "Niue",
+    "version": "20261110",
+    "file": "niue-v20261110.pkg",
+    "size": 119875,
+    "sha256": "d0668fe148b05cd5cfe862015cfa9dcf7afaf9bf0530333dbf1ffaac78480b38",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": -22.47347,
+      "minLon": -172.027,
+      "maxLat": -16.63667,
+      "maxLon": -166.2989
+    },
+    "country": "Niue"
+  },
+  {
     "id": "piemonte",
     "region": "piemonte",
     "name": "Piemonte",
