@@ -1884,12 +1884,12 @@
     "id": "molise",
     "region": "molise",
     "name": "Molise",
-    "version": "20261029",
-    "file": "molise-v20261029.pkg",
-    "size": 10430264,
-    "sha256": "8a426c518edcb96a721daae4845d9d4dfa4fdedf45de51443333b04263ef409f",
+    "version": "20261110",
+    "file": "molise-v20261110.pkg",
+    "size": 10447612,
+    "sha256": "85aeb5f38706f7d1da229859ba98b5e7b04ad97952c462cb1d1a38f997727edc",
     "format": "hlv1",
-    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife \u00b7 Official trails: \u00a9 Club Alpino Italiano (CAI) \u2014 INFOMONT (infomont.cai.it), ODbL 1.0",
     "minZoom": 7,
     "maxZoom": 20,
     "bounds": {
@@ -1898,12 +1898,15 @@
       "maxLat": 42.09,
       "maxLon": 15.182
     },
+    "country": "Italy",
+    "trail_sources": [
+      "CAI"
+    ],
     "dem": {
-      "file": "molise-v20261029-dem.dem",
+      "file": "molise-v20261110-dem.dem",
       "size": 1717540,
-      "sha256": "42b02e6af4183d69b27e925e4ba57dbfd721703ada15c08b35d177689cc9f0e7"
-    },
-    "country": "Italy"
+      "sha256": "2c247eccec950213114555729ef44600d7129f27c3f8a4aafa585a6c80a4e502"
+    }
   },
   {
     "id": "monaco",
