@@ -1985,6 +1985,26 @@
     "country": "Italy"
   },
   {
+    "id": "tunisia",
+    "region": "tunisia",
+    "name": "Tunisia",
+    "version": "20261110",
+    "file": "tunisia-v20261110.pkg",
+    "size": 19663050,
+    "sha256": "ee1a3b4f202f0672e82e111c700a7886ae29475aab497708172382ae6c496ae2",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 16,
+    "bounds": {
+      "minLat": 30.208642,
+      "minLon": 7.513961,
+      "maxLat": 37.941381,
+      "maxLon": 12.127679
+    },
+    "country": "Tunisia"
+  },
+  {
     "id": "turkmenistan",
     "region": "turkmenistan",
     "name": "Turkmenistan",
