@@ -3,12 +3,12 @@
     "id": "abruzzo",
     "region": "abruzzo",
     "name": "Abruzzo",
-    "version": "20261029",
-    "file": "abruzzo-v20261029.pkg",
-    "size": 28104700,
-    "sha256": "977d7ca7e10505c069a8c0ecadb9a5a7949dcf9da362abd3d3728ccaa670ad1e",
+    "version": "20261110",
+    "file": "abruzzo-v20261110.pkg",
+    "size": 28350059,
+    "sha256": "4ad23804fcbd42ece032c511bcb345fe24d8fce4d616d6e07c12e1c18f1f4bc8",
     "format": "hlv1",
-    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife \u00b7 Official trails: \u00a9 Club Alpino Italiano (CAI) \u2014 INFOMONT (infomont.cai.it), ODbL 1.0",
     "minZoom": 7,
     "maxZoom": 20,
     "bounds": {
@@ -17,12 +17,15 @@
       "maxLat": 42.915,
       "maxLon": 14.804
     },
+    "country": "Italy",
+    "trail_sources": [
+      "CAI"
+    ],
     "dem": {
-      "file": "abruzzo-v20261029-dem.dem",
+      "file": "abruzzo-v20261110-dem.dem",
       "size": 3648603,
-      "sha256": "382bf651a08105048995ba0f6433b9c63e1429cb7491109e7f3e543851dc6236"
-    },
-    "country": "Italy"
+      "sha256": "5a26e03565423ba94b14a0715a0668b335dfe801a8731a72646db86232701806"
+    }
   },
   {
     "id": "afghanistan",
