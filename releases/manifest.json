@@ -25,6 +25,26 @@
     "country": "Italy"
   },
   {
+    "id": "albania",
+    "region": "albania",
+    "name": "Albania",
+    "version": "20261110",
+    "file": "albania-v20261110.pkg",
+    "size": 13907777,
+    "sha256": "a80aadbdca44320e268ed2d220df075167f6d6c2797bff30ea15f59f125bdb2f",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 16,
+    "bounds": {
+      "minLat": 39.627375,
+      "minLon": 18.896483,
+      "maxLat": 42.663125,
+      "maxLon": 21.062851
+    },
+    "country": "Albania"
+  },
+  {
     "id": "american-oceania",
     "region": "american-oceania",
     "name": "American Oceania",
