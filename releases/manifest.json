@@ -455,6 +455,26 @@
     "country": "Italy"
   },
   {
+    "id": "tokelau",
+    "region": "tokelau",
+    "name": "Tokelau",
+    "version": "20261110",
+    "file": "tokelau-v20261110.pkg",
+    "size": 49791,
+    "sha256": "3b7564c323e70c0e8a626f6c719b1a2cf88ffeab35989c237f87768c5d1abf88",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": -11.081374,
+      "minLon": -176.857932,
+      "maxLat": -6.664586,
+      "maxLon": -167.40969
+    },
+    "country": "Tokelau"
+  },
+  {
     "id": "toscana",
     "region": "toscana",
     "name": "Toscana",
