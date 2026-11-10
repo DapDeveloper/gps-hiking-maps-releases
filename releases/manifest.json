@@ -865,6 +865,26 @@
     "country": "Italy"
   },
   {
+    "id": "luxembourg",
+    "region": "luxembourg",
+    "name": "Luxembourg",
+    "version": "20261110",
+    "file": "luxembourg-v20261110.pkg",
+    "size": 8997242,
+    "sha256": "e13b9fa789dda60a11c65385a53895e6c15b9951835d10d803ee0492bdd0035d",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 16,
+    "bounds": {
+      "minLat": 49.44553,
+      "minLon": 5.733033,
+      "maxLat": 50.18496,
+      "maxLon": 6.532249
+    },
+    "country": "Luxembourg"
+  },
+  {
     "id": "macedonia",
     "region": "macedonia",
     "name": "Macedonia",
