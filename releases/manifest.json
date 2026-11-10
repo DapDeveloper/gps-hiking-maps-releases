@@ -460,6 +460,26 @@
     "country": "Central African Republic"
   },
   {
+    "id": "chad",
+    "region": "chad",
+    "name": "Chad",
+    "version": "20261110",
+    "file": "chad-v20261110.pkg",
+    "size": 30847234,
+    "sha256": "b71c80e05d3b55d8c56da3bb6b2b22268a8abe0139068dac9d457b64377c0d23",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 16,
+    "bounds": {
+      "minLat": 7.428518,
+      "minLon": 13.40129,
+      "maxLat": 23.537926,
+      "maxLon": 24.025266
+    },
+    "country": "Chad"
+  },
+  {
     "id": "congo-brazzaville",
     "region": "congo-brazzaville",
     "name": "Congo (Republic/Brazzaville)",
