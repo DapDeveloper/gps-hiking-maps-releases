@@ -900,6 +900,26 @@
     "country": "Pitcairn Islands"
   },
   {
+    "id": "polynesie-francaise",
+    "region": "polynesie-francaise",
+    "name": "Polyn\u00e9sie fran\u00e7aise (French Polynesia)",
+    "version": "20261110",
+    "file": "polynesie-francaise-v20261110.pkg",
+    "size": 3064482,
+    "sha256": "3e9d2fb36af9d0f770bddf7f700dab1c2568cc594a779c4f8ff7aaa0878660a2",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 16,
+    "bounds": {
+      "minLat": -31.541052,
+      "minLon": -158.554731,
+      "maxLat": -4.915789,
+      "maxLon": -132.539106
+    },
+    "country": "Polyn\u00e9sie fran\u00e7aise (French Polynesia)"
+  },
+  {
     "id": "puglia",
     "region": "puglia",
     "name": "Puglia",
