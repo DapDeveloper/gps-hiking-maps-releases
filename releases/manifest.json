@@ -210,6 +210,26 @@
     "country": "\u00cele de Clipperton"
   },
   {
+    "id": "kiribati",
+    "region": "kiribati",
+    "name": "Kiribati",
+    "version": "20261110",
+    "file": "kiribati-v20261110.pkg",
+    "size": 586005,
+    "sha256": "d542f215645db3a77dcf38eb0d976b31e8b0e4e547647d9b90574faef6ae027f",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": -13.83833,
+      "minLon": -180.0,
+      "maxLat": 7.879056,
+      "maxLon": 180.0
+    },
+    "country": "Kiribati"
+  },
+  {
     "id": "lazio",
     "region": "lazio",
     "name": "Lazio",
