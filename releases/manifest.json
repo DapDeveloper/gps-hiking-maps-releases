@@ -1010,6 +1010,26 @@
     "country": "Iraq"
   },
   {
+    "id": "israel-and-palestine",
+    "region": "israel-and-palestine",
+    "name": "Israel and Palestine",
+    "version": "20261110",
+    "file": "israel-and-palestine-v20261110.pkg",
+    "size": 24487759,
+    "sha256": "5f243fa620f1f5fe50a649f850d5de89d8db244365fef1a88c9e8e87f2ba248f",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 16,
+    "bounds": {
+      "minLat": 29.439598,
+      "minLon": 33.999936,
+      "maxLat": 33.454362,
+      "maxLon": 35.91531
+    },
+    "country": "Israel and Palestine"
+  },
+  {
     "id": "ivory-coast",
     "region": "ivory-coast",
     "name": "Ivory Coast",
