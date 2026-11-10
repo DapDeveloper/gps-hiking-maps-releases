@@ -1559,12 +1559,12 @@
     "id": "liguria",
     "region": "liguria",
     "name": "Liguria",
-    "version": "20261029",
-    "file": "liguria-v20261029.pkg",
-    "size": 24103121,
-    "sha256": "f6be8dfcbdeaecb1000728383d4087c99533d45aaab9a8a52be373f575726a8d",
+    "version": "20261110",
+    "file": "liguria-v20261110.pkg",
+    "size": 24941649,
+    "sha256": "bbef8225e3f02daa12137f210196744cf86be34cf2d0843792b28a13c198b3db",
     "format": "hlv1",
-    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife \u00b7 Official trails: \u00a9 Club Alpino Italiano (CAI) \u2014 INFOMONT (infomont.cai.it), ODbL 1.0",
     "minZoom": 7,
     "maxZoom": 20,
     "bounds": {
@@ -1573,12 +1573,15 @@
       "maxLat": 44.696,
       "maxLon": 10.092
     },
+    "country": "Italy",
+    "trail_sources": [
+      "CAI"
+    ],
     "dem": {
-      "file": "liguria-v20261029-dem.dem",
+      "file": "liguria-v20261110-dem.dem",
       "size": 2900932,
-      "sha256": "1567d9a9e2550f6d0107786efd8938e55e877267752d635e1c934435267ee763"
-    },
-    "country": "Italy"
+      "sha256": "afe4b480b465eb23f3e7165f17b52684c308aac2d8dfecf7f1b0de463e83f38a"
+    }
   },
   {
     "id": "lithuania",
