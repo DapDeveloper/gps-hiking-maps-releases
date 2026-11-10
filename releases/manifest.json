@@ -745,6 +745,26 @@
     "country": "Estonia"
   },
   {
+    "id": "ethiopia",
+    "region": "ethiopia",
+    "name": "Ethiopia",
+    "version": "20261110",
+    "file": "ethiopia-v20261110.pkg",
+    "size": 48531249,
+    "sha256": "e5250bbc6944937d5392b5446c742f18c75812da5b9a6e5e4a2defc09b903557",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 16,
+    "bounds": {
+      "minLat": 3.389192,
+      "minLon": 32.967223,
+      "maxLat": 14.916257,
+      "maxLon": 48.005447
+    },
+    "country": "Ethiopia"
+  },
+  {
     "id": "faroe-islands",
     "region": "faroe-islands",
     "name": "Faroe Islands",
