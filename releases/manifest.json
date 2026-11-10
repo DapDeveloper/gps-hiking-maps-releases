@@ -1275,6 +1275,26 @@
     "country": "New Caledonia"
   },
   {
+    "id": "nicaragua",
+    "region": "nicaragua",
+    "name": "Nicaragua",
+    "version": "20261110",
+    "file": "nicaragua-v20261110.pkg",
+    "size": 25252568,
+    "sha256": "0f2e8a569b17996a7c731e7616d327503fe77d3e91ca6b59dbd2c9f9b850c87a",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 16,
+    "bounds": {
+      "minLat": 10.701768,
+      "minLon": -87.977402,
+      "maxLat": 15.111903,
+      "maxLon": -82.378654
+    },
+    "country": "Nicaragua"
+  },
+  {
     "id": "niue",
     "region": "niue",
     "name": "Niue",
