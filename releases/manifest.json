@@ -1607,12 +1607,12 @@
     "id": "lombardia",
     "region": "lombardia",
     "name": "Lombardia",
-    "version": "20261029",
-    "file": "lombardia-v20261029.pkg",
-    "size": 70897536,
-    "sha256": "059bce7df84b5d1a802d4d692dbdd9a11ae87e2270abd35cfa3947f41ee08fd9",
+    "version": "20261110",
+    "file": "lombardia-v20261110.pkg",
+    "size": 73752382,
+    "sha256": "58410501b3b3b4ea355dc32bcad2dad8d6080bc153dc08ef8c0ad83cb12c2297",
     "format": "hlv1",
-    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife \u00b7 Official trails: \u00a9 Club Alpino Italiano (CAI) \u2014 INFOMONT (infomont.cai.it), ODbL 1.0 \u00b7 \u00a9 Societ\u00e0 degli Alpinisti Tridentini (SAT) \u2014 sat.tn.it, ODbL 1.0",
     "minZoom": 7,
     "maxZoom": 20,
     "bounds": {
@@ -1621,12 +1621,16 @@
       "maxLat": 46.655,
       "maxLon": 11.448
     },
+    "country": "Italy",
+    "trail_sources": [
+      "CAI",
+      "SAT"
+    ],
     "dem": {
-      "file": "lombardia-v20261029-dem.dem",
+      "file": "lombardia-v20261110-dem.dem",
       "size": 9012308,
-      "sha256": "f0716ebd25ec442e9449e9290345e0b6858b901e3cf6f5ccc625bf21e274a296"
-    },
-    "country": "Italy"
+      "sha256": "7c3d3e4d331085be7237470b1cf4efc18a1d970f39deab3ccb8a0a9bbbc19b02"
+    }
   },
   {
     "id": "luxembourg",
