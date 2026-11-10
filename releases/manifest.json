@@ -2410,6 +2410,26 @@
     "country": "Uruguay"
   },
   {
+    "id": "uzbekistan",
+    "region": "uzbekistan",
+    "name": "Uzbekistan",
+    "version": "20261110",
+    "file": "uzbekistan-v20261110.pkg",
+    "size": 39522990,
+    "sha256": "0328801c42c7292924e83c483fd02f794a5b7dcc51a4e361d290c50af640aa82",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 16,
+    "bounds": {
+      "minLat": 37.16636,
+      "minLon": 55.97708,
+      "maxLat": 45.618841,
+      "maxLon": 73.17463
+    },
+    "country": "Uzbekistan"
+  },
+  {
     "id": "valle-d-aosta",
     "region": "valle-d-aosta",
     "name": "Valle d'Aosta",
