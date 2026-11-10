@@ -2453,6 +2453,26 @@
     "country": "Senegal and Gambia"
   },
   {
+    "id": "serbia",
+    "region": "serbia",
+    "name": "Serbia",
+    "version": "20261110",
+    "file": "serbia-v20261110.pkg",
+    "size": 47922768,
+    "sha256": "03ba49c6b05558bbb6a9041a62b89263f8ad2fe56aae7edb9f3db83c72d30f9a",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 16,
+    "bounds": {
+      "minLat": 42.229789,
+      "minLon": 18.808937,
+      "maxLat": 46.192072,
+      "maxLon": 23.010349
+    },
+    "country": "Serbia"
+  },
+  {
     "id": "seychelles",
     "region": "seychelles",
     "name": "Seychelles",
