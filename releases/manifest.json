@@ -360,6 +360,26 @@
     "country": "Italy"
   },
   {
+    "id": "pitcairn-islands",
+    "region": "pitcairn-islands",
+    "name": "Pitcairn Islands",
+    "version": "20261110",
+    "file": "pitcairn-islands-v20261110.pkg",
+    "size": 56246,
+    "sha256": "b9069f2549bdaecf777f9f9e11456f095111ac9cfd6be1bfea7d7fdc8013fa85",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": -27.66403,
+      "minLon": -133.066428,
+      "maxLat": -21.59613,
+      "maxLon": -118.344771
+    },
+    "country": "Pitcairn Islands"
+  },
+  {
     "id": "puglia",
     "region": "puglia",
     "name": "Puglia",
