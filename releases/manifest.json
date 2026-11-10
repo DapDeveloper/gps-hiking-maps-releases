@@ -25,6 +25,26 @@
     "country": "Italy"
   },
   {
+    "id": "afghanistan",
+    "region": "afghanistan",
+    "name": "Afghanistan",
+    "version": "20261110",
+    "file": "afghanistan-v20261110.pkg",
+    "size": 31623745,
+    "sha256": "50d8cda57484bb6c018c8df90b3dd03f2540c7c347f498c9b33836a22cf67cbf",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 16,
+    "bounds": {
+      "minLat": 29.368563,
+      "minLon": 60.48761,
+      "maxLat": 38.50674,
+      "maxLon": 74.90017
+    },
+    "country": "Afghanistan"
+  },
+  {
     "id": "albania",
     "region": "albania",
     "name": "Albania",
