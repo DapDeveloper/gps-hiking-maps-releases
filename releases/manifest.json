@@ -419,12 +419,12 @@
     "id": "calabria",
     "region": "calabria",
     "name": "Calabria",
-    "version": "20261029",
-    "file": "calabria-v20261029.pkg",
-    "size": 16400351,
-    "sha256": "67c17ec97070d53ee40d61bbacfd56911e9fa62d0d3602a25f1c902d6012c53e",
+    "version": "20261110",
+    "file": "calabria-v20261110.pkg",
+    "size": 16599817,
+    "sha256": "4e4da6e7cd556936ce977bcf2c157a382acb7c7adf8df8aee68939cab0097690",
     "format": "hlv1",
-    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife \u00b7 Official trails: \u00a9 Club Alpino Italiano (CAI) \u2014 INFOMONT (infomont.cai.it), ODbL 1.0",
     "minZoom": 7,
     "maxZoom": 20,
     "bounds": {
@@ -433,12 +433,15 @@
       "maxLat": 40.165,
       "maxLon": 17.226
     },
+    "country": "Italy",
+    "trail_sources": [
+      "CAI"
+    ],
     "dem": {
-      "file": "calabria-v20261029-dem.dem",
+      "file": "calabria-v20261110-dem.dem",
       "size": 3464315,
-      "sha256": "b6300f34e770d35572f7f82cc5732cc9fbbfb8d3990419192b38ffbfe1797dbe"
-    },
-    "country": "Italy"
+      "sha256": "a59cf2f1b5aff7305010c40b4d48d9eb1d14e88093907862e2747a2a2a15ab6f"
+    }
   },
   {
     "id": "cambodia",
