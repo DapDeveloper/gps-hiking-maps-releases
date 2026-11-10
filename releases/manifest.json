@@ -290,6 +290,26 @@
     "country": "Bhutan"
   },
   {
+    "id": "bosnia-herzegovina",
+    "region": "bosnia-herzegovina",
+    "name": "Bosnia-Herzegovina",
+    "version": "20261110",
+    "file": "bosnia-herzegovina-v20261110.pkg",
+    "size": 37099218,
+    "sha256": "f8f6ec94047b4d9cd23b63133f864bd01d0c2cf3ebe29303c37504ea6a8dcdb5",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 16,
+    "bounds": {
+      "minLat": 42.552385,
+      "minLon": 15.715599,
+      "maxLat": 45.278027,
+      "maxLon": 19.626388
+    },
+    "country": "Bosnia-Herzegovina"
+  },
+  {
     "id": "botswana",
     "region": "botswana",
     "name": "Botswana",
