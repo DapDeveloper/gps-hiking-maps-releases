@@ -420,6 +420,26 @@
     "country": "Cape Verde"
   },
   {
+    "id": "central-african-republic",
+    "region": "central-african-republic",
+    "name": "Central African Republic",
+    "version": "20261110",
+    "file": "central-african-republic-v20261110.pkg",
+    "size": 51726319,
+    "sha256": "9250549b7e09ddf24f63d64b5a75e8f5f963c8c079ce2937a65b65895b09eec3",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 16,
+    "bounds": {
+      "minLat": 2.208735,
+      "minLon": 14.409084,
+      "maxLat": 11.032637,
+      "maxLon": 27.475776
+    },
+    "country": "Central African Republic"
+  },
+  {
     "id": "congo-brazzaville",
     "region": "congo-brazzaville",
     "name": "Congo (Republic/Brazzaville)",
