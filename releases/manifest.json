@@ -890,6 +890,26 @@
     "country": "\u00cele de Clipperton"
   },
   {
+    "id": "iraq",
+    "region": "iraq",
+    "name": "Iraq",
+    "version": "20261110",
+    "file": "iraq-v20261110.pkg",
+    "size": 44899262,
+    "sha256": "a1fb1b26ff9965c5f70c80329a8c24cb0caa2e2be362018598a4738f4bcda5aa",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 16,
+    "bounds": {
+      "minLat": 29.01775,
+      "minLon": 38.784,
+      "maxLat": 37.39063,
+      "maxLon": 49.551084
+    },
+    "country": "Iraq"
+  },
+  {
     "id": "ivory-coast",
     "region": "ivory-coast",
     "name": "Ivory Coast",
