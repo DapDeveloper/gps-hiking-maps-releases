@@ -810,6 +810,26 @@
     "country": "Guyane"
   },
   {
+    "id": "haiti-and-domrep",
+    "region": "haiti-and-domrep",
+    "name": "Haiti and Dominican Republic",
+    "version": "20261110",
+    "file": "haiti-and-domrep-v20261110.pkg",
+    "size": 18299431,
+    "sha256": "78f091a32e3d79582171d6870498c0ca9fca080f0bb5b1b8a9c29742224fa2e9",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 16,
+    "bounds": {
+      "minLat": 16.999014,
+      "minLon": -74.82529,
+      "maxLat": 21.453074,
+      "maxLon": -68.054815
+    },
+    "country": "Haiti and Dominican Republic"
+  },
+  {
     "id": "honduras",
     "region": "honduras",
     "name": "Honduras",
