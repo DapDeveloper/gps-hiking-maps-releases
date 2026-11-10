@@ -280,6 +280,26 @@
     "country": "Cook Islands"
   },
   {
+    "id": "cyprus",
+    "region": "cyprus",
+    "name": "Cyprus",
+    "version": "20261110",
+    "file": "cyprus-v20261110.pkg",
+    "size": 10760156,
+    "sha256": "1affeb2600d7c2674bcd73f31c2a7e133c1dab4c50f13dc214b5996b9bd059a7",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 16,
+    "bounds": {
+      "minLat": 34.23374,
+      "minLon": 31.95244,
+      "maxLat": 36.00323,
+      "maxLon": 34.96147
+    },
+    "country": "Cyprus"
+  },
+  {
     "id": "djibouti",
     "region": "djibouti",
     "name": "Djibouti",
