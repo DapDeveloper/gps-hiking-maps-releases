@@ -2540,6 +2540,26 @@
     "country": "Italy"
   },
   {
+    "id": "venezuela",
+    "region": "venezuela",
+    "name": "Venezuela",
+    "version": "20261110",
+    "file": "venezuela-v20261110.pkg",
+    "size": 67134308,
+    "sha256": "021def551af50e23add4ddf6afc3d99a5607ec335a3ce699e97eb0a396ffd47a",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 16,
+    "bounds": {
+      "minLat": 0.621727,
+      "minLon": -73.38098,
+      "maxLat": 16.66751,
+      "maxLon": -59.51474
+    },
+    "country": "Venezuela"
+  },
+  {
     "id": "wallis-et-futuna",
     "region": "wallis-et-futuna",
     "name": "Wallis et Futuna",
