@@ -610,6 +610,26 @@
     "country": "\u00cele de Clipperton"
   },
   {
+    "id": "jamaica",
+    "region": "jamaica",
+    "name": "Jamaica",
+    "version": "20261110",
+    "file": "jamaica-v20261110.pkg",
+    "size": 3890504,
+    "sha256": "76a058f1568be8181edf4ec6de6c46df6a3a63a715213fe71dd191feb1393301",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 16,
+    "bounds": {
+      "minLat": 16.35,
+      "minLon": -78.85,
+      "maxLat": 19.16,
+      "maxLon": -75.51
+    },
+    "country": "Jamaica"
+  },
+  {
     "id": "jordan",
     "region": "jordan",
     "name": "Jordan",
