@@ -1540,6 +1540,26 @@
     "country": "Italy"
   },
   {
+    "id": "lithuania",
+    "region": "lithuania",
+    "name": "Lithuania",
+    "version": "20261110",
+    "file": "lithuania-v20261110.pkg",
+    "size": 46171404,
+    "sha256": "b81559a7025f21de1b6e6a233bc7b89a65e8d28089279141d3b66a537ed5b743",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 16,
+    "bounds": {
+      "minLat": 53.892206,
+      "minLon": 20.618591,
+      "maxLat": 56.45329,
+      "maxLon": 26.83873
+    },
+    "country": "Lithuania"
+  },
+  {
     "id": "lombardia",
     "region": "lombardia",
     "name": "Lombardia",
