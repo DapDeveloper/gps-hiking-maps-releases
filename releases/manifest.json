@@ -1395,6 +1395,26 @@
     "country": "Italy"
   },
   {
+    "id": "sierra-leone",
+    "region": "sierra-leone",
+    "name": "Sierra Leone",
+    "version": "20261110",
+    "file": "sierra-leone-v20261110.pkg",
+    "size": 10034161,
+    "sha256": "df3b1c7b36ab3aa9f093620e97588065561d698cc8591fef941c38cc75cc68b0",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 16,
+    "bounds": {
+      "minLat": 5.391619,
+      "minLon": -14.76451,
+      "maxLat": 10.005706,
+      "maxLon": -10.2558
+    },
+    "country": "Sierra Leone"
+  },
+  {
     "id": "solomon-islands",
     "region": "solomon-islands",
     "name": "Solomon Islands",
