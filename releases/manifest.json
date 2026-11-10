@@ -750,6 +750,26 @@
     "country": "Gabon"
   },
   {
+    "id": "georgia",
+    "region": "georgia",
+    "name": "Georgia",
+    "version": "20261110",
+    "file": "georgia-v20261110.pkg",
+    "size": 30916259,
+    "sha256": "0c0c0b8286c844aa45511ff79d129cda32d2b916c59156b8edf65a2fd8579c84",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 16,
+    "bounds": {
+      "minLat": 41.05117,
+      "minLon": 39.88093,
+      "maxLat": 43.5899,
+      "maxLon": 46.73959
+    },
+    "country": "Georgia"
+  },
+  {
     "id": "greenland",
     "region": "greenland",
     "name": "Greenland",
