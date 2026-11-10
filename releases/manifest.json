@@ -2255,6 +2255,26 @@
     "country": "South Sudan"
   },
   {
+    "id": "sri-lanka",
+    "region": "sri-lanka",
+    "name": "Sri Lanka",
+    "version": "20261110",
+    "file": "sri-lanka-v20261110.pkg",
+    "size": 23154318,
+    "sha256": "d015e228576be9b0603f22c017b641de3ccad0680ecd2ab42ec15edcc40c96c6",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 16,
+    "bounds": {
+      "minLat": 5.621275,
+      "minLon": 79.16416,
+      "maxLat": 10.07153,
+      "maxLon": 82.64612
+    },
+    "country": "Sri Lanka"
+  },
+  {
     "id": "suriname",
     "region": "suriname",
     "name": "Suriname",
