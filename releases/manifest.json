@@ -2898,5 +2898,25 @@
       "maxLon": 55.511675
     },
     "country": "Yemen"
+  },
+  {
+    "id": "zimbabwe",
+    "region": "zimbabwe",
+    "name": "Zimbabwe",
+    "version": "20261110",
+    "file": "zimbabwe-v20261110.pkg",
+    "size": 42172263,
+    "sha256": "b9c297707d29448905f928bf6d54c246e889cfb5238a4db67624e89c31e12482",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 16,
+    "bounds": {
+      "minLat": -22.447246,
+      "minLon": 25.222896,
+      "maxLat": -15.587067,
+      "maxLon": 33.085415
+    },
+    "country": "Zimbabwe"
   }
 ]
