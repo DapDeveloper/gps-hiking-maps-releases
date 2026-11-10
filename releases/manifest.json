@@ -795,6 +795,26 @@
     "country": "Italy"
   },
   {
+    "id": "lebanon",
+    "region": "lebanon",
+    "name": "Lebanon",
+    "version": "20261110",
+    "file": "lebanon-v20261110.pkg",
+    "size": 7545714,
+    "sha256": "f0f50576bff8fe4954edad72afde584ee4aa20e0d97abc3cae93d9ecc79f1bd3",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 16,
+    "bounds": {
+      "minLat": 33.05299,
+      "minLon": 34.76799,
+      "maxLat": 34.802529,
+      "maxLon": 36.636657
+    },
+    "country": "Lebanon"
+  },
+  {
     "id": "liberia",
     "region": "liberia",
     "name": "Liberia",
