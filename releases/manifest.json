@@ -790,6 +790,26 @@
     "country": "Georgia"
   },
   {
+    "id": "ghana",
+    "region": "ghana",
+    "name": "Ghana",
+    "version": "20261110",
+    "file": "ghana-v20261110.pkg",
+    "size": 43289730,
+    "sha256": "6f5cb747aca62b3042ce21dd4e2af45e80e532d582348c50d9cc726defcb5c45",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 16,
+    "bounds": {
+      "minLat": 3.704056,
+      "minLon": -3.807399,
+      "maxLat": 11.177723,
+      "maxLon": 1.394038
+    },
+    "country": "Ghana"
+  },
+  {
     "id": "greenland",
     "region": "greenland",
     "name": "Greenland",
