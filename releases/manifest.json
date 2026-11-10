@@ -2195,6 +2195,26 @@
     "country": "Solomon Islands"
   },
   {
+    "id": "south-sudan",
+    "region": "south-sudan",
+    "name": "South Sudan",
+    "version": "20261110",
+    "file": "south-sudan-v20261110.pkg",
+    "size": 29013689,
+    "sha256": "4107835fe21f3cab8ba53cbac0c03e9490299533dce52b8ea876df28ce392138",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 16,
+    "bounds": {
+      "minLat": 3.461547,
+      "minLon": 23.424911,
+      "maxLat": 12.239366,
+      "maxLon": 35.962977
+    },
+    "country": "South Sudan"
+  },
+  {
     "id": "suriname",
     "region": "suriname",
     "name": "Suriname",
