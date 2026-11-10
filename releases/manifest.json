@@ -410,6 +410,26 @@
     "country": "Gabon"
   },
   {
+    "id": "greenland",
+    "region": "greenland",
+    "name": "Greenland",
+    "version": "20261110",
+    "file": "greenland-v20261110.pkg",
+    "size": 2101590443,
+    "sha256": "f79b17dcd70b26d4d4c51638f25756f5d7478af7963e73227771ead1e1d82838",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 14,
+    "bounds": {
+      "minLat": 58.60788,
+      "minLon": -75.3894,
+      "maxLat": 84.44358,
+      "maxLon": -9.454384
+    },
+    "country": "Greenland"
+  },
+  {
     "id": "guinea-bissau",
     "region": "guinea-bissau",
     "name": "Guinea-Bissau",
