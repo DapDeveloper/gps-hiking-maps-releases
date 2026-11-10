@@ -280,6 +280,26 @@
     "country": "Cook Islands"
   },
   {
+    "id": "costa-rica",
+    "region": "costa-rica",
+    "name": "Costa Rica",
+    "version": "20261110",
+    "file": "costa-rica-v20261110.pkg",
+    "size": 15322937,
+    "sha256": "dea7dc8822eb7551dc09da7df75825b5357930bf8340d41b9ab863aa901ab8f7",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 16,
+    "bounds": {
+      "minLat": 4.937746,
+      "minLon": -87.824729,
+      "maxLat": 11.223699,
+      "maxLon": -82.34952
+    },
+    "country": "Costa Rica"
+  },
+  {
     "id": "cyprus",
     "region": "cyprus",
     "name": "Cyprus",
