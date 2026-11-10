@@ -1545,6 +1545,26 @@
     "country": "Maldives"
   },
   {
+    "id": "mali",
+    "region": "mali",
+    "name": "Mali",
+    "version": "20261110",
+    "file": "mali-v20261110.pkg",
+    "size": 51919919,
+    "sha256": "f2d9a1994acb83def3828641918561355fab1e81162a3fa90f1461d9849138eb",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 16,
+    "bounds": {
+      "minLat": 10.117598,
+      "minLon": -12.24701,
+      "maxLat": 25.09499,
+      "maxLon": 4.330257
+    },
+    "country": "Mali"
+  },
+  {
     "id": "malta",
     "region": "malta",
     "name": "Malta",
