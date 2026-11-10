@@ -1756,12 +1756,12 @@
     "id": "marche",
     "region": "marche",
     "name": "Marche",
-    "version": "20261029",
-    "file": "marche-v20261029.pkg",
-    "size": 23279030,
-    "sha256": "d71dcd2a6260e6ff8c2eb1c1b70fb080fed334df0f914f21fc9dafcf341a40f6",
+    "version": "20261110",
+    "file": "marche-v20261110.pkg",
+    "size": 23891453,
+    "sha256": "22a8b30a4486ba3e1c3e0ad94575070d33d280b548b8ed32ef433d4d06c910c9",
     "format": "hlv1",
-    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife \u00b7 Official trails: \u00a9 Club Alpino Italiano (CAI) \u2014 INFOMONT (infomont.cai.it), ODbL 1.0",
     "minZoom": 7,
     "maxZoom": 20,
     "bounds": {
@@ -1770,12 +1770,15 @@
       "maxLat": 43.992,
       "maxLon": 13.936
     },
+    "country": "Italy",
+    "trail_sources": [
+      "CAI"
+    ],
     "dem": {
-      "file": "marche-v20261029-dem.dem",
+      "file": "marche-v20261110-dem.dem",
       "size": 3528598,
-      "sha256": "68440be8a27a3aff851b2e288b592fbbca52bc089a428b7a83e29b6543ca5941"
-    },
-    "country": "Italy"
+      "sha256": "56666c06bd22b88f3518d80bc60a4cf74adeb8133b8ef8fd6f9af303968f8720"
+    }
   },
   {
     "id": "marshall-islands",
