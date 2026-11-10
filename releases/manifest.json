@@ -170,6 +170,26 @@
     "country": "Belize"
   },
   {
+    "id": "benin",
+    "region": "benin",
+    "name": "Benin",
+    "version": "20261110",
+    "file": "benin-v20261110.pkg",
+    "size": 8849854,
+    "sha256": "a79e4f4746b2b39e0f6aa7a31b4c69df6e0f85d29994802390e90b6029280d12",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 16,
+    "bounds": {
+      "minLat": 5.984817,
+      "minLon": 0.761489,
+      "maxLat": 12.436577,
+      "maxLon": 3.861694
+    },
+    "country": "Benin"
+  },
+  {
     "id": "bhutan",
     "region": "bhutan",
     "name": "Bhutan",
