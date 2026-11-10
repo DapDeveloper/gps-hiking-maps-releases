@@ -1390,6 +1390,26 @@
     "country": "Micronesia"
   },
   {
+    "id": "moldova",
+    "region": "moldova",
+    "name": "Moldova",
+    "version": "20261110",
+    "file": "moldova-v20261110.pkg",
+    "size": 20651208,
+    "sha256": "4aa717c35435b6e64c7a409d41c543d2712efa96ebf3449a5528f8ce87b66cca",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 16,
+    "bounds": {
+      "minLat": 45.461636,
+      "minLon": 26.61232,
+      "maxLat": 48.493971,
+      "maxLon": 30.192489
+    },
+    "country": "Moldova"
+  },
+  {
     "id": "molise",
     "region": "molise",
     "name": "Molise",
