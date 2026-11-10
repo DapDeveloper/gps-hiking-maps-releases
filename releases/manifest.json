@@ -1678,5 +1678,25 @@
       "maxLon": -174.155295
     },
     "country": "Wallis et Futuna"
+  },
+  {
+    "id": "yemen",
+    "region": "yemen",
+    "name": "Yemen",
+    "version": "20261110",
+    "file": "yemen-v20261110.pkg",
+    "size": 17959868,
+    "sha256": "0d7b8ff7e763db76f633ba61e169d8bde94487df81d08d43c560ce337ba735b7",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 16,
+    "bounds": {
+      "minLat": 11.316153,
+      "minLon": 41.06894,
+      "maxLat": 19.03189,
+      "maxLon": 55.511675
+    },
+    "country": "Yemen"
   }
 ]
