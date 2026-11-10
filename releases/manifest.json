@@ -3123,6 +3123,26 @@
     "country": "Yemen"
   },
   {
+    "id": "zambia",
+    "region": "zambia",
+    "name": "Zambia",
+    "version": "20261110",
+    "file": "zambia-v20261110.pkg",
+    "size": 89860547,
+    "sha256": "6e2695fa13c8e6fa21b78e1c8e50e0603791b45e7cbd6144f669c3878cadd0e8",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 16,
+    "bounds": {
+      "minLat": -18.087769,
+      "minLon": 21.989822,
+      "maxLat": -8.239483,
+      "maxLon": 33.717727
+    },
+    "country": "Zambia"
+  },
+  {
     "id": "zimbabwe",
     "region": "zimbabwe",
     "name": "Zimbabwe",
