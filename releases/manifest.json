@@ -1228,6 +1228,26 @@
     "country": "\u00cele de Clipperton"
   },
   {
+    "id": "iran",
+    "region": "iran",
+    "name": "Iran",
+    "version": "20261110",
+    "file": "iran-v20261110.pkg",
+    "size": 391314021,
+    "sha256": "daebfeb24517fa7b8c6886b751bf0f51d5e57d1783a78901cbfccdafe40ef3a0",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 16,
+    "bounds": {
+      "minLat": 24.039475,
+      "minLon": 44.023033,
+      "maxLat": 39.790447,
+      "maxLon": 63.35413
+    },
+    "country": "Iran"
+  },
+  {
     "id": "iraq",
     "region": "iraq",
     "name": "Iraq",
