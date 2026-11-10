@@ -395,6 +395,26 @@
     "country": "Niue"
   },
   {
+    "id": "palau",
+    "region": "palau",
+    "name": "Palau",
+    "version": "20261110",
+    "file": "palau-v20261110.pkg",
+    "size": 297924,
+    "sha256": "a3118cb601e95d5140bd72cd3dc5a93896585b49c6fc2eddc11a306dc43f1885",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 1.621407,
+      "minLon": 129.5088,
+      "maxLat": 11.48818,
+      "maxLon": 136.9541
+    },
+    "country": "Palau"
+  },
+  {
     "id": "piemonte",
     "region": "piemonte",
     "name": "Piemonte",
