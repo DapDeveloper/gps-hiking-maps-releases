@@ -1310,6 +1310,26 @@
     "country": "Jordan"
   },
   {
+    "id": "kazakhstan",
+    "region": "kazakhstan",
+    "name": "Kazakhstan",
+    "version": "20261110",
+    "file": "kazakhstan-v20261110.pkg",
+    "size": 416990189,
+    "sha256": "736de0764c42c31df47ad2ed5dd3e2b217db20783c29d5e330fa0ecc4e711edf",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 16,
+    "bounds": {
+      "minLat": 40.553462,
+      "minLon": 46.42304,
+      "maxLat": 55.50799,
+      "maxLon": 87.35359
+    },
+    "country": "Kazakhstan"
+  },
+  {
     "id": "kiribati",
     "region": "kiribati",
     "name": "Kiribati",
