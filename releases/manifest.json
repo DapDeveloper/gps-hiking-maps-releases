@@ -420,6 +420,26 @@
     "country": "Costa Rica"
   },
   {
+    "id": "cuba",
+    "region": "cuba",
+    "name": "Cuba",
+    "version": "20261110",
+    "file": "cuba-v20261110.pkg",
+    "size": 20531612,
+    "sha256": "a22ead71469d0ea128465956d82bc6d280b13076c792718b52c9825b89dc7cac",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 16,
+    "bounds": {
+      "minLat": 19.2533,
+      "minLon": -85.4242,
+      "maxLat": 23.604267,
+      "maxLon": -73.70831
+    },
+    "country": "Cuba"
+  },
+  {
     "id": "cyprus",
     "region": "cyprus",
     "name": "Cyprus",
