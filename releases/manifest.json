@@ -685,6 +685,26 @@
     "country": "Eritrea"
   },
   {
+    "id": "estonia",
+    "region": "estonia",
+    "name": "Estonia",
+    "version": "20261110",
+    "file": "estonia-v20261110.pkg",
+    "size": 35100166,
+    "sha256": "0a90ff4ced4c91acace6d9d893bb23bae6d8d591667721ae1b64a77e4f54747f",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 16,
+    "bounds": {
+      "minLat": 57.49764,
+      "minLon": 20.85166,
+      "maxLat": 59.99705,
+      "maxLon": 28.21426
+    },
+    "country": "Estonia"
+  },
+  {
     "id": "faroe-islands",
     "region": "faroe-islands",
     "name": "Faroe Islands",
