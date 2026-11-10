@@ -175,6 +175,26 @@
     "country": "Italy"
   },
   {
+    "id": "liechtenstein",
+    "region": "liechtenstein",
+    "name": "Liechtenstein",
+    "version": "20261110",
+    "file": "liechtenstein-v20261110.pkg",
+    "size": 766504,
+    "sha256": "8d8c9765001efdf6c32ebfdb50075b88141739a10155faae591f4c6663e5bc5d",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 47.04774,
+      "minLon": 9.471078,
+      "maxLat": 47.27128,
+      "maxLon": 9.636217
+    },
+    "country": "Liechtenstein"
+  },
+  {
     "id": "liguria",
     "region": "liguria",
     "name": "Liguria",
