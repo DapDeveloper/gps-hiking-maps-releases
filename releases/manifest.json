@@ -25,6 +25,26 @@
     "country": "Italy"
   },
   {
+    "id": "american-oceania",
+    "region": "american-oceania",
+    "name": "American Oceania",
+    "version": "20261110",
+    "file": "american-oceania-v20261110.pkg",
+    "size": 1513963,
+    "sha256": "e17de89ce9675396b1b2c468b3b1df0ee2d28eea45d8b6179286b4c838ba393f",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": -17.644001,
+      "minLon": -179.967085,
+      "maxLat": 25.487949,
+      "maxLon": 169.870583
+    },
+    "country": "American Oceania"
+  },
+  {
     "id": "andorra",
     "region": "andorra",
     "name": "Andorra",
@@ -43,6 +63,26 @@
       "maxLon": 1.787481
     },
     "country": "Andorra"
+  },
+  {
+    "id": "bahamas",
+    "region": "bahamas",
+    "name": "Bahamas",
+    "version": "20261110",
+    "file": "bahamas-v20261110.pkg",
+    "size": 2687821,
+    "sha256": "8a54f1e32d5e77dac02224a802c9ee365b1ec7b9c876b191aeb9c3b176d1e172",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 20.27251,
+      "minLon": -81.51857,
+      "maxLat": 28.25602,
+      "maxLon": -71.86673
+    },
+    "country": "Bahamas"
   },
   {
     "id": "basilicata",
@@ -68,6 +108,46 @@
       "sha256": "a5126f3234ac50249b30d663044409160576968342a97c369aa61f87220c2d8f"
     },
     "country": "Italy"
+  },
+  {
+    "id": "belize",
+    "region": "belize",
+    "name": "Belize",
+    "version": "20261110",
+    "file": "belize-v20261110.pkg",
+    "size": 7723124,
+    "sha256": "1fda83a451fe39a46fc55bf99b0a334fe0ddaee8911a56c3075249329cfe8d96",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 15.883083,
+      "minLon": -89.228921,
+      "maxLat": 18.501243,
+      "maxLon": -86.85939
+    },
+    "country": "Belize"
+  },
+  {
+    "id": "bhutan",
+    "region": "bhutan",
+    "name": "Bhutan",
+    "version": "20261110",
+    "file": "bhutan-v20261110.pkg",
+    "size": 12015085,
+    "sha256": "79e83a892272d656c7b67426b62389f7831fd03aff26fe8b532280e487c93e87",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 26.6948,
+      "minLon": 88.73917,
+      "maxLat": 28.25372,
+      "maxLon": 92.13159
+    },
+    "country": "Bhutan"
   },
   {
     "id": "calabria",
@@ -120,6 +200,26 @@
     "country": "Italy"
   },
   {
+    "id": "cape-verde",
+    "region": "cape-verde",
+    "name": "Cape Verde",
+    "version": "20261110",
+    "file": "cape-verde-v20261110.pkg",
+    "size": 3805470,
+    "sha256": "d4866a79ae30fba2979debb88591b0a822fe8eada15b92de23c9bd7652341090",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 14.004855,
+      "minLon": -26.323786,
+      "maxLat": 18.004998,
+      "maxLon": -21.390957
+    },
+    "country": "Cape Verde"
+  },
+  {
     "id": "cook-islands",
     "region": "cook-islands",
     "name": "Cook Islands",
@@ -138,6 +238,46 @@
       "maxLon": -154.8056
     },
     "country": "Cook Islands"
+  },
+  {
+    "id": "djibouti",
+    "region": "djibouti",
+    "name": "Djibouti",
+    "version": "20261110",
+    "file": "djibouti-v20261110.pkg",
+    "size": 1883785,
+    "sha256": "2424e45d03cacf5313f614080415b94ecd2b218c536607d0b5e2821e9142155b",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 10.888238,
+      "minLon": 41.761773,
+      "maxLat": 12.826145,
+      "maxLon": 43.896251
+    },
+    "country": "Djibouti"
+  },
+  {
+    "id": "east-timor",
+    "region": "east-timor",
+    "name": "East Timor",
+    "version": "20261110",
+    "file": "east-timor-v20261110.pkg",
+    "size": 4175743,
+    "sha256": "bcbf8fd561b2f9a90ab3cc782b5039db4ce22f86aff2ac72c5f3ed5913fb7e74",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": -9.690103,
+      "minLon": 123.791196,
+      "maxLat": -8.057869,
+      "maxLon": 127.591094
+    },
+    "country": "East Timor"
   },
   {
     "id": "emilia-romagna",
@@ -163,6 +303,66 @@
       "sha256": "95df1a4d8e9b22f95fbd14c82c650eaa3fd25698d2c72517e055e1ea56e85176"
     },
     "country": "Italy"
+  },
+  {
+    "id": "equatorial-guinea",
+    "region": "equatorial-guinea",
+    "name": "Equatorial Guinea",
+    "version": "20261110",
+    "file": "equatorial-guinea-v20261110.pkg",
+    "size": 3169876,
+    "sha256": "5234668d12188bfc1814fb2c2d68438465368eefcc76f3ba8716aca0ebb8c27c",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": -1.792669,
+      "minLon": 5.165631,
+      "maxLat": 4.147134,
+      "maxLon": 11.423378
+    },
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": "faroe-islands",
+    "region": "faroe-islands",
+    "name": "Faroe Islands",
+    "version": "20261110",
+    "file": "faroe-islands-v20261110.pkg",
+    "size": 1857000,
+    "sha256": "cd39e61f07ba8fca149b30f580106e1cbe87d787c470fac0cae97bee6b73f4c2",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 60.866318,
+      "minLon": -8.690197,
+      "maxLat": 62.905232,
+      "maxLon": -5.515148
+    },
+    "country": "Faroe Islands"
+  },
+  {
+    "id": "fiji",
+    "region": "fiji",
+    "name": "Fiji",
+    "version": "20261110",
+    "file": "fiji-v20261110.pkg",
+    "size": 3670768,
+    "sha256": "c456a6e86f2dba831aad79302d06734bd2e395bc1f99d857147084ee1dcefbc4",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": -25.08127,
+      "minLon": -180.0,
+      "maxLat": -9.783321,
+      "maxLon": 180.0
+    },
+    "country": "Fiji"
   },
   {
     "id": "friuli-venezia-giulia",
@@ -208,6 +408,66 @@
       "maxLon": 14.551391
     },
     "country": "Gabon"
+  },
+  {
+    "id": "guinea-bissau",
+    "region": "guinea-bissau",
+    "name": "Guinea-Bissau",
+    "version": "20261110",
+    "file": "guinea-bissau-v20261110.pkg",
+    "size": 7030166,
+    "sha256": "e64a220e4e80086bd14e4b6d88cea6f7addab14f196d0aa33b57cc1b7e558612",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 10.14494,
+      "minLon": -16.964265,
+      "maxLat": 12.693598,
+      "maxLon": -13.629227
+    },
+    "country": "Guinea-Bissau"
+  },
+  {
+    "id": "guyana",
+    "region": "guyana",
+    "name": "Guyana",
+    "version": "20261110",
+    "file": "guyana-v20261110.pkg",
+    "size": 15028396,
+    "sha256": "f59fc0196b619d469a45d944adf1725d9cc10a2f1d8d8910c8501db556d88503",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 1.149369,
+      "minLon": -61.421008,
+      "maxLat": 9.182536,
+      "maxLon": -56.42321
+    },
+    "country": "Guyana"
+  },
+  {
+    "id": "guyane",
+    "region": "guyane",
+    "name": "Guyane",
+    "version": "20261110",
+    "file": "guyane-v20261110.pkg",
+    "size": 11061234,
+    "sha256": "d1d889181fe45ffb1913dc1bd2b976dbcd86ae38e213bc407ac8b914a2780466",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 2.093117,
+      "minLon": -54.622994,
+      "maxLat": 6.370288,
+      "maxLon": -50.866702
+    },
+    "country": "Guyane"
   },
   {
     "id": "ile-de-clipperton",
@@ -345,6 +605,46 @@
     "country": "Italy"
   },
   {
+    "id": "maldives",
+    "region": "maldives",
+    "name": "Maldives",
+    "version": "20261110",
+    "file": "maldives-v20261110.pkg",
+    "size": 663519,
+    "sha256": "137785ddcc098ceca0c060863d0e5810a867775d4da711db18a8a208084adc92",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": -1.36,
+      "minLon": 71.7,
+      "maxLat": 7.69,
+      "maxLon": 74.5
+    },
+    "country": "Maldives"
+  },
+  {
+    "id": "malta",
+    "region": "malta",
+    "name": "Malta",
+    "version": "20261110",
+    "file": "malta-v20261110.pkg",
+    "size": 1811877,
+    "sha256": "92ae0daacf754a86fc942233786ec18bb760374113c5072745135da5832631fe",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 35.51985,
+      "minLon": 13.815377,
+      "maxLat": 36.332958,
+      "maxLon": 14.856099
+    },
+    "country": "Malta"
+  },
+  {
     "id": "marche",
     "region": "marche",
     "name": "Marche",
@@ -368,6 +668,46 @@
       "sha256": "68440be8a27a3aff851b2e288b592fbbca52bc089a428b7a83e29b6543ca5941"
     },
     "country": "Italy"
+  },
+  {
+    "id": "marshall-islands",
+    "region": "marshall-islands",
+    "name": "Marshall Islands",
+    "version": "20261110",
+    "file": "marshall-islands-v20261110.pkg",
+    "size": 442527,
+    "sha256": "fd3bfdcfe1e75ea045b9702b71fb6cab634bb441bc7146126e52c73f8ec67fe5",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 1.777314,
+      "minLon": 156.845266,
+      "maxLat": 17.94606,
+      "maxLon": 175.5118
+    },
+    "country": "Marshall Islands"
+  },
+  {
+    "id": "mauritius",
+    "region": "mauritius",
+    "name": "Mauritius",
+    "version": "20261110",
+    "file": "mauritius-v20261110.pkg",
+    "size": 2865481,
+    "sha256": "a16c0ec294b7b4e6e7871050632ae08a4e38b1d1b7d6b9b5dee995448f02bb71",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": -22.241095,
+      "minLon": 53.547275,
+      "maxLat": -9.183617,
+      "maxLon": 65.639906
+    },
+    "country": "Mauritius"
   },
   {
     "id": "micronesia",
@@ -453,6 +793,26 @@
       "maxLon": 168.5599
     },
     "country": "Nauru"
+  },
+  {
+    "id": "new-caledonia",
+    "region": "new-caledonia",
+    "name": "New Caledonia",
+    "version": "20261110",
+    "file": "new-caledonia-v20261110.pkg",
+    "size": 4758693,
+    "sha256": "b66daa15e9e866c29b70710e03ca521f7f0d575f17d54861458bec39d46dd193",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": -25.0,
+      "minLon": 157.9,
+      "maxLat": -16.9,
+      "maxLon": 174.1
+    },
+    "country": "New Caledonia"
   },
   {
     "id": "niue",
@@ -585,6 +945,26 @@
     "country": "Saint Helena, Ascension, and Tristan da Cunha"
   },
   {
+    "id": "samoa",
+    "region": "samoa",
+    "name": "Samoa",
+    "version": "20261110",
+    "file": "samoa-v20261110.pkg",
+    "size": 614863,
+    "sha256": "93076c0418b6e2323fabc8b5bc94dd6820c40a03f3cb4898d0518d055b3346d7",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": -15.87838,
+      "minLon": -174.5114,
+      "maxLat": -10.96083,
+      "maxLon": -170.5427
+    },
+    "country": "Samoa"
+  },
+  {
     "id": "sao-tome-and-principe",
     "region": "sao-tome-and-principe",
     "name": "Sao Tome and Principe",
@@ -675,6 +1055,46 @@
     "country": "Italy"
   },
   {
+    "id": "solomon-islands",
+    "region": "solomon-islands",
+    "name": "Solomon Islands",
+    "version": "20261110",
+    "file": "solomon-islands-v20261110.pkg",
+    "size": 3895006,
+    "sha256": "30e36758bc9b9baab3d7415d52345eb5f1bda5ba21691bc26d6816d1a717c01e",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": -16.12694,
+      "minLon": 154.5856,
+      "maxLat": -4.139945,
+      "maxLon": 173.5934
+    },
+    "country": "Solomon Islands"
+  },
+  {
+    "id": "suriname",
+    "region": "suriname",
+    "name": "Suriname",
+    "version": "20261110",
+    "file": "suriname-v20261110.pkg",
+    "size": 19947551,
+    "sha256": "b5d06d7c404781a7bec728d27a5e70dabddbe6f79b0b975be56f226dcc3be946",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 1.816773,
+      "minLon": -58.08461,
+      "maxLat": 7.761698,
+      "maxLon": -53.328194
+    },
+    "country": "Suriname"
+  },
+  {
     "id": "tokelau",
     "region": "tokelau",
     "name": "Tokelau",
@@ -693,6 +1113,26 @@
       "maxLon": -167.40969
     },
     "country": "Tokelau"
+  },
+  {
+    "id": "tonga",
+    "region": "tonga",
+    "name": "Tonga",
+    "version": "20261110",
+    "file": "tonga-v20261110.pkg",
+    "size": 678210,
+    "sha256": "a144636e8b8a8a8f59b7fe6c9b8a14a831c1d77d8695186a0ca76f5018b8ad5f",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": -25.68413,
+      "minLon": -178.648747,
+      "maxLat": -14.15464,
+      "maxLon": -171.3053
+    },
+    "country": "Tonga"
   },
   {
     "id": "toscana",
@@ -743,6 +1183,26 @@
       "sha256": "c69b10ba886e918c3b484878a1fa658078877acfad537209ad72fec631ab460f"
     },
     "country": "Italy"
+  },
+  {
+    "id": "turkmenistan",
+    "region": "turkmenistan",
+    "name": "Turkmenistan",
+    "version": "20261110",
+    "file": "turkmenistan-v20261110.pkg",
+    "size": 343433597,
+    "sha256": "ad6e37dc0b9c589df9f8c4dc9991f93ec1abc8c86cdafb05f3fc580ab371bcce",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 35.12355,
+      "minLon": 51.83271,
+      "maxLat": 42.81253,
+      "maxLon": 66.722717
+    },
+    "country": "Turkmenistan"
   },
   {
     "id": "tuvalu",
@@ -813,6 +1273,26 @@
       "sha256": "c323c0856803e034f109ee5eebd09f268e43ed5520a39803a5069e0064cc037a"
     },
     "country": "Italy"
+  },
+  {
+    "id": "vanuatu",
+    "region": "vanuatu",
+    "name": "Vanuatu",
+    "version": "20261110",
+    "file": "vanuatu-v20261110.pkg",
+    "size": 1166090,
+    "sha256": "84c9ac726038adda435f3f28a9b4c4b8353961c4c7f0738d63871148f2360370",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": -21.64288,
+      "minLon": 163.3086,
+      "maxLat": -12.29626,
+      "maxLon": 173.6089
+    },
+    "country": "Vanuatu"
   },
   {
     "id": "veneto",
