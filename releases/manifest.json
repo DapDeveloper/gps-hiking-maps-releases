@@ -1910,6 +1910,26 @@
     "country": "Italy"
   },
   {
+    "id": "senegal-and-gambia",
+    "region": "senegal-and-gambia",
+    "name": "Senegal and Gambia",
+    "version": "20261110",
+    "file": "senegal-and-gambia-v20261110.pkg",
+    "size": 30177190,
+    "sha256": "15b101e1014e1583d9bc9b0e439fe35f2f51298e7935590a63a9f0ce57dced06",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 16,
+    "bounds": {
+      "minLat": 12.01511,
+      "minLon": -19.85623,
+      "maxLat": 16.70088,
+      "maxLon": -11.33595
+    },
+    "country": "Senegal and Gambia"
+  },
+  {
     "id": "seychelles",
     "region": "seychelles",
     "name": "Seychelles",
