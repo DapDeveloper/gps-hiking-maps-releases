@@ -1575,6 +1575,26 @@
     "country": "Niue"
   },
   {
+    "id": "north-korea",
+    "region": "north-korea",
+    "name": "North Korea",
+    "version": "20261110",
+    "file": "north-korea-v20261110.pkg",
+    "size": 28401502,
+    "sha256": "6e43d636ca2af23f24955d1b4963cd8c6b6bb76671661eaccd53cd82c41ed75d",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 16,
+    "bounds": {
+      "minLat": 37.61103,
+      "minLon": 123.697,
+      "maxLat": 43.02043,
+      "maxLon": 131.6447
+    },
+    "country": "North Korea"
+  },
+  {
     "id": "palau",
     "region": "palau",
     "name": "Palau",
