@@ -1525,6 +1525,26 @@
     "country": "Italy"
   },
   {
+    "id": "rwanda",
+    "region": "rwanda",
+    "name": "Rwanda",
+    "version": "20261110",
+    "file": "rwanda-v20261110.pkg",
+    "size": 12754390,
+    "sha256": "e45de9ff505ac42ef475781dc4f1a1bb971f7d269112fbe2e298e98f0bfde079",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 16,
+    "bounds": {
+      "minLat": -2.848747,
+      "minLon": 28.859296,
+      "maxLat": -1.03831,
+      "maxLon": 30.908642
+    },
+    "country": "Rwanda"
+  },
+  {
     "id": "saint-helena-ascension-and-tristan-da-cunha",
     "region": "saint-helena-ascension-and-tristan-da-cunha",
     "name": "Saint Helena, Ascension, and Tristan da Cunha",
