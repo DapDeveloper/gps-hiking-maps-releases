@@ -870,6 +870,26 @@
     "country": "Kiribati"
   },
   {
+    "id": "kyrgyzstan",
+    "region": "kyrgyzstan",
+    "name": "Kyrgyzstan",
+    "version": "20261110",
+    "file": "kyrgyzstan-v20261110.pkg",
+    "size": 36225839,
+    "sha256": "aa0fb1688932ee33e63f3f655bed9b885b802f0c10639df0eddc04f48b22221d",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 16,
+    "bounds": {
+      "minLat": 39.151363,
+      "minLon": 69.255065,
+      "maxLat": 43.281205,
+      "maxLon": 80.277098
+    },
+    "country": "Kyrgyzstan"
+  },
+  {
     "id": "laos",
     "region": "laos",
     "name": "Laos",
