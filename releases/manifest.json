@@ -1835,6 +1835,26 @@
     "country": "Swaziland"
   },
   {
+    "id": "syria",
+    "region": "syria",
+    "name": "Syria",
+    "version": "20261110",
+    "file": "syria-v20261110.pkg",
+    "size": 19747688,
+    "sha256": "eaa41a10cca3d2d4ba32be39ca5f9e04462bd0d34c82a5b3444b945f367d2218",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 16,
+    "bounds": {
+      "minLat": 32.3066,
+      "minLon": 35.277097,
+      "maxLat": 37.322394,
+      "maxLon": 42.38383
+    },
+    "country": "Syria"
+  },
+  {
     "id": "tajikistan",
     "region": "tajikistan",
     "name": "Tajikistan",
