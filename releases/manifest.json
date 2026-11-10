@@ -545,6 +545,26 @@
     "country": "Italy"
   },
   {
+    "id": "tuvalu",
+    "region": "tuvalu",
+    "name": "Tuvalu",
+    "version": "20261110",
+    "file": "tuvalu-v20261110.pkg",
+    "size": 121828,
+    "sha256": "ad5c17e07bac1f48e5344c463139ae854a392584b07e5ea19931e36314bd3d3b",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": -13.24039,
+      "minLon": -180.0,
+      "maxLat": -4.061646,
+      "maxLon": 180.0
+    },
+    "country": "Tuvalu"
+  },
+  {
     "id": "umbria",
     "region": "umbria",
     "name": "Umbria",
