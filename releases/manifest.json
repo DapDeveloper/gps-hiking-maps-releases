@@ -2388,12 +2388,12 @@
     "id": "sardegna",
     "region": "sardegna",
     "name": "Sardegna",
-    "version": "20261029",
-    "file": "sardegna-v20261029.pkg",
-    "size": 23456435,
-    "sha256": "12bb066074a90740971203ba470e7914c9a95290560015e2412fc307b8cf1d19",
+    "version": "20261110",
+    "file": "sardegna-v20261110.pkg",
+    "size": 23571908,
+    "sha256": "f678d3aa9ce6f257535e0da541b18865ce48e94025eb5651eb287755c25a5634",
     "format": "hlv1",
-    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife \u00b7 Official trails: \u00a9 Club Alpino Italiano (CAI) \u2014 INFOMONT (infomont.cai.it), ODbL 1.0",
     "minZoom": 7,
     "maxZoom": 20,
     "bounds": {
@@ -2402,12 +2402,15 @@
       "maxLat": 41.333,
       "maxLon": 9.849
     },
+    "country": "Italy",
+    "trail_sources": [
+      "CAI"
+    ],
     "dem": {
-      "file": "sardegna-v20261029-dem.dem",
+      "file": "sardegna-v20261110-dem.dem",
       "size": 4450734,
-      "sha256": "ec4ddfb74d0344260b6c8b42f3502dfcde8dc105aa54226326badc3aae9e001d"
-    },
-    "country": "Italy"
+      "sha256": "551266de5f652cd09ef263be03da769ac7d3168c2a06836f27a743dd5064a868"
+    }
   },
   {
     "id": "senegal-and-gambia",
