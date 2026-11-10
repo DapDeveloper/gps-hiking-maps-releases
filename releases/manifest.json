@@ -1695,6 +1695,26 @@
     "country": "Tajikistan"
   },
   {
+    "id": "togo",
+    "region": "togo",
+    "name": "Togo",
+    "version": "20261110",
+    "file": "togo-v20261110.pkg",
+    "size": 8524579,
+    "sha256": "7b45c2e6c233e212efa61d29cd6585d86fbe790633911ef33941a02434acffd1",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 16,
+    "bounds": {
+      "minLat": 5.892541,
+      "minLon": -0.148338,
+      "maxLat": 11.14395,
+      "maxLon": 1.810942
+    },
+    "country": "Togo"
+  },
+  {
     "id": "tokelau",
     "region": "tokelau",
     "name": "Tokelau",
