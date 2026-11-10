@@ -120,6 +120,26 @@
     "country": "Italy"
   },
   {
+    "id": "cook-islands",
+    "region": "cook-islands",
+    "name": "Cook Islands",
+    "version": "20261110",
+    "file": "cook-islands-v20261110.pkg",
+    "size": 298498,
+    "sha256": "a33bb4634cc7687d705788aef7e8dee8946b98913c6887b4b7fa93bcc03ae943",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": -25.28867,
+      "minLon": -168.4661,
+      "maxLat": -5.800506,
+      "maxLon": -154.8056
+    },
+    "country": "Cook Islands"
+  },
+  {
     "id": "emilia-romagna",
     "region": "emilia-romagna",
     "name": "Emilia-Romagna",
