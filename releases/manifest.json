@@ -85,6 +85,26 @@
     "country": "Andorra"
   },
   {
+    "id": "angola",
+    "region": "angola",
+    "name": "Angola",
+    "version": "20261110",
+    "file": "angola-v20261110.pkg",
+    "size": 59481028,
+    "sha256": "c92f1a76d2b2c59ad2809c6cdba8f0c4fdb2e7eebecd321c3c1fb277c88fdb2d",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 16,
+    "bounds": {
+      "minLat": -18.065085,
+      "minLon": 10.53848,
+      "maxLat": -4.327925,
+      "maxLon": 24.102974
+    },
+    "country": "Angola"
+  },
+  {
     "id": "antarctica",
     "region": "antarctica",
     "name": "Antarctica",
