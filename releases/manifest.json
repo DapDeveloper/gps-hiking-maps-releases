@@ -1895,6 +1895,26 @@
     "country": "North Korea"
   },
   {
+    "id": "pakistan",
+    "region": "pakistan",
+    "name": "Pakistan",
+    "version": "20261110",
+    "file": "pakistan-v20261110.pkg",
+    "size": 87204479,
+    "sha256": "25223b57af97b7fa3c22dda979bd501df6fe6e5a95e01a06e786f14145c94150",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 16,
+    "bounds": {
+      "minLat": 23.376297,
+      "minLon": 60.821684,
+      "maxLat": 37.106671,
+      "maxLon": 77.224272
+    },
+    "country": "Pakistan"
+  },
+  {
     "id": "palau",
     "region": "palau",
     "name": "Palau",
