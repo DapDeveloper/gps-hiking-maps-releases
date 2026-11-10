@@ -1035,6 +1035,26 @@
     "country": "Palau"
   },
   {
+    "id": "panama",
+    "region": "panama",
+    "name": "Panama",
+    "version": "20261110",
+    "file": "panama-v20261110.pkg",
+    "size": 12430508,
+    "sha256": "6538290de0e988d9adeee3f4477259e403e4481551fdb8dc47ae68c8a3d68733",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 16,
+    "bounds": {
+      "minLat": 6.644027,
+      "minLon": -83.46462,
+      "maxLat": 11.20708,
+      "maxLon": -76.25311
+    },
+    "country": "Panama"
+  },
+  {
     "id": "piemonte",
     "region": "piemonte",
     "name": "Piemonte",
