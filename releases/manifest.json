@@ -330,6 +330,26 @@
     "country": "Italy"
   },
   {
+    "id": "micronesia",
+    "region": "micronesia",
+    "name": "Micronesia",
+    "version": "20261110",
+    "file": "micronesia-v20261110.pkg",
+    "size": 734257,
+    "sha256": "b1ec8c3dea780cea9b21f7336f2177765456071669da1a48ccbe35314d8bb73b",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": -1.147444,
+      "minLon": 135.3124,
+      "maxLat": 13.21917,
+      "maxLon": 165.6345
+    },
+    "country": "Micronesia"
+  },
+  {
     "id": "molise",
     "region": "molise",
     "name": "Molise",
