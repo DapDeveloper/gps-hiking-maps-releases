@@ -600,6 +600,26 @@
     "country": "East Timor"
   },
   {
+    "id": "ecuador",
+    "region": "ecuador",
+    "name": "Ecuador",
+    "version": "20261110",
+    "file": "ecuador-v20261110.pkg",
+    "size": 41385134,
+    "sha256": "1043acaa3b6489f8cb5c8023de72e679c56be303a68823702594c2f9e8080c45",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 16,
+    "bounds": {
+      "minLat": -5.024173,
+      "minLon": -93.56487,
+      "maxLat": 2.843487,
+      "maxLon": -75.16149
+    },
+    "country": "Ecuador"
+  },
+  {
     "id": "el-salvador",
     "region": "el-salvador",
     "name": "El Salvador",
