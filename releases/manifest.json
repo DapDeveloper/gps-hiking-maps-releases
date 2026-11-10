@@ -220,6 +220,26 @@
     "country": "Cape Verde"
   },
   {
+    "id": "congo-brazzaville",
+    "region": "congo-brazzaville",
+    "name": "Congo (Republic/Brazzaville)",
+    "version": "20261110",
+    "file": "congo-brazzaville-v20261110.pkg",
+    "size": 50609628,
+    "sha256": "ecf952667b1dd48de5ab0983fb2324dcef79e09f9fd4cbe7b23b4be5b33a83b9",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 16,
+    "bounds": {
+      "minLat": -5.195885,
+      "minLon": 10.944174,
+      "maxLat": 3.740932,
+      "maxLon": 18.667831
+    },
+    "country": "Congo (Republic/Brazzaville)"
+  },
+  {
     "id": "cook-islands",
     "region": "cook-islands",
     "name": "Cook Islands",
