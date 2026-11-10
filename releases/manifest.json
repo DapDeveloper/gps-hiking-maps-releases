@@ -487,12 +487,12 @@
     "id": "campania",
     "region": "campania",
     "name": "Campania",
-    "version": "20261029",
-    "file": "campania-v20261029.pkg",
-    "size": 25262174,
-    "sha256": "81b0e73b1b4993ac63795442f6d05e7f143552d6a92c85772d800a5de0915c0a",
+    "version": "20261110",
+    "file": "campania-v20261110.pkg",
+    "size": 25478093,
+    "sha256": "921456e7354f00e40179b31e755fb8b91eaa2b87521034ee62aedf78bd838ad3",
     "format": "hlv1",
-    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife \u00b7 Official trails: \u00a9 Club Alpino Italiano (CAI) \u2014 INFOMONT (infomont.cai.it), ODbL 1.0",
     "minZoom": 7,
     "maxZoom": 20,
     "bounds": {
@@ -501,12 +501,15 @@
       "maxLat": 41.528,
       "maxLon": 15.826
     },
+    "country": "Italy",
+    "trail_sources": [
+      "CAI"
+    ],
     "dem": {
-      "file": "campania-v20261029-dem.dem",
+      "file": "campania-v20261110-dem.dem",
       "size": 3799466,
-      "sha256": "917c011ea88ab6647506337e806094948036299b7f487606ac21b43e76b33348"
-    },
-    "country": "Italy"
+      "sha256": "1f438d3f69fa9567594ae78182fbed6bb54a2777879fd9676b7a5896e974adfd"
+    }
   },
   {
     "id": "cape-verde",
