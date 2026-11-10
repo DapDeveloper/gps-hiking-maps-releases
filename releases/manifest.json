@@ -290,6 +290,26 @@
     "country": "Bhutan"
   },
   {
+    "id": "bolivia",
+    "region": "bolivia",
+    "name": "Bolivia",
+    "version": "20261110",
+    "file": "bolivia-v20261110.pkg",
+    "size": 80334625,
+    "sha256": "42de93d8fb3ae3d86c4ba67c7a9892576066b2ae0b403849b24da8f027ee0dac",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 16,
+    "bounds": {
+      "minLat": -22.925511,
+      "minLon": -69.656754,
+      "maxLat": -9.63866,
+      "maxLon": -57.434807
+    },
+    "country": "Bolivia"
+  },
+  {
     "id": "bosnia-herzegovina",
     "region": "bosnia-herzegovina",
     "name": "Bosnia-Herzegovina",
