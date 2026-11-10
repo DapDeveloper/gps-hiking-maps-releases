@@ -85,6 +85,26 @@
     "country": "Antarctica"
   },
   {
+    "id": "armenia",
+    "region": "armenia",
+    "name": "Armenia",
+    "version": "20261110",
+    "file": "armenia-v20261110.pkg",
+    "size": 14262470,
+    "sha256": "1f1eab5a2c26d40a1b384c5a0b19445b67e37fb97844bc3239a768ff2ef522f3",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 16,
+    "bounds": {
+      "minLat": 38.83743,
+      "minLon": 43.43821,
+      "maxLat": 41.31029,
+      "maxLon": 46.64262
+    },
+    "country": "Armenia"
+  },
+  {
     "id": "azerbaijan",
     "region": "azerbaijan",
     "name": "Azerbaijan",
