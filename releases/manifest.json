@@ -1431,12 +1431,12 @@
     "id": "lazio",
     "region": "lazio",
     "name": "Lazio",
-    "version": "20261029",
-    "file": "lazio-v20261029.pkg",
-    "size": 32615222,
-    "sha256": "51cc1dc727a1aa48e44954cf9cb83180602460c90def1d0e5e35c4c24ef04005",
+    "version": "20261110",
+    "file": "lazio-v20261110.pkg",
+    "size": 33317710,
+    "sha256": "ae4ae7fce6977579c99a2a0bf0d52355d93493a254bd58a51cea8facd98ece29",
     "format": "hlv1",
-    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife \u00b7 Official trails: \u00a9 Club Alpino Italiano (CAI) \u2014 INFOMONT (infomont.cai.it), ODbL 1.0",
     "minZoom": 7,
     "maxZoom": 20,
     "bounds": {
@@ -1445,12 +1445,15 @@
       "maxLat": 42.859,
       "maxLon": 14.048
     },
+    "country": "Italy",
+    "trail_sources": [
+      "CAI"
+    ],
     "dem": {
-      "file": "lazio-v20261029-dem.dem",
+      "file": "lazio-v20261110-dem.dem",
       "size": 6194683,
-      "sha256": "0e5bbe669f61ce8e859096c839e0e0b6dd8e03df993b8e60556d12c216887d9d"
-    },
-    "country": "Italy"
+      "sha256": "b80221fe0aa3184a63effeadafcbc775cb01c75c4828268fc4a5db62f1e51614"
+    }
   },
   {
     "id": "lebanon",
