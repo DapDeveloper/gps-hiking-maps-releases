@@ -2212,12 +2212,12 @@
     "id": "piemonte",
     "region": "piemonte",
     "name": "Piemonte",
-    "version": "20261029",
-    "file": "piemonte-v20261029.pkg",
-    "size": 86002975,
-    "sha256": "a13cc3ffc7b30fc765b764f250250e8bdb8e44f8b7b2bb6b1bdddc74f5628f2c",
+    "version": "20261110",
+    "file": "piemonte-v20261110.pkg",
+    "size": 88145161,
+    "sha256": "f036146bca84c71fa867871024de843c199781def6816c551e1a321cb8a46d02",
     "format": "hlv1",
-    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife \u00b7 Official trails: \u00a9 Club Alpino Italiano (CAI) \u2014 INFOMONT (infomont.cai.it), ODbL 1.0",
     "minZoom": 7,
     "maxZoom": 20,
     "bounds": {
@@ -2226,12 +2226,15 @@
       "maxLat": 46.484,
       "maxLon": 9.234
     },
+    "country": "Italy",
+    "trail_sources": [
+      "CAI"
+    ],
     "dem": {
-      "file": "piemonte-v20261029-dem.dem",
+      "file": "piemonte-v20261110-dem.dem",
       "size": 11775637,
-      "sha256": "d4b3f511fde1006d6cd3b28c4e747bbb1222e459d275c1ee794afa152b2a1392"
-    },
-    "country": "Italy"
+      "sha256": "2177255f12e81c57b6e41ba5d277edfd10ecd12c8ba507ab6949cc296d9f994e"
+    }
   },
   {
     "id": "pitcairn-islands",
