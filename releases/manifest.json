@@ -850,6 +850,26 @@
     "country": "\u00cele de Clipperton"
   },
   {
+    "id": "ivory-coast",
+    "region": "ivory-coast",
+    "name": "Ivory Coast",
+    "version": "20261110",
+    "file": "ivory-coast-v20261110.pkg",
+    "size": 27810737,
+    "sha256": "916ef072d5b95e4bc27f6584bdddfc61717cc8dfe8e198eed692609af3989c06",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 16,
+    "bounds": {
+      "minLat": 4.141916,
+      "minLon": -8.633881,
+      "maxLat": 10.750343,
+      "maxLon": -2.476215
+    },
+    "country": "Ivory Coast"
+  },
+  {
     "id": "jamaica",
     "region": "jamaica",
     "name": "Jamaica",
