@@ -190,6 +190,26 @@
     "country": "Italy"
   },
   {
+    "id": "gabon",
+    "region": "gabon",
+    "name": "Gabon",
+    "version": "20261110",
+    "file": "gabon-v20261110.pkg",
+    "size": 49089463,
+    "sha256": "bb310dd15c879f02a038f53dad6210f3c4b3414796f73ad5581207351b25d4b3",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": -5.995799,
+      "minLon": 7.389727,
+      "maxLat": 2.325716,
+      "maxLon": 14.551391
+    },
+    "country": "Gabon"
+  },
+  {
     "id": "ile-de-clipperton",
     "region": "ile-de-clipperton",
     "name": "\u00cele de Clipperton",
