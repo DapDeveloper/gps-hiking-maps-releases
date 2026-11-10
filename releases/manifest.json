@@ -250,6 +250,26 @@
     "country": "Bhutan"
   },
   {
+    "id": "burkina-faso",
+    "region": "burkina-faso",
+    "name": "Burkina Faso",
+    "version": "20261110",
+    "file": "burkina-faso-v20261110.pkg",
+    "size": 22892363,
+    "sha256": "66cff1af83a3f5addcbf20abca662dad82e30b0663be4b3e1acff72834c0e88e",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 16,
+    "bounds": {
+      "minLat": 9.384107,
+      "minLon": -5.527409,
+      "maxLat": 15.09271,
+      "maxLon": 2.412529
+    },
+    "country": "Burkina Faso"
+  },
+  {
     "id": "burundi",
     "region": "burundi",
     "name": "Burundi",
