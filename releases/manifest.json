@@ -870,6 +870,26 @@
     "country": "Greenland"
   },
   {
+    "id": "guatemala",
+    "region": "guatemala",
+    "name": "Guatemala",
+    "version": "20261110",
+    "file": "guatemala-v20261110.pkg",
+    "size": 21001046,
+    "sha256": "28a0ea266870ac396ab99c8cc143e378937932ba0474689d98e6dcf2dcf1e697",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 16,
+    "bounds": {
+      "minLat": 12.74168,
+      "minLon": -92.73303,
+      "maxLat": 18.224139,
+      "maxLon": -87.95177
+    },
+    "country": "Guatemala"
+  },
+  {
     "id": "guinea",
     "region": "guinea",
     "name": "Guinea",
