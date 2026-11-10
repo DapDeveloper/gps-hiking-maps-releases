@@ -600,6 +600,26 @@
     "country": "Costa Rica"
   },
   {
+    "id": "croatia",
+    "region": "croatia",
+    "name": "Croatia",
+    "version": "20261110",
+    "file": "croatia-v20261110.pkg",
+    "size": 47377599,
+    "sha256": "9db9449e1db76989e3456c78925626a344bad05a2a544b162d3a8ccde4f52344",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 16,
+    "bounds": {
+      "minLat": 42.16483,
+      "minLon": 13.08916,
+      "maxLat": 46.557562,
+      "maxLon": 19.459968
+    },
+    "country": "Croatia"
+  },
+  {
     "id": "cuba",
     "region": "cuba",
     "name": "Cuba",
