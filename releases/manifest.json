@@ -750,6 +750,26 @@
     "country": "Guyane"
   },
   {
+    "id": "honduras",
+    "region": "honduras",
+    "name": "Honduras",
+    "version": "20261110",
+    "file": "honduras-v20261110.pkg",
+    "size": 16643022,
+    "sha256": "84f9a61a00028702b1a34d7194888b8f18a81ec99eeda30caf81f2b77b3e7962",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 16,
+    "bounds": {
+      "minLat": 12.969431,
+      "minLon": -89.360047,
+      "maxLat": 17.931708,
+      "maxLon": -81.661382
+    },
+    "country": "Honduras"
+  },
+  {
     "id": "iceland",
     "region": "iceland",
     "name": "Iceland",
