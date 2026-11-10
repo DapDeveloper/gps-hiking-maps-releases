@@ -795,12 +795,12 @@
     "id": "emilia-romagna",
     "region": "emilia-romagna",
     "name": "Emilia-Romagna",
-    "version": "20261029",
-    "file": "emilia-romagna-v20261029.pkg",
-    "size": 38614552,
-    "sha256": "a59f8076d5574044142659c7ce9c51ef039b59a0802fa9c8058c0c204550f2bb",
+    "version": "20261110",
+    "file": "emilia-romagna-v20261110.pkg",
+    "size": 40438060,
+    "sha256": "f12607a5fe0ebc8a6523fbfc81030b00a3aa803ee2cd0248fc2882ca59c3a214",
     "format": "hlv1",
-    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife \u00b7 Official trails: \u00a9 Club Alpino Italiano (CAI) \u2014 INFOMONT (infomont.cai.it), ODbL 1.0",
     "minZoom": 7,
     "maxZoom": 20,
     "bounds": {
@@ -809,12 +809,15 @@
       "maxLat": 45.16,
       "maxLon": 12.776
     },
+    "country": "Italy",
+    "trail_sources": [
+      "CAI"
+    ],
     "dem": {
-      "file": "emilia-romagna-v20261029-dem.dem",
+      "file": "emilia-romagna-v20261110-dem.dem",
       "size": 6070574,
-      "sha256": "95df1a4d8e9b22f95fbd14c82c650eaa3fd25698d2c72517e055e1ea56e85176"
-    },
-    "country": "Italy"
+      "sha256": "8bea0272d190e632cef93a800b196968ab567762895217e6e119b76bfec4f59f"
+    }
   },
   {
     "id": "equatorial-guinea",
