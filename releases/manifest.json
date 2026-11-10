@@ -1250,6 +1250,26 @@
     "country": "Laos"
   },
   {
+    "id": "latvia",
+    "region": "latvia",
+    "name": "Latvia",
+    "version": "20261110",
+    "file": "latvia-v20261110.pkg",
+    "size": 41328645,
+    "sha256": "379dca2566e31687999facaab8c9303665ea31a76718b9c8932c029418226b8a",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 16,
+    "bounds": {
+      "minLat": 55.66109,
+      "minLon": 19.73348,
+      "maxLat": 58.0947,
+      "maxLon": 28.25501
+    },
+    "country": "Latvia"
+  },
+  {
     "id": "lazio",
     "region": "lazio",
     "name": "Lazio",
