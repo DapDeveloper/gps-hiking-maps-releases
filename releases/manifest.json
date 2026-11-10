@@ -320,6 +320,26 @@
     "country": "East Timor"
   },
   {
+    "id": "el-salvador",
+    "region": "el-salvador",
+    "name": "El Salvador",
+    "version": "20261110",
+    "file": "el-salvador-v20261110.pkg",
+    "size": 7213626,
+    "sha256": "d4267fa0bd3f24075742ca7006b6203ed261843cad943170fe6af78c66232f7b",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 16,
+    "bounds": {
+      "minLat": 12.03598,
+      "minLon": -90.50091,
+      "maxLat": 14.457621,
+      "maxLon": -87.584382
+    },
+    "country": "El Salvador"
+  },
+  {
     "id": "emilia-romagna",
     "region": "emilia-romagna",
     "name": "Emilia-Romagna",
