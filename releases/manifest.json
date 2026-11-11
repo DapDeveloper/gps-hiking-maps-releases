@@ -3199,6 +3199,26 @@
     "country": "Kiribati"
   },
   {
+    "id": "kujawsko-pomorskie",
+    "region": "kujawsko-pomorskie",
+    "name": "Kujawsko Pomorskie",
+    "version": "20261111",
+    "file": "kujawsko-pomorskie-v20261111.pkg",
+    "size": 20378054,
+    "sha256": "0ada83132e1f85243c001e60081685a2bd1f2097db32a7de0d4d37eeddb064e0",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 52.32112,
+      "minLon": 17.23935,
+      "maxLat": 53.7917,
+      "maxLon": 19.77239
+    },
+    "country": "Poland"
+  },
+  {
     "id": "kyrgyzstan",
     "region": "kyrgyzstan",
     "name": "Kyrgyzstan",
