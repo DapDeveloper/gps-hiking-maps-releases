@@ -999,6 +999,26 @@
     }
   },
   {
+    "id": "cantabria",
+    "region": "cantabria",
+    "name": "Cantabria",
+    "version": "20261111",
+    "file": "cantabria-v20261111.pkg",
+    "size": 8568948,
+    "sha256": "4502e74868f17264803cdb766d76ee7d07642cf57484943ac103ba3473f397e7",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 42.754575,
+      "minLon": -4.861622,
+      "maxLat": 43.891957,
+      "maxLon": -3.144839
+    },
+    "country": "Spain"
+  },
+  {
     "id": "cape-verde",
     "region": "cape-verde",
     "name": "Cape Verde",
