@@ -1713,6 +1713,26 @@
     "country": "Malawi"
   },
   {
+    "id": "malaysia-singapore-brunei",
+    "region": "malaysia-singapore-brunei",
+    "name": "Malaysia, Singapore, and Brunei",
+    "version": "20261110",
+    "file": "malaysia-singapore-brunei-v20261110.pkg",
+    "size": 101541359,
+    "sha256": "9e979c984aa8e3f71ec04b62fa0782c35e7a3fabeb8dd94c45b8fc35dcc6cc63",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 16,
+    "bounds": {
+      "minLat": 0.830813,
+      "minLon": 99.25611,
+      "maxLat": 7.736849,
+      "maxLon": 119.668278
+    },
+    "country": "Malaysia, Singapore, and Brunei"
+  },
+  {
     "id": "maldives",
     "region": "maldives",
     "name": "Maldives",
