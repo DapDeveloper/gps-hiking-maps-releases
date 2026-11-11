@@ -2289,6 +2289,26 @@
     "country": "Paraguay"
   },
   {
+    "id": "peru",
+    "region": "peru",
+    "name": "Peru",
+    "version": "20261111",
+    "file": "peru-v20261111.pkg",
+    "size": 100095419,
+    "sha256": "341d699e73b6168455542b5633c3479bddc3e7c794e901a88e9edc53ac643af9",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 16,
+    "bounds": {
+      "minLat": -20.305519,
+      "minLon": -86.02509,
+      "maxLat": 0.060049,
+      "maxLon": -68.55439
+    },
+    "country": "Peru"
+  },
+  {
     "id": "piemonte",
     "region": "piemonte",
     "name": "Piemonte",
