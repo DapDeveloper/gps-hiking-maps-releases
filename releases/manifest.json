@@ -1887,6 +1887,30 @@
     "country": "United Kingdom"
   },
   {
+    "id": "far-eastern-fed-district",
+    "region": "far-eastern-fed-district",
+    "name": "Far Eastern Federal District",
+    "version": "20261111",
+    "file": "far-eastern-fed-district-v20261111.pkg",
+    "size": 653939957,
+    "sha256": "31b259f6176738d0f0d22100bf02648bc1e2ed8701d716c19f33060ed0d6e48f",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife \u00b7 Official trails: \u00a9 Club Alpino Italiano (CAI) \u2014 INFOMONT (infomont.cai.it), ODbL 1.0 \u00b7 \u00a9 Societ\u00e0 degli Alpinisti Tridentini (SAT) \u2014 sat.tn.it, ODbL 1.0",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 37.34659,
+      "minLon": -180.0,
+      "maxLat": 82.00023,
+      "maxLon": 180.0
+    },
+    "country": "Russian Federation",
+    "trail_sources": [
+      "CAI",
+      "SAT"
+    ]
+  },
+  {
     "id": "faroe-islands",
     "region": "faroe-islands",
     "name": "Faroe Islands",
