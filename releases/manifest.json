@@ -2119,6 +2119,26 @@
     "country": "Spain"
   },
   {
+    "id": "gansu",
+    "region": "gansu",
+    "name": "Gansu",
+    "version": "20261111",
+    "file": "gansu-v20261111.pkg",
+    "size": 36952967,
+    "sha256": "0824ce4aee1cc05633abfa9a990d7022a599a222b1a5ae380f329304bbf29c6f",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 32.584378,
+      "minLon": 92.299072,
+      "maxLat": 42.813538,
+      "maxLon": 108.719263
+    },
+    "country": "China"
+  },
+  {
     "id": "gcc-states",
     "region": "gcc-states",
     "name": "GCC States",
