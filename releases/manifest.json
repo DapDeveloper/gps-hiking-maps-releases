@@ -1971,6 +1971,26 @@
     "country": "Finland"
   },
   {
+    "id": "flevoland",
+    "region": "flevoland",
+    "name": "Flevoland",
+    "version": "20261111",
+    "file": "flevoland-v20261111.pkg",
+    "size": 5364917,
+    "sha256": "fabd27de95e5a3bd7742a7c9e8e7ca7349d729832d3bf2d83e1010cdb0cd9ae9",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 52.24826,
+      "minLon": 5.059593,
+      "maxLat": 52.84516,
+      "maxLon": 6.018276
+    },
+    "country": "Netherlands"
+  },
+  {
     "id": "friuli-venezia-giulia",
     "region": "friuli-venezia-giulia",
     "name": "Friuli-Venezia Giulia",
