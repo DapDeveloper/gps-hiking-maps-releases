@@ -4092,6 +4092,26 @@
     "country": "Germany"
   },
   {
+    "id": "melilla",
+    "region": "melilla",
+    "name": "Melilla",
+    "version": "20261111",
+    "file": "melilla-v20261111.pkg",
+    "size": 162191,
+    "sha256": "6eb1856ea379dfc5e981930891b864ff55336efa0566e71d66cc0bbe76e97015",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 35.26195,
+      "minLon": -2.980213,
+      "maxLat": 35.32619,
+      "maxLon": -2.908201
+    },
+    "country": "Spain"
+  },
+  {
     "id": "mexico",
     "region": "mexico",
     "name": "Mexico",
