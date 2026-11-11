@@ -5750,6 +5750,26 @@
     "country": "Germany"
   },
   {
+    "id": "scotland",
+    "region": "scotland",
+    "name": "Scotland",
+    "version": "20261111",
+    "file": "scotland-v20261111.pkg",
+    "size": 80828256,
+    "sha256": "a62b4c6edc08bdfd5672d1234a9a042e12788b4234a5f07248bf0fc7c9ebfa33",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 54.54001,
+      "minLon": -14.861554,
+      "maxLat": 61.35131,
+      "maxLon": 0.731931
+    },
+    "country": "United Kingdom"
+  },
+  {
     "id": "senegal-and-gambia",
     "region": "senegal-and-gambia",
     "name": "Senegal and Gambia",
