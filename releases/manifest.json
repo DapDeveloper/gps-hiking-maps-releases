@@ -3924,6 +3924,26 @@
     "country": "Indonesia (with East Timor)"
   },
   {
+    "id": "manitoba",
+    "region": "manitoba",
+    "name": "Manitoba",
+    "version": "20261111",
+    "file": "manitoba-v20261111.pkg",
+    "size": 240583537,
+    "sha256": "4086f6e53c0c130576db659350d3ec70ef330bcdb3cc6e1392a86b1f020df718",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 48.99056,
+      "minLon": -102.014,
+      "maxLat": 60.00845,
+      "maxLon": -88.12183
+    },
+    "country": "Canada"
+  },
+  {
     "id": "marche",
     "region": "marche",
     "name": "Marche",
