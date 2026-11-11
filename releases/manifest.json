@@ -783,6 +783,26 @@
     "country": "France"
   },
   {
+    "id": "brandenburg",
+    "region": "brandenburg",
+    "name": "Brandenburg (mit Berlin)",
+    "version": "20261111",
+    "file": "brandenburg-v20261111.pkg",
+    "size": 53550866,
+    "sha256": "2b746024c45961feddc399f4c847c4569236a261502bc18d9bb8ee2bd234198c",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 51.356132,
+      "minLon": 11.260643,
+      "maxLat": 53.562948,
+      "maxLon": 14.894526
+    },
+    "country": "Germany"
+  },
+  {
     "id": "bulgaria",
     "region": "bulgaria",
     "name": "Bulgaria",
