@@ -4680,6 +4680,26 @@
     "country": "Norway"
   },
   {
+    "id": "nord-pas-de-calais",
+    "region": "nord-pas-de-calais",
+    "name": "Nord-Pas-de-Calais",
+    "version": "20261111",
+    "file": "nord-pas-de-calais-v20261111.pkg",
+    "size": 22742582,
+    "sha256": "3cdc45aa6dad1e672d5ca3d00990749b08cc7e876362a9fcb8990ff82b777e01",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 49.96764,
+      "minLon": 1.278311,
+      "maxLat": 51.28121,
+      "maxLon": 4.273287
+    },
+    "country": "France"
+  },
+  {
     "id": "nordeste",
     "region": "nordeste",
     "name": "Nordeste",
