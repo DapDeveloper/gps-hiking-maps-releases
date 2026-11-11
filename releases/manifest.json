@@ -3304,6 +3304,26 @@
     "country": "Tuvalu"
   },
   {
+    "id": "uganda",
+    "region": "uganda",
+    "name": "Uganda",
+    "version": "20261111",
+    "file": "uganda-v20261111.pkg",
+    "size": 107174839,
+    "sha256": "9540fc6eedf3029b74091437751f583b2067bf519547daca9137a303566f828b",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 16,
+    "bounds": {
+      "minLat": -1.487315,
+      "minLon": 29.57056,
+      "maxLat": 4.250552,
+      "maxLon": 35.01031
+    },
+    "country": "Uganda"
+  },
+  {
     "id": "umbria",
     "region": "umbria",
     "name": "Umbria",
