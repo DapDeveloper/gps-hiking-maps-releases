@@ -4840,6 +4840,26 @@
     "country": "India"
   },
   {
+    "id": "northwestern-fed-district",
+    "region": "northwestern-fed-district",
+    "name": "Northwestern Federal District",
+    "version": "20261111",
+    "file": "northwestern-fed-district-v20261111.pkg",
+    "size": 566976242,
+    "sha256": "e0b50eee80ad6b883fc37332567d7b9a1cc6cda7aa36025e7be52e1a55529b8d",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 51.45889,
+      "minLon": 18.37832,
+      "maxLat": 82.54561,
+      "maxLon": 72.62481
+    },
+    "country": "Russian Federation"
+  },
+  {
     "id": "pakistan",
     "region": "pakistan",
     "name": "Pakistan",
