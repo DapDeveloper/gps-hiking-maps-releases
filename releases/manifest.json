@@ -2699,6 +2699,26 @@
     "country": "China"
   },
   {
+    "id": "hunan",
+    "region": "hunan",
+    "name": "Hunan",
+    "version": "20261111",
+    "file": "hunan-v20261111.pkg",
+    "size": 37088001,
+    "sha256": "4c0a52e6f9832ec593c969738d7a5032204c9bf56ff24af6a1eb7765350d9a01",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 24.632663,
+      "minLon": 108.779239,
+      "maxLat": 30.138002,
+      "maxLon": 114.258499
+    },
+    "country": "China"
+  },
+  {
     "id": "hungary",
     "region": "hungary",
     "name": "Hungary",
