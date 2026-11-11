@@ -4152,6 +4152,26 @@
     "country": "Micronesia"
   },
   {
+    "id": "midi-pyrenees",
+    "region": "midi-pyrenees",
+    "name": "Midi-Pyrenees",
+    "version": "20261111",
+    "file": "midi-pyrenees-v20261111.pkg",
+    "size": 73459446,
+    "sha256": "a88bdfa100bf0b00f8d666ab4eaa051dc7f0976bf2867b65282cafb53a302fc0",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 42.53333,
+      "minLon": -0.327537,
+      "maxLat": 45.04779,
+      "maxLon": 3.453264
+    },
+    "country": "France"
+  },
+  {
     "id": "moldova",
     "region": "moldova",
     "name": "Moldova",
