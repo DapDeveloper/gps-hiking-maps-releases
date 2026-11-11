@@ -5120,6 +5120,26 @@
     "country": "Paraguay"
   },
   {
+    "id": "pays-de-la-loire",
+    "region": "pays-de-la-loire",
+    "name": "Pays de la Loire",
+    "version": "20261111",
+    "file": "pays-de-la-loire-v20261111.pkg",
+    "size": 54396123,
+    "sha256": "718c14d66f87623fba132f9e938b5832d8f66f4ad317e191c0c972d14865083d",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 46.21875,
+      "minLon": -2.674666,
+      "maxLat": 48.57002,
+      "maxLon": 0.918996
+    },
+    "country": "France"
+  },
+  {
     "id": "peru",
     "region": "peru",
     "name": "Peru",
