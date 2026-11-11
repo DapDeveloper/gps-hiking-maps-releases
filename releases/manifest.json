@@ -4072,6 +4072,26 @@
     "country": "Poland"
   },
   {
+    "id": "mecklenburg-vorpommern",
+    "region": "mecklenburg-vorpommern",
+    "name": "Mecklenburg-Vorpommern",
+    "version": "20261111",
+    "file": "mecklenburg-vorpommern-v20261111.pkg",
+    "size": 27901739,
+    "sha256": "a85644c4812a94e0ff04a1e559b3fd4a0307a554cde8eb24358308feaba56d76",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 53.106186,
+      "minLon": 10.588074,
+      "maxLat": 54.99857,
+      "maxLon": 14.43422
+    },
+    "country": "Germany"
+  },
+  {
     "id": "mexico",
     "region": "mexico",
     "name": "Mexico",
