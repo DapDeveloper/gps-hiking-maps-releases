@@ -4960,6 +4960,26 @@
     "country": "Norway"
   },
   {
+    "id": "overijssel",
+    "region": "overijssel",
+    "name": "Overijssel",
+    "version": "20261111",
+    "file": "overijssel-v20261111.pkg",
+    "size": 13284002,
+    "sha256": "81a9564fc6c76855f04fc6d051a6b8e71875a0054cf1ef73573b504e7ef46274",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 52.074443,
+      "minLon": 5.776793,
+      "maxLat": 52.85539,
+      "maxLon": 7.179848
+    },
+    "country": "Netherlands"
+  },
+  {
     "id": "pakistan",
     "region": "pakistan",
     "name": "Pakistan",
