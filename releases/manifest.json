@@ -5870,6 +5870,26 @@
     "country": "China"
   },
   {
+    "id": "shanghai",
+    "region": "shanghai",
+    "name": "Shanghai",
+    "version": "20261111",
+    "file": "shanghai-v20261111.pkg",
+    "size": 9942440,
+    "sha256": "d6a463e68d7fecda559ef56b1d2a180e33a628058dd33507f696817320f47224",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 30.639095,
+      "minLon": 120.847034,
+      "maxLat": 31.884555,
+      "maxLon": 123.679027
+    },
+    "country": "China"
+  },
+  {
     "id": "sicilia",
     "region": "sicilia",
     "name": "Sicilia",
