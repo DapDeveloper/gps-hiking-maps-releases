@@ -1847,6 +1847,26 @@
     "country": "Ethiopia"
   },
   {
+    "id": "extremadura",
+    "region": "extremadura",
+    "name": "Extremadura",
+    "version": "20261111",
+    "file": "extremadura-v20261111.pkg",
+    "size": 18202992,
+    "sha256": "71dbf3b34e03223c43b1f228c713de7b8e429e4538fa4b7ba9f5ff6e5a4dd96e",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 37.938512,
+      "minLon": -7.642366,
+      "maxLat": 40.489129,
+      "maxLon": -4.64241
+    },
+    "country": "Spain"
+  },
+  {
     "id": "faroe-islands",
     "region": "faroe-islands",
     "name": "Faroe Islands",
