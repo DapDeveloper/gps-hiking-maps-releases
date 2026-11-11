@@ -4920,6 +4920,26 @@
     "country": "Indonesia (with East Timor)"
   },
   {
+    "id": "opolskie",
+    "region": "opolskie",
+    "name": "Opolskie",
+    "version": "20261111",
+    "file": "opolskie-v20261111.pkg",
+    "size": 10184764,
+    "sha256": "2007afc7e6a1d0f896a31d63fc2f66ac6217dbe96feb4e5fbf14917ec776b66c",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 49.65101,
+      "minLon": 16.9015,
+      "maxLat": 51.2014,
+      "maxLon": 18.70219
+    },
+    "country": "Poland"
+  },
+  {
     "id": "pakistan",
     "region": "pakistan",
     "name": "Pakistan",
