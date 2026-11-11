@@ -2488,6 +2488,26 @@
     }
   },
   {
+    "id": "romania",
+    "region": "romania",
+    "name": "Romania",
+    "version": "20261111",
+    "file": "romania-v20261111.pkg",
+    "size": 110229305,
+    "sha256": "1f8663b8c8151bc2e100943c81ef0e354fff5d96663eaf3891ea095a71c253b9",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 16,
+    "bounds": {
+      "minLat": 43.612466,
+      "minLon": 20.24181,
+      "maxLat": 48.269483,
+      "maxLon": 30.27896
+    },
+    "country": "Romania"
+  },
+  {
     "id": "rwanda",
     "region": "rwanda",
     "name": "Rwanda",
