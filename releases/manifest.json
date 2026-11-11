@@ -4780,6 +4780,26 @@
     "country": "Russian Federation"
   },
   {
+    "id": "north-eastern-zone",
+    "region": "north-eastern-zone",
+    "name": "North-Eastern Zone",
+    "version": "20261111",
+    "file": "north-eastern-zone-v20261111.pkg",
+    "size": 61278600,
+    "sha256": "b86fc21d59f355c5158231059622c67f8dba0d482ae2d2f3a0c21d5d63e88385",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 21.186983,
+      "minLon": 87.703846,
+      "maxLat": 30.48656,
+      "maxLon": 100.272206
+    },
+    "country": "India"
+  },
+  {
     "id": "north-korea",
     "region": "north-korea",
     "name": "North Korea",
