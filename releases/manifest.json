@@ -6161,6 +6161,26 @@
     "country": "South Africa"
   },
   {
+    "id": "south-fed-district",
+    "region": "south-fed-district",
+    "name": "South Federal District",
+    "version": "20261111",
+    "file": "south-fed-district-v20261111.pkg",
+    "size": 421258452,
+    "sha256": "a60471fd54765bb9ae7a8343ae300d45efde19a4676618458e1f0cd150cac343",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 42.62031,
+      "minLon": 36.52315,
+      "maxLat": 51.2554,
+      "maxLon": 51.16607
+    },
+    "country": "Russian Federation"
+  },
+  {
     "id": "south-korea",
     "region": "south-korea",
     "name": "South Korea",
