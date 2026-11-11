@@ -5730,6 +5730,26 @@
     "country": "Canada"
   },
   {
+    "id": "schleswig-holstein",
+    "region": "schleswig-holstein",
+    "name": "Schleswig-Holstein",
+    "version": "20261111",
+    "file": "schleswig-holstein-v20261111.pkg",
+    "size": 29556440,
+    "sha256": "5b3d34d1e6d3b93f129e96d5a91a53933a3cce642e5ff075c46f7e47e21a0aa5",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 53.356904,
+      "minLon": 7.46458,
+      "maxLat": 55.14634,
+      "maxLon": 11.799314
+    },
+    "country": "Germany"
+  },
+  {
     "id": "senegal-and-gambia",
     "region": "senegal-and-gambia",
     "name": "Senegal and Gambia",
