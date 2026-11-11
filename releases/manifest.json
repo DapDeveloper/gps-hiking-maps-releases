@@ -1876,6 +1876,26 @@
     "country": "Macedonia"
   },
   {
+    "id": "madagascar",
+    "region": "madagascar",
+    "name": "Madagascar",
+    "version": "20261111",
+    "file": "madagascar-v20261111.pkg",
+    "size": 94663907,
+    "sha256": "295708178cda762a2af385028ed5206df8656d51be5d96529fcadfda16be4c75",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 16,
+    "bounds": {
+      "minLat": -26.5823,
+      "minLon": 42.30124,
+      "maxLat": -11.027461,
+      "maxLon": 51.14843
+    },
+    "country": "Madagascar"
+  },
+  {
     "id": "malawi",
     "region": "malawi",
     "name": "Malawi",
