@@ -2684,6 +2684,29 @@
     "country": "Sierra Leone"
   },
   {
+    "id": "slovenia",
+    "region": "slovenia",
+    "name": "Slovenia",
+    "version": "20261111",
+    "file": "slovenia-v20261111.pkg",
+    "size": 41854135,
+    "sha256": "7c5843213cab3db36a7fd028554ef64abe9e6bc61ce5c33f77c19f6255d3e757",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife \u00b7 Official trails: \u00a9 Club Alpino Italiano (CAI) \u2014 INFOMONT (infomont.cai.it), ODbL 1.0",
+    "minZoom": 7,
+    "maxZoom": 16,
+    "bounds": {
+      "minLat": 45.420805,
+      "minLon": 13.305086,
+      "maxLat": 46.879555,
+      "maxLon": 16.600342
+    },
+    "country": "Slovenia",
+    "trail_sources": [
+      "CAI"
+    ]
+  },
+  {
     "id": "solomon-islands",
     "region": "solomon-islands",
     "name": "Solomon Islands",
