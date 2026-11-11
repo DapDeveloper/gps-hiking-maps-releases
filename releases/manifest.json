@@ -5180,6 +5180,26 @@
     "country": "Philippines"
   },
   {
+    "id": "picardie",
+    "region": "picardie",
+    "name": "Picardie",
+    "version": "20261111",
+    "file": "picardie-v20261111.pkg",
+    "size": 19025941,
+    "sha256": "ffc4ae0357283d743bbbeafbd84112578da8689a3d2577806d447ae7db07ca2d",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 48.83599,
+      "minLon": 1.360085,
+      "maxLat": 50.37125,
+      "maxLon": 4.256744
+    },
+    "country": "France"
+  },
+  {
     "id": "piemonte",
     "region": "piemonte",
     "name": "Piemonte",
