@@ -1867,6 +1867,26 @@
     "country": "Spain"
   },
   {
+    "id": "falklands",
+    "region": "falklands",
+    "name": "Falkland Islands",
+    "version": "20261111",
+    "file": "falklands-v20261111.pkg",
+    "size": 1667116,
+    "sha256": "92513d2ee385ad79311e390f76d6e1a18e2d963410eca4b8e6100973626bd9d8",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": -53.406045,
+      "minLon": -62.201418,
+      "maxLat": -50.674047,
+      "maxLon": -56.444528
+    },
+    "country": "United Kingdom"
+  },
+  {
     "id": "faroe-islands",
     "region": "faroe-islands",
     "name": "Faroe Islands",
