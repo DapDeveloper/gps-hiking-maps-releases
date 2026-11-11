@@ -3239,6 +3239,26 @@
     "country": "Kyrgyzstan"
   },
   {
+    "id": "kyushu",
+    "region": "kyushu",
+    "name": "Ky\u016bsh\u016b",
+    "version": "20261111",
+    "file": "kyushu-v20261111.pkg",
+    "size": 80955203,
+    "sha256": "88e32fa33dcb4419fb4481101baa423291f2e9a959c1addbb0554a884e7c8980",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 20.725941,
+      "minLon": 122.23438,
+      "maxLat": 35.097244,
+      "maxLon": 132.804417
+    },
+    "country": "Japan"
+  },
+  {
     "id": "laos",
     "region": "laos",
     "name": "Laos",
