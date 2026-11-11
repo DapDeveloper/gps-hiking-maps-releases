@@ -3624,6 +3624,26 @@
     }
   },
   {
+    "id": "lorraine",
+    "region": "lorraine",
+    "name": "Lorraine",
+    "version": "20261111",
+    "file": "lorraine-v20261111.pkg",
+    "size": 30658538,
+    "sha256": "784751838300fe492d51f9421cc8e26cdb836b068203200ae2c792c447b66df5",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 47.81188,
+      "minLon": 4.886022,
+      "maxLat": 49.61949,
+      "maxLon": 7.689503
+    },
+    "country": "France"
+  },
+  {
     "id": "luxembourg",
     "region": "luxembourg",
     "name": "Luxembourg",
