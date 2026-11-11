@@ -5930,6 +5930,26 @@
     "country": "Japan"
   },
   {
+    "id": "siberian-fed-district",
+    "region": "siberian-fed-district",
+    "name": "Siberian Federal District",
+    "version": "20261111",
+    "file": "siberian-fed-district-v20261111.pkg",
+    "size": 1097991574,
+    "sha256": "99e1cc9f6fc63fc01b14d5795c4a6e82b5f2ac24b52cb46c3475fed088bcd366",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 36.83112,
+      "minLon": 69.86399,
+      "maxLat": 81.88747,
+      "maxLon": 147.7133
+    },
+    "country": "Russian Federation"
+  },
+  {
     "id": "sicilia",
     "region": "sicilia",
     "name": "Sicilia",
