@@ -4900,6 +4900,26 @@
     "country": "Canada"
   },
   {
+    "id": "nusa-tenggara",
+    "region": "nusa-tenggara",
+    "name": "Nusa-Tenggara",
+    "version": "20261111",
+    "file": "nusa-tenggara-v20261111.pkg",
+    "size": 25787198,
+    "sha256": "a013b90526e6927e78bbf20b2480f2610a88d758b060af261e6fc44c0b0dfc7d",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": -11.662985,
+      "minLon": 114.408874,
+      "maxLat": -6.675509,
+      "maxLon": 128.485096
+    },
+    "country": "Indonesia (with East Timor)"
+  },
+  {
     "id": "pakistan",
     "region": "pakistan",
     "name": "Pakistan",
