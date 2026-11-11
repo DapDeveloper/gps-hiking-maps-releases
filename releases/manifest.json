@@ -1459,6 +1459,26 @@
     "country": "Costa Rica"
   },
   {
+    "id": "crimean-fed-district",
+    "region": "crimean-fed-district",
+    "name": "Crimean Federal District",
+    "version": "20261111",
+    "file": "crimean-fed-district-v20261111.pkg",
+    "size": 10349730,
+    "sha256": "bcc7582b315de902d66eca956b0a64b7b6c300e29dcd6b07ef297d84af78f93e",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 43.84919,
+      "minLon": 31.32914,
+      "maxLat": 46.57522,
+      "maxLon": 36.68355
+    },
+    "country": "Russian Federation"
+  },
+  {
     "id": "croatia",
     "region": "croatia",
     "name": "Croatia",
