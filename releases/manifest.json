@@ -543,6 +543,26 @@
     "country": "Germany"
   },
   {
+    "id": "beijing",
+    "region": "beijing",
+    "name": "Beijing",
+    "version": "20261111",
+    "file": "beijing-v20261111.pkg",
+    "size": 20958816,
+    "sha256": "3ff7fdc463292555a932a02c34765e811203277efbaf00a4c1e6efa22819dd0b",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 39.440833,
+      "minLon": 115.415497,
+      "maxLat": 41.063822,
+      "maxLon": 117.509508
+    },
+    "country": "China"
+  },
+  {
     "id": "belarus",
     "region": "belarus",
     "name": "Belarus",
