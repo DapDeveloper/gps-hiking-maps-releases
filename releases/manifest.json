@@ -2279,6 +2279,26 @@
     "country": "Netherlands"
   },
   {
+    "id": "guadeloupe",
+    "region": "guadeloupe",
+    "name": "Guadeloupe",
+    "version": "20261111",
+    "file": "guadeloupe-v20261111.pkg",
+    "size": 3094232,
+    "sha256": "f26f5cb300f35ed5677d1ad3400c16f207b3de131e050991655fd2322a75ee12",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 15.49074,
+      "minLon": -62.152406,
+      "maxLat": 16.824261,
+      "maxLon": -60.604707
+    },
+    "country": "France"
+  },
+  {
     "id": "guatemala",
     "region": "guatemala",
     "name": "Guatemala",
