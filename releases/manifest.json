@@ -3535,6 +3535,26 @@
     "country": "Netherlands"
   },
   {
+    "id": "limousin",
+    "region": "limousin",
+    "name": "Limousin",
+    "version": "20261111",
+    "file": "limousin-v20261111.pkg",
+    "size": 23941711,
+    "sha256": "76555df2a5387db83367899c5e5803c379962fdaf4574556258e178d8735e481",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 44.91842,
+      "minLon": 0.627097,
+      "maxLat": 46.45781,
+      "maxLon": 2.61384
+    },
+    "country": "France"
+  },
+  {
     "id": "lithuania",
     "region": "lithuania",
     "name": "Lithuania",
