@@ -2764,6 +2764,26 @@
     "country": "Sierra Leone"
   },
   {
+    "id": "slovakia",
+    "region": "slovakia",
+    "name": "Slovakia",
+    "version": "20261111",
+    "file": "slovakia-v20261111.pkg",
+    "size": 61192755,
+    "sha256": "aa28377fc01137a2dd0528661d47b034f9a9fd7ea1d614dcbcdb080feb9a830c",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 16,
+    "bounds": {
+      "minLat": 47.72646,
+      "minLon": 16.830711,
+      "maxLat": 49.6186,
+      "maxLon": 22.57051
+    },
+    "country": "Slovakia"
+  },
+  {
     "id": "slovenia",
     "region": "slovenia",
     "name": "Slovenia",
