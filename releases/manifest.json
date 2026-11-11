@@ -259,6 +259,26 @@
     }
   },
   {
+    "id": "belarus",
+    "region": "belarus",
+    "name": "Belarus",
+    "version": "20261111",
+    "file": "belarus-v20261111.pkg",
+    "size": 101475749,
+    "sha256": "da29ce4aae1b83f0309bd1f69623c5cfdf70a439ab458c909a4d820294aefd4e",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 16,
+    "bounds": {
+      "minLat": 51.234408,
+      "minLon": 23.174801,
+      "maxLat": 56.173846,
+      "maxLon": 32.76947
+    },
+    "country": "Belarus"
+  },
+  {
     "id": "belize",
     "region": "belize",
     "name": "Belize",
