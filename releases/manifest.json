@@ -4660,6 +4660,26 @@
     "country": "Netherlands"
   },
   {
+    "id": "nordeste",
+    "region": "nordeste",
+    "name": "Nordeste",
+    "version": "20261111",
+    "file": "nordeste-v20261111.pkg",
+    "size": 244883008,
+    "sha256": "a1722daae9d1b4929651dbbc67d9420e0e65d59e7122b16cdbf99e105113af9c",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": -18.59514,
+      "minLon": -48.77554,
+      "maxLat": 3.719353,
+      "maxLon": -25.518758
+    },
+    "country": "Brazil"
+  },
+  {
     "id": "north-korea",
     "region": "north-korea",
     "name": "North Korea",
