@@ -1123,6 +1123,26 @@
     "country": "Fiji"
   },
   {
+    "id": "finland",
+    "region": "finland",
+    "name": "Finland",
+    "version": "20261111",
+    "file": "finland-v20261111.pkg",
+    "size": 311948612,
+    "sha256": "2b50effacb9a16782be0b734376c498bf00ca6803c967af609eb367e73380da3",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 16,
+    "bounds": {
+      "minLat": 59.28783,
+      "minLon": 19.02427,
+      "maxLat": 70.09959,
+      "maxLon": 31.615904
+    },
+    "country": "Finland"
+  },
+  {
     "id": "friuli-venezia-giulia",
     "region": "friuli-venezia-giulia",
     "name": "Friuli-Venezia Giulia",
