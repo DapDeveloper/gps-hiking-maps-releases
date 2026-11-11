@@ -2599,6 +2599,26 @@
     "country": "China"
   },
   {
+    "id": "hessen",
+    "region": "hessen",
+    "name": "Hessen",
+    "version": "20261111",
+    "file": "hessen-v20261111.pkg",
+    "size": 59825104,
+    "sha256": "b002cf2881f625e64d0cef78f57f79c924fad461ca73dd5cbb76f58bb82587f1",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 49.393212,
+      "minLon": 7.768021,
+      "maxLat": 51.659158,
+      "maxLon": 10.245952
+    },
+    "country": "Germany"
+  },
+  {
     "id": "honduras",
     "region": "honduras",
     "name": "Honduras",
