@@ -1239,6 +1239,26 @@
     "country": "Chad"
   },
   {
+    "id": "champagne-ardenne",
+    "region": "champagne-ardenne",
+    "name": "Champagne Ardenne",
+    "version": "20261111",
+    "file": "champagne-ardenne-v20261111.pkg",
+    "size": 20841096,
+    "sha256": "5eeaf7cfa53f80549d7ea7247e6dd06695fc0fe2d15613b5f0da498e6acc18e7",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 47.57553,
+      "minLon": 3.382419,
+      "maxLat": 50.22065,
+      "maxLon": 5.892182
+    },
+    "country": "France"
+  },
+  {
     "id": "chile",
     "region": "chile",
     "name": "Chile",
