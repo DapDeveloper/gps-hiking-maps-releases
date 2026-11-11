@@ -4320,6 +4320,26 @@
     "country": "Mozambique"
   },
   {
+    "id": "murcia",
+    "region": "murcia",
+    "name": "Murcia",
+    "version": "20261111",
+    "file": "murcia-v20261111.pkg",
+    "size": 11532436,
+    "sha256": "d0b57ef8c4f0cf32ecd3e0b569a6152d73f3abe7c77c22aa06dc4995a66065cb",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 37.112147,
+      "minLon": -2.351246,
+      "maxLat": 38.760241,
+      "maxLon": -0.247194
+    },
+    "country": "Spain"
+  },
+  {
     "id": "myanmar",
     "region": "myanmar",
     "name": "Myanmar (a.k.a. Burma)",
