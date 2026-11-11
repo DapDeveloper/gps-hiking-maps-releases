@@ -5060,6 +5060,26 @@
     "country": "Panama"
   },
   {
+    "id": "papua",
+    "region": "papua",
+    "name": "Papua",
+    "version": "20261111",
+    "file": "papua-v20261111.pkg",
+    "size": 16471548,
+    "sha256": "e5029b93e93f883732e9551473fa696a2cf160f7bcad8cc2684495eaff6176e5",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": -9.495116,
+      "minLon": 128.281858,
+      "maxLat": 2.075967,
+      "maxLon": 141.058957
+    },
+    "country": "Indonesia (with East Timor)"
+  },
+  {
     "id": "papua-new-guinea",
     "region": "papua-new-guinea",
     "name": "Papua New Guinea",
