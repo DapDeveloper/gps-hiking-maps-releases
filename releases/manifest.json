@@ -2959,6 +2959,26 @@
     "country": "Jamaica"
   },
   {
+    "id": "java",
+    "region": "java",
+    "name": "Java",
+    "version": "20261111",
+    "file": "java-v20261111.pkg",
+    "size": 137177967,
+    "sha256": "81f66478d37b86067fbd4564c3a7a138be1ddba988f06e7d7e7adde6dc46355e",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": -9.541155,
+      "minLon": 104.139393,
+      "maxLat": -3.951935,
+      "maxLon": 116.581418
+    },
+    "country": "Indonesia (with East Timor)"
+  },
+  {
     "id": "jordan",
     "region": "jordan",
     "name": "Jordan",
