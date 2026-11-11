@@ -3692,6 +3692,26 @@
     "country": "Uganda"
   },
   {
+    "id": "ukraine",
+    "region": "ukraine",
+    "name": "Ukraine (with Crimea)",
+    "version": "20261111",
+    "file": "ukraine-v20261111.pkg",
+    "size": 217047090,
+    "sha256": "331435b2634e68f27468da9e5e82bcd9b1dae2ca1b340181240ef1935a0daa4b",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 16,
+    "bounds": {
+      "minLat": 44.008624,
+      "minLon": 22.132644,
+      "maxLat": 52.386497,
+      "maxLon": 40.238113
+    },
+    "country": "Ukraine (with Crimea)"
+  },
+  {
     "id": "umbria",
     "region": "umbria",
     "name": "Umbria",
