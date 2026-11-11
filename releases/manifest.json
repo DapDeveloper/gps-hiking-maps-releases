@@ -1079,6 +1079,26 @@
     "country": "Spain"
   },
   {
+    "id": "cataluna",
+    "region": "cataluna",
+    "name": "Catalu\u00f1a",
+    "version": "20261111",
+    "file": "cataluna-v20261111.pkg",
+    "size": 65603612,
+    "sha256": "3d69fc27ddb036ad51c69d8b34dba6ecef479ff1103fc4491681083fead2b532",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 40.212449,
+      "minLon": 0.156383,
+      "maxLat": 42.924254,
+      "maxLon": 4.174794
+    },
+    "country": "Spain"
+  },
+  {
     "id": "central-african-republic",
     "region": "central-african-republic",
     "name": "Central African Republic",
