@@ -2779,6 +2779,26 @@
     "country": "\u00cele de Clipperton"
   },
   {
+    "id": "ile-de-france",
+    "region": "ile-de-france",
+    "name": "Ile-de-France",
+    "version": "20261111",
+    "file": "ile-de-france-v20261111.pkg",
+    "size": 40207016,
+    "sha256": "8271a5b56bad6e9e929ba66aee19cb7f80cee5317a957c86219c50adee4986fd",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 48.11918,
+      "minLon": 1.445097,
+      "maxLat": 49.24271,
+      "maxLon": 3.560409
+    },
+    "country": "France"
+  },
+  {
     "id": "iran",
     "region": "iran",
     "name": "Iran",
