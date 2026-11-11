@@ -375,6 +375,26 @@
     ]
   },
   {
+    "id": "auvergne",
+    "region": "auvergne",
+    "name": "Auvergne",
+    "version": "20261111",
+    "file": "auvergne-v20261111.pkg",
+    "size": 35509256,
+    "sha256": "8fb9dbd001167afe25be5c50410e6ab182443df369c82c9e2361f20dea47d844",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 44.6146,
+      "minLon": 2.060519,
+      "maxLat": 46.80668,
+      "maxLon": 4.492907
+    },
+    "country": "France"
+  },
+  {
     "id": "azerbaijan",
     "region": "azerbaijan",
     "name": "Azerbaijan",
