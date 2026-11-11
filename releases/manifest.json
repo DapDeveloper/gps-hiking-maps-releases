@@ -5950,6 +5950,26 @@
     "country": "Russian Federation"
   },
   {
+    "id": "sichuan",
+    "region": "sichuan",
+    "name": "Sichuan",
+    "version": "20261111",
+    "file": "sichuan-v20261111.pkg",
+    "size": 75233194,
+    "sha256": "888d918762a4ee281e4a2f0f6594f5c72591b67c9a1a28bf473a845ec4c538c4",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 26.045988,
+      "minLon": 97.312773,
+      "maxLat": 34.33153,
+      "maxLon": 108.550758
+    },
+    "country": "China"
+  },
+  {
     "id": "sicilia",
     "region": "sicilia",
     "name": "Sicilia",
