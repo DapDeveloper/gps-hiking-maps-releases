@@ -1659,6 +1659,26 @@
     "country": "East Timor"
   },
   {
+    "id": "eastern-zone",
+    "region": "eastern-zone",
+    "name": "Eastern Zone",
+    "version": "20261111",
+    "file": "eastern-zone-v20261111.pkg",
+    "size": 105078113,
+    "sha256": "a21a9b4f9ee273c4cbd2721b66d7349df02f66046531734912e0f8571415ecfb",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 17.780565,
+      "minLon": 81.367492,
+      "maxLat": 27.989553,
+      "maxLon": 89.918288
+    },
+    "country": "India"
+  },
+  {
     "id": "ecuador",
     "region": "ecuador",
     "name": "Ecuador",
