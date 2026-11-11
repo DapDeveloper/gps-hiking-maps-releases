@@ -1419,6 +1419,26 @@
     "country": "Cook Islands"
   },
   {
+    "id": "corse",
+    "region": "corse",
+    "name": "Corse",
+    "version": "20261111",
+    "file": "corse-v20261111.pkg",
+    "size": 9098644,
+    "sha256": "6cf04c24fb7485bc127a2e532893a9b4498e986883cc3c1028484b3a92a59551",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 41.31103,
+      "minLon": 8.317882,
+      "maxLat": 43.16589,
+      "maxLon": 9.751243
+    },
+    "country": "France"
+  },
+  {
     "id": "costa-rica",
     "region": "costa-rica",
     "name": "Costa Rica",
