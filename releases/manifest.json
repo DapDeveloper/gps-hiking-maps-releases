@@ -2799,6 +2799,26 @@
     "country": "France"
   },
   {
+    "id": "inner-mongolia",
+    "region": "inner-mongolia",
+    "name": "Inner Mongolia",
+    "version": "20261111",
+    "file": "inner-mongolia-v20261111.pkg",
+    "size": 147189558,
+    "sha256": "2628a69135225a47568102051fa82411e7cc48f8385eaa5b411d9012b83a8ce9",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 37.399619,
+      "minLon": 94.794238,
+      "maxLat": 54.365943,
+      "maxLon": 126.076698
+    },
+    "country": "China"
+  },
+  {
     "id": "iran",
     "region": "iran",
     "name": "Iran",
