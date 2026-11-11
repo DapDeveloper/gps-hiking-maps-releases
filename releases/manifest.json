@@ -5710,6 +5710,26 @@
     }
   },
   {
+    "id": "saskatchewan",
+    "region": "saskatchewan",
+    "name": "Saskatchewan",
+    "version": "20261111",
+    "file": "saskatchewan-v20261111.pkg",
+    "size": 171308478,
+    "sha256": "99f216bc63b91f14c14bfa79a6ad57e486d274293e2290de194d8c9b65752f36",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 48.32644,
+      "minLon": -110.0069,
+      "maxLat": 60.00052,
+      "maxLon": -101.3598
+    },
+    "country": "Canada"
+  },
+  {
     "id": "senegal-and-gambia",
     "region": "senegal-and-gambia",
     "name": "Senegal and Gambia",
