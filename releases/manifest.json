@@ -4640,6 +4640,26 @@
     "country": "Netherlands"
   },
   {
+    "id": "noord-holland",
+    "region": "noord-holland",
+    "name": "Noord-Holland",
+    "version": "20261111",
+    "file": "noord-holland-v20261111.pkg",
+    "size": 20764674,
+    "sha256": "8c721dbce555dbcae4c4739a4313329e74201c12b109f8c5d292aa31e1bfb870",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 52.16497,
+      "minLon": 3.896906,
+      "maxLat": 53.289446,
+      "maxLon": 5.378479
+    },
+    "country": "Netherlands"
+  },
+  {
     "id": "north-korea",
     "region": "north-korea",
     "name": "North Korea",
