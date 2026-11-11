@@ -3407,6 +3407,26 @@
     "country": "Lesotho"
   },
   {
+    "id": "liaoning",
+    "region": "liaoning",
+    "name": "Liaoning",
+    "version": "20261111",
+    "file": "liaoning-v20261111.pkg",
+    "size": 21214029,
+    "sha256": "90295922b21a568310307d3362ee9ffd149417c00489017c018a8fb47b02781c",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 38.261909,
+      "minLon": 118.830528,
+      "maxLat": 43.493032,
+      "maxLon": 126.291289
+    },
+    "country": "China"
+  },
+  {
     "id": "liberia",
     "region": "liberia",
     "name": "Liberia",
