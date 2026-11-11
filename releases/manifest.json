@@ -4580,6 +4580,26 @@
     "country": "Nigeria"
   },
   {
+    "id": "ningxia",
+    "region": "ningxia",
+    "name": "Ningxia",
+    "version": "20261111",
+    "file": "ningxia-v20261111.pkg",
+    "size": 5141736,
+    "sha256": "160935463ce33386a3b9ca42179fe5d10e4f891c33889c5bb42e452164c01c20",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 35.232721,
+      "minLon": 104.275,
+      "maxLat": 39.38606,
+      "maxLon": 107.657089
+    },
+    "country": "China"
+  },
+  {
     "id": "niue",
     "region": "niue",
     "name": "Niue",
