@@ -319,6 +319,26 @@
     "country": "Belarus"
   },
   {
+    "id": "belgium",
+    "region": "belgium",
+    "name": "Belgium",
+    "version": "20261111",
+    "file": "belgium-v20261111.pkg",
+    "size": 74355229,
+    "sha256": "680b0d18439c5f11e1e8c69a4bb8cacdee45798c131e6e914de7e689b700623d",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 16,
+    "bounds": {
+      "minLat": 49.494891,
+      "minLon": 2.340725,
+      "maxLat": 51.59839,
+      "maxLon": 6.410265
+    },
+    "country": "Belgium"
+  },
+  {
     "id": "belize",
     "region": "belize",
     "name": "Belize",
