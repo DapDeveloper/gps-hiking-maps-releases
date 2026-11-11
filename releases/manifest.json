@@ -4620,6 +4620,26 @@
     "country": "Niue"
   },
   {
+    "id": "noord-brabant",
+    "region": "noord-brabant",
+    "name": "Noord-Brabant",
+    "version": "20261111",
+    "file": "noord-brabant-v20261111.pkg",
+    "size": 21096480,
+    "sha256": "a4154318cc3fceb3674cfb4b15821d4392f0667998287ce967336b45f65bd651",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 51.044448,
+      "minLon": 4.189152,
+      "maxLat": 51.83181,
+      "maxLon": 6.049354
+    },
+    "country": "Netherlands"
+  },
+  {
     "id": "north-korea",
     "region": "north-korea",
     "name": "North Korea",
