@@ -4440,6 +4440,26 @@
     "country": "Nepal"
   },
   {
+    "id": "new-brunswick",
+    "region": "new-brunswick",
+    "name": "New Brunswick",
+    "version": "20261111",
+    "file": "new-brunswick-v20261111.pkg",
+    "size": 30300392,
+    "sha256": "2447407e4ccad83e84457ea90ae339a00711c395a02bc54681de1ab9a98663d6",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 44.192053,
+      "minLon": -69.19022,
+      "maxLat": 48.38075,
+      "maxLon": -62.885748
+    },
+    "country": "Canada"
+  },
+  {
     "id": "new-caledonia",
     "region": "new-caledonia",
     "name": "New Caledonia",
