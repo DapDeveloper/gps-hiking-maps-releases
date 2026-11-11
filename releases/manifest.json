@@ -2029,6 +2029,26 @@
     "country": "Morocco"
   },
   {
+    "id": "mozambique",
+    "region": "mozambique",
+    "name": "Mozambique",
+    "version": "20261111",
+    "file": "mozambique-v20261111.pkg",
+    "size": 62777467,
+    "sha256": "ffe2a03eab77ae5bdec7c984e490c20291e8394375cf97709891d6996f429b62",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 16,
+    "bounds": {
+      "minLat": -26.938372,
+      "minLon": 30.207424,
+      "maxLat": -9.986206,
+      "maxLon": 42.534886
+    },
+    "country": "Mozambique"
+  },
+  {
     "id": "namibia",
     "region": "namibia",
     "name": "Namibia",
