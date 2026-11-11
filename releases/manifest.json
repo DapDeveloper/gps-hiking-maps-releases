@@ -5910,6 +5910,26 @@
     "country": "China"
   },
   {
+    "id": "shikoku",
+    "region": "shikoku",
+    "name": "Shikoku",
+    "version": "20261111",
+    "file": "shikoku-v20261111.pkg",
+    "size": 28408998,
+    "sha256": "540073b1a10cda5f960a439a293d70dfc8840264dd9cc455f626901f17e59d06",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 32.229585,
+      "minLon": 131.769819,
+      "maxLat": 34.65151,
+      "maxLon": 135.17938
+    },
+    "country": "Japan"
+  },
+  {
     "id": "sicilia",
     "region": "sicilia",
     "name": "Sicilia",
