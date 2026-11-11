@@ -3904,6 +3904,26 @@
     "country": "Malta"
   },
   {
+    "id": "maluku",
+    "region": "maluku",
+    "name": "Maluku",
+    "version": "20261111",
+    "file": "maluku-v20261111.pkg",
+    "size": 5977327,
+    "sha256": "67b2fd36b9dd1be937fb2fbefc6901b71648232fb65118ae59a58628da249f0b",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": -9.524903,
+      "minLon": 123.89282,
+      "maxLat": 3.727232,
+      "maxLon": 135.411982
+    },
+    "country": "Indonesia (with East Timor)"
+  },
+  {
     "id": "marche",
     "region": "marche",
     "name": "Marche",
