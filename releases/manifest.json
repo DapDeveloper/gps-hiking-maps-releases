@@ -2680,6 +2680,26 @@
     "country": "Polyn\u00e9sie fran\u00e7aise (French Polynesia)"
   },
   {
+    "id": "portugal",
+    "region": "portugal",
+    "name": "Portugal",
+    "version": "20261111",
+    "file": "portugal-v20261111.pkg",
+    "size": 102810347,
+    "sha256": "42e869c8091ec6c9ecffe16e5604bfa2422b5b796e3138175d31d0ceb3943dd0",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 16,
+    "bounds": {
+      "minLat": 29.251448,
+      "minLon": -33.616492,
+      "maxLat": 42.1639,
+      "maxLon": -6.179513
+    },
+    "country": "Portugal"
+  },
+  {
     "id": "puglia",
     "region": "puglia",
     "name": "Puglia",
