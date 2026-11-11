@@ -6121,6 +6121,26 @@
     "country": "Somalia"
   },
   {
+    "id": "sorlandet",
+    "region": "sorlandet",
+    "name": "Sorlandet",
+    "version": "20261111",
+    "file": "sorlandet-v20261111.pkg",
+    "size": 22527410,
+    "sha256": "8e2d17f6507c89d11166a5f06c826093eedb1dc154b696d95fd5249bfdc71ac0",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 57.584445,
+      "minLon": 5.698662,
+      "maxLat": 59.674675,
+      "maxLon": 10.592561
+    },
+    "country": "Norway"
+  },
+  {
     "id": "south-africa",
     "region": "south-africa",
     "name": "South Africa",
