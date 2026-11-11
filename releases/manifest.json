@@ -4760,6 +4760,26 @@
     "country": "Brazil"
   },
   {
+    "id": "north-caucasus-fed-district",
+    "region": "north-caucasus-fed-district",
+    "name": "North Caucasus Federal District",
+    "version": "20261111",
+    "file": "north-caucasus-fed-district-v20261111.pkg",
+    "size": 373327668,
+    "sha256": "4e65585b4fbee6fe54695ddc50f3d0786cddafc9fe40548338298cb1b8a4fe39",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 40.25966,
+      "minLon": 40.67265,
+      "maxLat": 46.23914,
+      "maxLon": 50.80178
+    },
+    "country": "Russian Federation"
+  },
+  {
     "id": "north-korea",
     "region": "north-korea",
     "name": "North Korea",
