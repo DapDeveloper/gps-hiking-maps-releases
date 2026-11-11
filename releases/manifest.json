@@ -3227,6 +3227,30 @@
     "country": "Swaziland"
   },
   {
+    "id": "switzerland",
+    "region": "switzerland",
+    "name": "Switzerland",
+    "version": "20261111",
+    "file": "switzerland-v20261111.pkg",
+    "size": 99811218,
+    "sha256": "50dd512dd6df9a4c766643d321dbc5c9c7bb79338826fc47cbe5216872c110c6",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife \u00b7 Official trails: \u00a9 Club Alpino Italiano (CAI) \u2014 INFOMONT (infomont.cai.it), ODbL 1.0 \u00b7 \u00a9 Societ\u00e0 degli Alpinisti Tridentini (SAT) \u2014 sat.tn.it, ODbL 1.0",
+    "minZoom": 7,
+    "maxZoom": 16,
+    "bounds": {
+      "minLat": 45.816418,
+      "minLon": 5.954418,
+      "maxLat": 47.81126,
+      "maxLon": 10.49584
+    },
+    "country": "Switzerland",
+    "trail_sources": [
+      "CAI",
+      "SAT"
+    ]
+  },
+  {
     "id": "syria",
     "region": "syria",
     "name": "Syria",
