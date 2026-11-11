@@ -5248,6 +5248,26 @@
     "country": "Pitcairn Islands"
   },
   {
+    "id": "podkarpackie",
+    "region": "podkarpackie",
+    "name": "Podkarpackie",
+    "version": "20261111",
+    "file": "podkarpackie-v20261111.pkg",
+    "size": 38880415,
+    "sha256": "4ec8ae9cdd503f3b66201ece208c9c6ea870635358d0f18ffe9eecd121d86b5c",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 48.83846,
+      "minLon": 21.13433,
+      "maxLat": 50.82591,
+      "maxLon": 23.5536
+    },
+    "country": "Poland"
+  },
+  {
     "id": "polynesie-francaise",
     "region": "polynesie-francaise",
     "name": "Polyn\u00e9sie fran\u00e7aise (French Polynesia)",
