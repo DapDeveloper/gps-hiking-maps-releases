@@ -1619,6 +1619,26 @@
     "country": "Poland"
   },
   {
+    "id": "drenthe",
+    "region": "drenthe",
+    "name": "Drenthe",
+    "version": "20261111",
+    "file": "drenthe-v20261111.pkg",
+    "size": 8405312,
+    "sha256": "fb15b3cf2d4c1ebe3a4e2d0268d23d9b26aff904c0b19b37f9b26209a1314a71",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 52.582309,
+      "minLon": 6.118592,
+      "maxLat": 53.20513,
+      "maxLon": 7.405064
+    },
+    "country": "Netherlands"
+  },
+  {
     "id": "east-timor",
     "region": "east-timor",
     "name": "East Timor",
