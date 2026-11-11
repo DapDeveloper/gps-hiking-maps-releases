@@ -3704,6 +3704,26 @@
     "country": "Luxembourg"
   },
   {
+    "id": "macau",
+    "region": "macau",
+    "name": "Macau",
+    "version": "20261111",
+    "file": "macau-v20261111.pkg",
+    "size": 556193,
+    "sha256": "f773852c93c84caa36e36e75d12499d9b0260afd4dbb5d671215ee751c02923d",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 22.075459,
+      "minLon": 113.527222,
+      "maxLat": 22.217076,
+      "maxLon": 113.63245
+    },
+    "country": "China"
+  },
+  {
     "id": "macedonia",
     "region": "macedonia",
     "name": "Macedonia",
