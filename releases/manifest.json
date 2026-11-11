@@ -1199,6 +1199,26 @@
     "country": "Brazil"
   },
   {
+    "id": "ceuta",
+    "region": "ceuta",
+    "name": "Ceuta",
+    "version": "20261111",
+    "file": "ceuta-v20261111.pkg",
+    "size": 143589,
+    "sha256": "fd9c3d5c23d6ef6c00cbe3a831fff8db50c70542498117b79cef270e9c124a62",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 35.866378,
+      "minLon": -5.392227,
+      "maxLat": 35.958695,
+      "maxLon": -5.256615
+    },
+    "country": "Spain"
+  },
+  {
     "id": "chad",
     "region": "chad",
     "name": "Chad",
