@@ -2059,6 +2059,26 @@
     }
   },
   {
+    "id": "fujian",
+    "region": "fujian",
+    "name": "Fujian",
+    "version": "20261111",
+    "file": "fujian-v20261111.pkg",
+    "size": 29354572,
+    "sha256": "e5c5ac1949698a4862a4b948608042c665f465e2ee5154182cae2511ea1e31f3",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 22.96716,
+      "minLon": 115.840874,
+      "maxLat": 28.322365,
+      "maxLon": 121.627662
+    },
+    "country": "China"
+  },
+  {
     "id": "gabon",
     "region": "gabon",
     "name": "Gabon",
