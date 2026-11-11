@@ -1039,6 +1039,26 @@
     "country": "Cape Verde"
   },
   {
+    "id": "castilla-la-mancha",
+    "region": "castilla-la-mancha",
+    "name": "Castilla-La Mancha",
+    "version": "20261111",
+    "file": "castilla-la-mancha-v20261111.pkg",
+    "size": 34628174,
+    "sha256": "4e6f756d450068215d30fa99f103b0432aa2da185b53423f48dd2279b6b1f9e5",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 38.020103,
+      "minLon": -5.41111,
+      "maxLat": 41.332225,
+      "maxLon": -0.912552
+    },
+    "country": "Spain"
+  },
+  {
     "id": "central-african-republic",
     "region": "central-african-republic",
     "name": "Central African Republic",
