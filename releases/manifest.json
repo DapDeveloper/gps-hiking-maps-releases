@@ -3309,6 +3309,26 @@
     "country": "Venezuela"
   },
   {
+    "id": "vietnam",
+    "region": "vietnam",
+    "name": "Vietnam",
+    "version": "20261111",
+    "file": "vietnam-v20261111.pkg",
+    "size": 142026116,
+    "sha256": "98f1677e7d34fdb9bd073cdc2946817223b3690c7e50528afca1512e92a4892e",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 16,
+    "bounds": {
+      "minLat": 7.382239,
+      "minLon": 102.095945,
+      "maxLat": 23.402135,
+      "maxLon": 114.642323
+    },
+    "country": "Vietnam"
+  },
+  {
     "id": "wallis-et-futuna",
     "region": "wallis-et-futuna",
     "name": "Wallis et Futuna",
