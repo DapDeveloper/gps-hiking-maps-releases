@@ -2619,6 +2619,26 @@
     "country": "Germany"
   },
   {
+    "id": "hokkaido",
+    "region": "hokkaido",
+    "name": "Hokkaid\u014d",
+    "version": "20261111",
+    "file": "hokkaido-v20261111.pkg",
+    "size": 50905998,
+    "sha256": "0e89fd35fc1feaa3e4c2a9dc437cce20b05efb35b5007a649fec7e89c148f82e",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 41.15098,
+      "minLon": 137.934616,
+      "maxLat": 46.040273,
+      "maxLon": 146.247631
+    },
+    "country": "Japan"
+  },
+  {
     "id": "honduras",
     "region": "honduras",
     "name": "Honduras",
