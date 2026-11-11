@@ -6201,6 +6201,26 @@
     "country": "South Sudan"
   },
   {
+    "id": "southern-zone",
+    "region": "southern-zone",
+    "name": "Southern Zone",
+    "version": "20261111",
+    "file": "southern-zone-v20261111.pkg",
+    "size": 201956497,
+    "sha256": "db151315692bb0ff64800c17ce34fe0a6931e80c0aa369263233522cfef8ee94",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 5.943921,
+      "minLon": 70.004872,
+      "maxLat": 19.922681,
+      "maxLon": 95.55906
+    },
+    "country": "India"
+  },
+  {
     "id": "sri-lanka",
     "region": "sri-lanka",
     "name": "Sri Lanka",
