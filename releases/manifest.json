@@ -1179,6 +1179,26 @@
     "country": "France"
   },
   {
+    "id": "centro-oeste",
+    "region": "centro-oeste",
+    "name": "Centro-Oeste",
+    "version": "20261111",
+    "file": "centro-oeste-v20261111.pkg",
+    "size": 172542757,
+    "sha256": "b8684e8243c7103445fb2c84fea64122fdb8e62c612e6b0ecbafebbeeb791b53",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": -27.793803,
+      "minLon": -62.58194,
+      "maxLat": -7.317334,
+      "maxLon": -45.87758
+    },
+    "country": "Brazil"
+  },
+  {
     "id": "chad",
     "region": "chad",
     "name": "Chad",
