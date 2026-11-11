@@ -2159,6 +2159,26 @@
     "country": "GCC States"
   },
   {
+    "id": "gelderland",
+    "region": "gelderland",
+    "name": "Gelderland",
+    "version": "20261111",
+    "file": "gelderland-v20261111.pkg",
+    "size": 21117526,
+    "sha256": "bc55fa76294a61a001df3ab4b485c4aa6a3e05722a40c50579d4c9f2015debec",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 51.73231,
+      "minLon": 4.992647,
+      "maxLat": 52.52322,
+      "maxLon": 7.065818
+    },
+    "country": "Netherlands"
+  },
+  {
     "id": "georgia",
     "region": "georgia",
     "name": "Georgia",
