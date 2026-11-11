@@ -2312,6 +2312,26 @@
     "country": "Nauru"
   },
   {
+    "id": "nepal",
+    "region": "nepal",
+    "name": "Nepal",
+    "version": "20261111",
+    "file": "nepal-v20261111.pkg",
+    "size": 67016881,
+    "sha256": "ad0a247f00c507331de747dc3452913742d641832d72f66ba4671e3e6f7ed655",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 16,
+    "bounds": {
+      "minLat": 26.3445,
+      "minLon": 80.04913,
+      "maxLat": 30.47822,
+      "maxLon": 88.22213
+    },
+    "country": "Nepal"
+  },
+  {
     "id": "new-caledonia",
     "region": "new-caledonia",
     "name": "New Caledonia",
