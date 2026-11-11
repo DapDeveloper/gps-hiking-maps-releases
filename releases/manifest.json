@@ -3079,6 +3079,26 @@
     "country": "Indonesia (with East Timor)"
   },
   {
+    "id": "kaliningrad",
+    "region": "kaliningrad",
+    "name": "Kaliningrad",
+    "version": "20261111",
+    "file": "kaliningrad-v20261111.pkg",
+    "size": 7620341,
+    "sha256": "c935acd722c9610efe57b0ea51637304c2bb1b9980dd703e901e6f712fa54946",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 54.317231,
+      "minLon": 18.913317,
+      "maxLat": 55.645845,
+      "maxLon": 22.887466
+    },
+    "country": "Russian Federation"
+  },
+  {
     "id": "kazakhstan",
     "region": "kazakhstan",
     "name": "Kazakhstan",
