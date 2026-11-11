@@ -803,6 +803,26 @@
     "country": "Germany"
   },
   {
+    "id": "bremen",
+    "region": "bremen",
+    "name": "Bremen",
+    "version": "20261111",
+    "file": "bremen-v20261111.pkg",
+    "size": 3194220,
+    "sha256": "87f1f0c3392d1fefd733884d6cc6610bebca26782b6da23875076f4a3c73c5ed",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 53.01034,
+      "minLon": 8.480959,
+      "maxLat": 53.61063,
+      "maxLon": 8.991268
+    },
+    "country": "Germany"
+  },
+  {
     "id": "bulgaria",
     "region": "bulgaria",
     "name": "Bulgaria",
