@@ -3864,6 +3864,26 @@
     "country": "Mali"
   },
   {
+    "id": "malopolskie",
+    "region": "malopolskie",
+    "name": "Malopolskie",
+    "version": "20261111",
+    "file": "malopolskie-v20261111.pkg",
+    "size": 44234575,
+    "sha256": "73e52f7aa113ed8bb6c129a7486f0410c5a6bf864e7dc0fe21139270ce5f1e64",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 49.02835,
+      "minLon": 18.87522,
+      "maxLat": 50.53221,
+      "maxLon": 21.43328
+    },
+    "country": "Poland"
+  },
+  {
     "id": "malta",
     "region": "malta",
     "name": "Malta",
