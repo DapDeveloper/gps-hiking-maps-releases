@@ -3259,6 +3259,26 @@
     "country": "Japan"
   },
   {
+    "id": "languedoc-roussillon",
+    "region": "languedoc-roussillon",
+    "name": "Languedoc-Roussillon",
+    "version": "20261111",
+    "file": "languedoc-roussillon-v20261111.pkg",
+    "size": 50061497,
+    "sha256": "f5c97fb6cad6a0a9a0903e058d2723a895f0af77afbdf759a2fba7bca041a5c2",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 42.16658,
+      "minLon": 1.686256,
+      "maxLat": 44.97821,
+      "maxLon": 4.847979
+    },
+    "country": "France"
+  },
+  {
     "id": "laos",
     "region": "laos",
     "name": "Laos",
