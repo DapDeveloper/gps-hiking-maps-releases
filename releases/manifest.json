@@ -5328,6 +5328,26 @@
     "country": "Polyn\u00e9sie fran\u00e7aise (French Polynesia)"
   },
   {
+    "id": "pomorskie",
+    "region": "pomorskie",
+    "name": "Pomorskie",
+    "version": "20261111",
+    "file": "pomorskie-v20261111.pkg",
+    "size": 25968621,
+    "sha256": "66e3763a28507d634ec8c7dda9bf720ad63aea1d81ff76e0a51f86516b6e8b21",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 53.4806,
+      "minLon": 16.68672,
+      "maxLat": 55.08543,
+      "maxLon": 19.66069
+    },
+    "country": "Poland"
+  },
+  {
     "id": "portugal",
     "region": "portugal",
     "name": "Portugal",
