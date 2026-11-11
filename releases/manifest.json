@@ -5830,6 +5830,26 @@
     "country": "Seychelles"
   },
   {
+    "id": "shaanxi",
+    "region": "shaanxi",
+    "name": "Shaanxi",
+    "version": "20261111",
+    "file": "shaanxi-v20261111.pkg",
+    "size": 55121889,
+    "sha256": "fbad7a766c0e0af2d010da7517b72b8599eff0e73de151e7723866aca1ad3ad0",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 31.695,
+      "minLon": 105.480079,
+      "maxLat": 39.589022,
+      "maxLon": 111.247902
+    },
+    "country": "China"
+  },
+  {
     "id": "sicilia",
     "region": "sicilia",
     "name": "Sicilia",
