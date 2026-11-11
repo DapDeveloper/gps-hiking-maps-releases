@@ -3259,6 +3259,26 @@
     "country": "Japan"
   },
   {
+    "id": "la-rioja",
+    "region": "la-rioja",
+    "name": "La Rioja",
+    "version": "20261111",
+    "file": "la-rioja-v20261111.pkg",
+    "size": 4655977,
+    "sha256": "9ae733aff9f7ce3c0e6898cff579088e0c8de45b1108b0d568746acb24df6ac7",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 41.914031,
+      "minLon": -3.140202,
+      "maxLat": 42.646208,
+      "maxLon": -1.673012
+    },
+    "country": "Spain"
+  },
+  {
     "id": "languedoc-roussillon",
     "region": "languedoc-roussillon",
     "name": "Languedoc-Roussillon",
