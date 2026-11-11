@@ -595,6 +595,26 @@
     "country": "Chad"
   },
   {
+    "id": "colombia",
+    "region": "colombia",
+    "name": "Colombia",
+    "version": "20261111",
+    "file": "colombia-v20261111.pkg",
+    "size": 126395597,
+    "sha256": "d0b76a66e12547d35e5d2813d519ad8dac204eb88c850cf328c57eadeccf4f39",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 16,
+    "bounds": {
+      "minLat": -4.25732,
+      "minLon": -83.23104,
+      "maxLat": 16.59407,
+      "maxLon": -66.81472
+    },
+    "country": "Colombia"
+  },
+  {
     "id": "congo-brazzaville",
     "region": "congo-brazzaville",
     "name": "Congo (Republic/Brazzaville)",
