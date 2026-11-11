@@ -1059,6 +1059,26 @@
     "country": "Spain"
   },
   {
+    "id": "castilla-y-leon",
+    "region": "castilla-y-leon",
+    "name": "Castilla y Le\u00f3n",
+    "version": "20261111",
+    "file": "castilla-y-leon-v20261111.pkg",
+    "size": 63041150,
+    "sha256": "c0da11c27fff9063c97d16879af7a837e150ce5c2e6e9067feea58892119d43b",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 40.080436,
+      "minLon": -7.080517,
+      "maxLat": 43.240951,
+      "maxLon": -1.766053
+    },
+    "country": "Spain"
+  },
+  {
     "id": "central-african-republic",
     "region": "central-african-republic",
     "name": "Central African Republic",
