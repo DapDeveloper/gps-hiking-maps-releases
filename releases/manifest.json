@@ -3119,6 +3119,26 @@
     "country": "Japan"
   },
   {
+    "id": "kanto",
+    "region": "kanto",
+    "name": "Kant\u014d region",
+    "version": "20261111",
+    "file": "kanto-v20261111.pkg",
+    "size": 97760900,
+    "sha256": "60f8d09bcfe07e1de69381df4ca8bfb335c561000e8e92cddf9b5c98565ad7e2",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 18.625054,
+      "minLon": 134.045154,
+      "maxLat": 37.15988,
+      "maxLon": 155.605818
+    },
+    "country": "Japan"
+  },
+  {
     "id": "kazakhstan",
     "region": "kazakhstan",
     "name": "Kazakhstan",
