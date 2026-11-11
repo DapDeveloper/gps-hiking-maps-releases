@@ -331,6 +331,26 @@
     "country": "Armenia"
   },
   {
+    "id": "asturias",
+    "region": "asturias",
+    "name": "Asturias",
+    "version": "20261111",
+    "file": "asturias-v20261111.pkg",
+    "size": 11552302,
+    "sha256": "0d64023cf74b4781a69da838950f2948cb606f39e61202aba83deeaa5669ca2a",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 42.878858,
+      "minLon": -7.196046,
+      "maxLat": 44.033309,
+      "maxLon": -4.391787
+    },
+    "country": "Spain"
+  },
+  {
     "id": "austria",
     "region": "austria",
     "name": "Austria",
