@@ -2679,6 +2679,26 @@
     "country": "China"
   },
   {
+    "id": "hubei",
+    "region": "hubei",
+    "name": "Hubei",
+    "version": "20261111",
+    "file": "hubei-v20261111.pkg",
+    "size": 97768131,
+    "sha256": "500555abf0badb7b7134cef03ff29044bac0bf3d73f142d383a8b5831f3f4b82",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 29.030057,
+      "minLon": 108.359699,
+      "maxLat": 33.273426,
+      "maxLon": 116.136131
+    },
+    "country": "China"
+  },
+  {
     "id": "hungary",
     "region": "hungary",
     "name": "Hungary",
