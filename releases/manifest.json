@@ -3664,6 +3664,26 @@
     "country": "Poland"
   },
   {
+    "id": "lubuskie",
+    "region": "lubuskie",
+    "name": "Lubuskie",
+    "version": "20261111",
+    "file": "lubuskie-v20261111.pkg",
+    "size": 15944294,
+    "sha256": "cc7e325f000795ca409feebe9212983af66eda8dab0a64fc16b55a06561003ee",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 51.34865,
+      "minLon": 14.26576,
+      "maxLat": 53.12806,
+      "maxLon": 16.42999
+    },
+    "country": "Poland"
+  },
+  {
     "id": "luxembourg",
     "region": "luxembourg",
     "name": "Luxembourg",
