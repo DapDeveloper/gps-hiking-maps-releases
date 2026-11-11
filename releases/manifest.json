@@ -151,6 +151,26 @@
     "country": "American Oceania"
   },
   {
+    "id": "andalucia",
+    "region": "andalucia",
+    "name": "Andaluc\u00eda",
+    "version": "20261111",
+    "file": "andalucia-v20261111.pkg",
+    "size": 56098326,
+    "sha256": "4103ef28a281e70dae68833a06f086bd926f639a183a7cc9f8404e731c11c87b",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 35.706382,
+      "minLon": -7.553788,
+      "maxLat": 38.733465,
+      "maxLon": -1.332095
+    },
+    "country": "Spain"
+  },
+  {
     "id": "andorra",
     "region": "andorra",
     "name": "Andorra",
