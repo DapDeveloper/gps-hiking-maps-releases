@@ -5439,6 +5439,26 @@
     }
   },
   {
+    "id": "qinghai",
+    "region": "qinghai",
+    "name": "Qinghai",
+    "version": "20261111",
+    "file": "qinghai-v20261111.pkg",
+    "size": 19418590,
+    "sha256": "beac21157fd78f9bcff7a5693f38c8688791baeb54fd960c5f39d9c06f54f991",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 31.586725,
+      "minLon": 89.39,
+      "maxLat": 39.221616,
+      "maxLon": 103.0727
+    },
+    "country": "China"
+  },
+  {
     "id": "romania",
     "region": "romania",
     "name": "Romania",
