@@ -1319,6 +1319,26 @@
     "country": "Japan"
   },
   {
+    "id": "chugoku",
+    "region": "chugoku",
+    "name": "Ch\u016bgoku region",
+    "version": "20261111",
+    "file": "chugoku-v20261111.pkg",
+    "size": 51878766,
+    "sha256": "997d86e29de6bffbd2008d7a060301d771c2ffb0f1908727d54a2ffce0e30321",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 33.54225,
+      "minLon": 129.893915,
+      "maxLat": 37.082889,
+      "maxLon": 134.5244
+    },
+    "country": "Japan"
+  },
+  {
     "id": "colombia",
     "region": "colombia",
     "name": "Colombia",
