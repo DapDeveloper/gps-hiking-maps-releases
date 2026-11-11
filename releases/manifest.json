@@ -2011,6 +2011,26 @@
     "country": "France"
   },
   {
+    "id": "friesland",
+    "region": "friesland",
+    "name": "Friesland",
+    "version": "20261111",
+    "file": "friesland-v20261111.pkg",
+    "size": 10652187,
+    "sha256": "b80cbc12c81880262d7ee0cc46d907a87d0a305dc4c6477ea235d113df95a3bf",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 52.76362,
+      "minLon": 4.597294,
+      "maxLat": 53.680892,
+      "maxLon": 6.428358
+    },
+    "country": "Netherlands"
+  },
+  {
     "id": "friuli-venezia-giulia",
     "region": "friuli-venezia-giulia",
     "name": "Friuli-Venezia Giulia",
