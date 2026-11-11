@@ -2532,6 +2532,26 @@
     "country": "Niger"
   },
   {
+    "id": "nigeria",
+    "region": "nigeria",
+    "name": "Nigeria",
+    "version": "20261111",
+    "file": "nigeria-v20261111.pkg",
+    "size": 100052820,
+    "sha256": "5148fed22775791f0d355d0dde34c3da814c3121db91058b788c6e8a7082d48b",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 16,
+    "bounds": {
+      "minLat": 2.674022,
+      "minLon": 2.664528,
+      "maxLat": 13.898744,
+      "maxLon": 14.680567
+    },
+    "country": "Nigeria"
+  },
+  {
     "id": "niue",
     "region": "niue",
     "name": "Niue",
