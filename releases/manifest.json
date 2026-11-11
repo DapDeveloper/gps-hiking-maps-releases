@@ -503,6 +503,26 @@
     }
   },
   {
+    "id": "basse-normandie",
+    "region": "basse-normandie",
+    "name": "Basse-Normandie",
+    "version": "20261111",
+    "file": "basse-normandie-v20261111.pkg",
+    "size": 23916595,
+    "sha256": "e794fec802f7a9573ee0dea42a2273625c7c9aa1278fb002131b9e616c15f622",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 48.17802,
+      "minLon": -2.087526,
+      "maxLat": 49.88523,
+      "maxLon": 0.979067
+    },
+    "country": "France"
+  },
+  {
     "id": "belarus",
     "region": "belarus",
     "name": "Belarus",
