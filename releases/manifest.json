@@ -6018,6 +6018,26 @@
     "country": "Sierra Leone"
   },
   {
+    "id": "slaskie",
+    "region": "slaskie",
+    "name": "Slaskie",
+    "version": "20261111",
+    "file": "slaskie-v20261111.pkg",
+    "size": 31027627,
+    "sha256": "62a21027e9dd108e421daf0cea83f308ca0cef748e5b9ecb1e44d2e6401ef4cb",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 49.16265,
+      "minLon": 18.02213,
+      "maxLat": 51.1129,
+      "maxLon": 19.98542
+    },
+    "country": "Poland"
+  },
+  {
     "id": "slovakia",
     "region": "slovakia",
     "name": "Slovakia",
