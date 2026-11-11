@@ -3644,6 +3644,26 @@
     "country": "France"
   },
   {
+    "id": "lubelskie",
+    "region": "lubelskie",
+    "name": "Lubelskie",
+    "version": "20261111",
+    "file": "lubelskie-v20261111.pkg",
+    "size": 25056920,
+    "sha256": "bc6eefe57d6ffe07b1cd088bb8908f2e521bb09754f8afe6f9d2e766b7650398",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 49.68046,
+      "minLon": 21.60285,
+      "maxLat": 52.30035,
+      "maxLon": 24.72833
+    },
+    "country": "Poland"
+  },
+  {
     "id": "luxembourg",
     "region": "luxembourg",
     "name": "Luxembourg",
