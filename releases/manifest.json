@@ -4940,6 +4940,26 @@
     "country": "Poland"
   },
   {
+    "id": "ostlandet",
+    "region": "ostlandet",
+    "name": "Ostlandet",
+    "version": "20261111",
+    "file": "ostlandet-v20261111.pkg",
+    "size": 119867343,
+    "sha256": "2fdfd28339330f84079a0201dc1748759f86b04d712ca77e196d82364145bf33",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 58.596798,
+      "minLon": 7.095391,
+      "maxLat": 62.697337,
+      "maxLon": 14.401007
+    },
+    "country": "Norway"
+  },
+  {
     "id": "pakistan",
     "region": "pakistan",
     "name": "Pakistan",
