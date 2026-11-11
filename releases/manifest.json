@@ -2539,6 +2539,26 @@
     "country": "France"
   },
   {
+    "id": "hebei",
+    "region": "hebei",
+    "name": "Hebei (with Beijing and Tianjin)",
+    "version": "20261111",
+    "file": "hebei-v20261111.pkg",
+    "size": 62314509,
+    "sha256": "a5d86d2f72bd9a0984ffacfd8a2a09e43263b348f4abed28f1e9632fd0d61088",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 36.042992,
+      "minLon": 113.451004,
+      "maxLat": 42.624866,
+      "maxLon": 119.998168
+    },
+    "country": "China"
+  },
+  {
     "id": "honduras",
     "region": "honduras",
     "name": "Honduras",
