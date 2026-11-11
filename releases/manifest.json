@@ -271,6 +271,26 @@
     "country": "France"
   },
   {
+    "id": "aragon",
+    "region": "aragon",
+    "name": "Arag\u00f3n",
+    "version": "20261111",
+    "file": "aragon-v20261111.pkg",
+    "size": 36614798,
+    "sha256": "86a4a01c284601a6cdd4b8f6455035d84c930d5652fba0420607936ba549f5cb",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 39.838332,
+      "minLon": -2.17907,
+      "maxLat": 42.926766,
+      "maxLon": 0.772562
+    },
+    "country": "Spain"
+  },
+  {
     "id": "argentina",
     "region": "argentina",
     "name": "Argentina",
