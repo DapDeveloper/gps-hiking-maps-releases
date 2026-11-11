@@ -5388,6 +5388,29 @@
     "country": "Canada"
   },
   {
+    "id": "provence-alpes-cote-d-azur",
+    "region": "provence-alpes-cote-d-azur",
+    "name": "Provence Alpes-Cote-d'Azur",
+    "version": "20261111",
+    "file": "provence-alpes-cote-d-azur-v20261111.pkg",
+    "size": 64873969,
+    "sha256": "942810f523a55852a9e4a5f8ab72ae722cff5b6815bdaf7be0beafd1fc459f14",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife \u00b7 Official trails: \u00a9 Club Alpino Italiano (CAI) \u2014 INFOMONT (infomont.cai.it), ODbL 1.0",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 42.31539,
+      "minLon": 4.144746,
+      "maxLat": 45.12887,
+      "maxLon": 7.887672
+    },
+    "country": "France",
+    "trail_sources": [
+      "CAI"
+    ]
+  },
+  {
     "id": "puglia",
     "region": "puglia",
     "name": "Puglia",
