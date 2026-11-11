@@ -879,6 +879,26 @@
     "country": "Cyprus"
   },
   {
+    "id": "czech-republic",
+    "region": "czech-republic",
+    "name": "Czech Republic",
+    "version": "20261111",
+    "file": "czech-republic-v20261111.pkg",
+    "size": 109170792,
+    "sha256": "a238b6b5b6961ddab9a3634d59dfbe92660d6e636e3703763e4554e15cb4723f",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 16,
+    "bounds": {
+      "minLat": 48.54292,
+      "minLon": 12.08477,
+      "maxLat": 51.06426,
+      "maxLon": 18.86321
+    },
+    "country": "Czech Republic"
+  },
+  {
     "id": "denmark",
     "region": "denmark",
     "name": "Denmark",
