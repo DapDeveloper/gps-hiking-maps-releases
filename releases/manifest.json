@@ -4032,6 +4032,26 @@
     "country": "Mauritius"
   },
   {
+    "id": "mayotte",
+    "region": "mayotte",
+    "name": "Mayotte",
+    "version": "20261111",
+    "file": "mayotte-v20261111.pkg",
+    "size": 1366314,
+    "sha256": "f53072d49afb28ed806ccb436f241857ecec166833b7dd8588615387f604d921",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": -13.472432,
+      "minLon": 44.626462,
+      "maxLat": -12.144058,
+      "maxLon": 45.678403
+    },
+    "country": "France"
+  },
+  {
     "id": "mexico",
     "region": "mexico",
     "name": "Mexico",
