@@ -4820,6 +4820,26 @@
     "country": "North Korea"
   },
   {
+    "id": "northern-zone",
+    "region": "northern-zone",
+    "name": "Northern Zone",
+    "version": "20261111",
+    "file": "northern-zone-v20261111.pkg",
+    "size": 136181095,
+    "sha256": "8ae47c88e811be68e224b74251eac59b70edeab1d460bbec764dd093aed48947",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 23.046881,
+      "minLon": 69.169911,
+      "maxLat": 36.137884,
+      "maxLon": 80.167546
+    },
+    "country": "India"
+  },
+  {
     "id": "pakistan",
     "region": "pakistan",
     "name": "Pakistan",
