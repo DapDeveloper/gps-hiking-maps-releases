@@ -1119,6 +1119,26 @@
     "country": "Central African Republic"
   },
   {
+    "id": "central-fed-district",
+    "region": "central-fed-district",
+    "name": "Central Federal District",
+    "version": "20261111",
+    "file": "central-fed-district-v20261111.pkg",
+    "size": 294977716,
+    "sha256": "6f3d469742efc76de22b269827cade9ba92bab7e0f863e4128d3081644cef350",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 48.79774,
+      "minLon": 29.26809,
+      "maxLat": 59.6533,
+      "maxLon": 47.67023
+    },
+    "country": "Russian Federation"
+  },
+  {
     "id": "chad",
     "region": "chad",
     "name": "Chad",
