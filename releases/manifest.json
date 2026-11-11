@@ -2579,6 +2579,26 @@
     "country": "China"
   },
   {
+    "id": "henan",
+    "region": "henan",
+    "name": "Henan",
+    "version": "20261111",
+    "file": "henan-v20261111.pkg",
+    "size": 42687147,
+    "sha256": "2a063058f303f080065ea6abb673ed5e88e6682ec032c06f3369e09d256f37e5",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 31.378052,
+      "minLon": 110.345821,
+      "maxLat": 36.368015,
+      "maxLon": 116.646995
+    },
+    "country": "China"
+  },
+  {
     "id": "honduras",
     "region": "honduras",
     "name": "Honduras",
