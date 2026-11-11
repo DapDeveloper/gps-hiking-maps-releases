@@ -2559,6 +2559,26 @@
     "country": "China"
   },
   {
+    "id": "heilongjiang",
+    "region": "heilongjiang",
+    "name": "Heilongjiang",
+    "version": "20261111",
+    "file": "heilongjiang-v20261111.pkg",
+    "size": 153783134,
+    "sha256": "09931a8cf0f9519bb2660d935a877342bcacff2f5626ef09ab885eb96dfd0b8c",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 43.410784,
+      "minLon": 121.15,
+      "maxLat": 54.47005,
+      "maxLon": 137.153298
+    },
+    "country": "China"
+  },
+  {
     "id": "honduras",
     "region": "honduras",
     "name": "Honduras",
