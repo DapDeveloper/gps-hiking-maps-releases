@@ -3764,6 +3764,26 @@
     "country": "Madagascar"
   },
   {
+    "id": "madrid",
+    "region": "madrid",
+    "name": "Madrid",
+    "version": "20261111",
+    "file": "madrid-v20261111.pkg",
+    "size": 18407035,
+    "sha256": "2d4270ed03e0d5246f397c957fb448dfa44e28beab946e027ec3aa6d0e2eeb00",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 39.881157,
+      "minLon": -4.589539,
+      "maxLat": 41.16864,
+      "maxLon": -3.050423
+    },
+    "country": "Spain"
+  },
+  {
     "id": "malawi",
     "region": "malawi",
     "name": "Malawi",
