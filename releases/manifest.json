@@ -823,6 +823,26 @@
     "country": "Germany"
   },
   {
+    "id": "bretagne",
+    "region": "bretagne",
+    "name": "Bretagne",
+    "version": "20261111",
+    "file": "bretagne-v20261111.pkg",
+    "size": 50572712,
+    "sha256": "afa74f64d12bddefd5b78755387cb5397c6f32a859ec46c70be7a9989195a134",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 47.07722,
+      "minLon": -5.883925,
+      "maxLat": 49.414549,
+      "maxLon": -1.014538
+    },
+    "country": "France"
+  },
+  {
     "id": "bulgaria",
     "region": "bulgaria",
     "name": "Bulgaria",
