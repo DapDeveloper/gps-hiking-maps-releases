@@ -5288,6 +5288,26 @@
     "country": "Poland"
   },
   {
+    "id": "poitou-charentes",
+    "region": "poitou-charentes",
+    "name": "Poitou-Charentes",
+    "version": "20261111",
+    "file": "poitou-charentes-v20261111.pkg",
+    "size": 32108001,
+    "sha256": "0d3ba9cb35afb1db05a91fa44bad528718298abf35b7fa45f240b37f6834d390",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 45.0868,
+      "minLon": -1.898565,
+      "maxLat": 47.17837,
+      "maxLon": 1.214991
+    },
+    "country": "France"
+  },
+  {
     "id": "polynesie-francaise",
     "region": "polynesie-francaise",
     "name": "Polyn\u00e9sie fran\u00e7aise (French Polynesia)",
