@@ -523,6 +523,26 @@
     "country": "France"
   },
   {
+    "id": "bayern",
+    "region": "bayern",
+    "name": "Bayern",
+    "version": "20261111",
+    "file": "bayern-v20261111.pkg",
+    "size": 172120669,
+    "sha256": "4130c6d9a165dfdb537ba179dd23c5728d560b70ea3ef1f37bd3677404efe149",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 47.22839,
+      "minLon": 8.975186,
+      "maxLat": 50.56623,
+      "maxLon": 14.09027
+    },
+    "country": "Germany"
+  },
+  {
     "id": "belarus",
     "region": "belarus",
     "name": "Belarus",
