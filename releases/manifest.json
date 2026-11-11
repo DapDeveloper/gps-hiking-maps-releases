@@ -2399,6 +2399,26 @@
     "country": "Guinea-Bissau"
   },
   {
+    "id": "guizhou",
+    "region": "guizhou",
+    "name": "Guizhou",
+    "version": "20261111",
+    "file": "guizhou-v20261111.pkg",
+    "size": 27142120,
+    "sha256": "d4f53e45cda832e54669647b4767906ce36cf801da18b0d6a9eb020758262f2a",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 24.617058,
+      "minLon": 103.598156,
+      "maxLat": 29.232036,
+      "maxLon": 109.55944
+    },
+    "country": "China"
+  },
+  {
     "id": "guyana",
     "region": "guyana",
     "name": "Guyana",
