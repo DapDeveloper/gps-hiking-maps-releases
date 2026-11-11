@@ -2879,6 +2879,26 @@
     "country": "Ireland and Northern Ireland"
   },
   {
+    "id": "islas-baleares",
+    "region": "islas-baleares",
+    "name": "Islas Baleares",
+    "version": "20261111",
+    "file": "islas-baleares-v20261111.pkg",
+    "size": 9212388,
+    "sha256": "89806efbf074750121f4fb8188972ac4c0b6e1f0e10a612957646cce2abeeb37",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 38.056747,
+      "minLon": 0.615229,
+      "maxLat": 40.709796,
+      "maxLon": 4.938349
+    },
+    "country": "Spain"
+  },
+  {
     "id": "israel-and-palestine",
     "region": "israel-and-palestine",
     "name": "Israel and Palestine",
