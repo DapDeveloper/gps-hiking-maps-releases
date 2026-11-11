@@ -1091,6 +1091,26 @@
     "country": "Ghana"
   },
   {
+    "id": "greece",
+    "region": "greece",
+    "name": "Greece",
+    "version": "20261111",
+    "file": "greece-v20261111.pkg",
+    "size": 85676130,
+    "sha256": "700e48f678fc67d16328e3c8502ff20927d2a1c652a1a6d3c811ad7f7431db5c",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 16,
+    "bounds": {
+      "minLat": 34.59111,
+      "minLon": 18.970641,
+      "maxLat": 41.74954,
+      "maxLon": 29.65683
+    },
+    "country": "Greece"
+  },
+  {
     "id": "greenland",
     "region": "greenland",
     "name": "Greenland",
