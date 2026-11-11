@@ -4740,6 +4740,26 @@
     "country": "Germany"
   },
   {
+    "id": "norte",
+    "region": "norte",
+    "name": "Norte",
+    "version": "20261111",
+    "file": "norte-v20261111.pkg",
+    "size": 294740643,
+    "sha256": "c0123bf60980a559099503f3453c9af586970364fb5e8c15224835341e73873d",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": -19.694594,
+      "minLon": -78.447506,
+      "maxLat": 7.566147,
+      "maxLon": -41.915139
+    },
+    "country": "Brazil"
+  },
+  {
     "id": "north-korea",
     "region": "north-korea",
     "name": "North Korea",
