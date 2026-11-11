@@ -211,6 +211,26 @@
     "country": "Angola"
   },
   {
+    "id": "anhui",
+    "region": "anhui",
+    "name": "Anhui",
+    "version": "20261111",
+    "file": "anhui-v20261111.pkg",
+    "size": 70514570,
+    "sha256": "870187263b74a03a5f179a8dfd3567692d4bb6c28e98c7578f88b39231fdc139",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 29.388158,
+      "minLon": 114.86927,
+      "maxLat": 34.654957,
+      "maxLon": 119.656562
+    },
+    "country": "China"
+  },
+  {
     "id": "antarctica",
     "region": "antarctica",
     "name": "Antarctica",
