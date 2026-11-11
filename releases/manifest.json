@@ -1599,6 +1599,26 @@
     "country": "Djibouti"
   },
   {
+    "id": "dolnoslaskie",
+    "region": "dolnoslaskie",
+    "name": "Dolnoslaskie",
+    "version": "20261111",
+    "file": "dolnoslaskie-v20261111.pkg",
+    "size": 36423730,
+    "sha256": "2d0bb5a42262c55d60814fc8fd6b39b0cfa7001915fa26bc0900b49479b7938a",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 50.02009,
+      "minLon": 14.66788,
+      "maxLat": 51.81417,
+      "maxLon": 17.80584
+    },
+    "country": "Poland"
+  },
+  {
     "id": "east-timor",
     "region": "east-timor",
     "name": "East Timor",
