@@ -3027,6 +3027,26 @@
     "country": "Somalia"
   },
   {
+    "id": "south-africa",
+    "region": "south-africa",
+    "name": "South Africa",
+    "version": "20261111",
+    "file": "south-africa-v20261111.pkg",
+    "size": 120003389,
+    "sha256": "c2f60923100e0fe173f7cbe4b1666f592054682a2d3af25492ab596529e90009",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 16,
+    "bounds": {
+      "minLat": -48.464971,
+      "minLon": 14.373284,
+      "maxLat": -21.775433,
+      "maxLon": 40.2702
+    },
+    "country": "South Africa"
+  },
+  {
     "id": "south-korea",
     "region": "south-korea",
     "name": "South Korea",
