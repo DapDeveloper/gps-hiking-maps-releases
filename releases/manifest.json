@@ -4720,6 +4720,26 @@
     "country": "Brazil"
   },
   {
+    "id": "nordrhein-westfalen",
+    "region": "nordrhein-westfalen",
+    "name": "Nordrhein-Westfalen",
+    "version": "20261111",
+    "file": "nordrhein-westfalen-v20261111.pkg",
+    "size": 130121467,
+    "sha256": "5df7aa3e906d4c97768a87da3c4f74bb9f9eee062f8509a9429837b6603d83f0",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 50.320877,
+      "minLon": 5.512685,
+      "maxLat": 52.533454,
+      "maxLon": 9.468311
+    },
+    "country": "Germany"
+  },
+  {
     "id": "north-korea",
     "region": "north-korea",
     "name": "North Korea",
