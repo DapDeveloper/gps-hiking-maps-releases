@@ -3019,6 +3019,26 @@
     "country": "China"
   },
   {
+    "id": "jilin",
+    "region": "jilin",
+    "name": "Jilin",
+    "version": "20261111",
+    "file": "jilin-v20261111.pkg",
+    "size": 27635644,
+    "sha256": "77ed447e17566b1bee3c3b44d8ad834fd929d659e0af1e26893472f938d2ba4d",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 40.329372,
+      "minLon": 121.627578,
+      "maxLat": 46.314688,
+      "maxLon": 131.786725
+    },
+    "country": "China"
+  },
+  {
     "id": "jordan",
     "region": "jordan",
     "name": "Jordan",
