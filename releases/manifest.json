@@ -68,6 +68,29 @@
     "country": "Albania"
   },
   {
+    "id": "algeria",
+    "region": "algeria",
+    "name": "Algeria",
+    "version": "20261111",
+    "file": "algeria-v20261111.pkg",
+    "size": 58363692,
+    "sha256": "45569d4a1374c43be8ff7e6e67ddd893bd7a857ef190ef8781f19c59eaf386c0",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife \u00b7 Official trails: \u00a9 Club Alpino Italiano (CAI) \u2014 INFOMONT (infomont.cai.it), ODbL 1.0",
+    "minZoom": 7,
+    "maxZoom": 16,
+    "bounds": {
+      "minLat": 18.928737,
+      "minLon": -8.704895,
+      "maxLat": 38.018304,
+      "maxLon": 12.035975
+    },
+    "country": "Algeria",
+    "trail_sources": [
+      "CAI"
+    ]
+  },
+  {
     "id": "american-oceania",
     "region": "american-oceania",
     "name": "American Oceania",
