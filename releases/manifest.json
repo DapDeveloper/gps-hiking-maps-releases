@@ -988,6 +988,26 @@
     "country": "Gabon"
   },
   {
+    "id": "gcc-states",
+    "region": "gcc-states",
+    "name": "GCC States",
+    "version": "20261111",
+    "file": "gcc-states-v20261111.pkg",
+    "size": 110917883,
+    "sha256": "897d4c87b60c08635062ecde47cc85fc0a3f56f0178303bb7aa4cf3d32c82ca8",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 16,
+    "bounds": {
+      "minLat": 15.24752,
+      "minLon": 34.434886,
+      "maxLat": 32.196534,
+      "maxLon": 60.94748
+    },
+    "country": "GCC States"
+  },
+  {
     "id": "georgia",
     "region": "georgia",
     "name": "Georgia",
