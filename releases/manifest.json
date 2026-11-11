@@ -2701,6 +2701,26 @@
     "country": "Somalia"
   },
   {
+    "id": "south-korea",
+    "region": "south-korea",
+    "name": "South Korea",
+    "version": "20261111",
+    "file": "south-korea-v20261111.pkg",
+    "size": 98637500,
+    "sha256": "0968b99b9d6d5eef96d2254efee2707dbdda5b496576ec69f78bc30d1bf87826",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 16,
+    "bounds": {
+      "minLat": 32.36076,
+      "minLon": 124.3188,
+      "maxLat": 38.64966,
+      "maxLon": 132.3386
+    },
+    "country": "South Korea"
+  },
+  {
     "id": "south-sudan",
     "region": "south-sudan",
     "name": "South Sudan",
