@@ -2499,6 +2499,26 @@
     "country": "Haiti and Dominican Republic"
   },
   {
+    "id": "hamburg",
+    "region": "hamburg",
+    "name": "Hamburg",
+    "version": "20261111",
+    "file": "hamburg-v20261111.pkg",
+    "size": 7754958,
+    "sha256": "37c911eb413538263cfa8afa56c3c21d78f95e164341d4d86b96c0c56921e1b5",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 53.391826,
+      "minLon": 7.967833,
+      "maxLat": 54.062613,
+      "maxLon": 10.331955
+    },
+    "country": "Germany"
+  },
+  {
     "id": "honduras",
     "region": "honduras",
     "name": "Honduras",
