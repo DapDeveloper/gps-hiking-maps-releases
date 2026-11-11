@@ -2999,6 +2999,26 @@
     "country": "China"
   },
   {
+    "id": "jiangxi",
+    "region": "jiangxi",
+    "name": "Jiangxi",
+    "version": "20261111",
+    "file": "jiangxi-v20261111.pkg",
+    "size": 52462498,
+    "sha256": "9372b7022265c5fcac3ed583e83f3832d44eeb4cc05d8d28254d8783e050a496",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 24.478088,
+      "minLon": 113.568763,
+      "maxLat": 30.088405,
+      "maxLon": 118.486519
+    },
+    "country": "China"
+  },
+  {
     "id": "jordan",
     "region": "jordan",
     "name": "Jordan",
