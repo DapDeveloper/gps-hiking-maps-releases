@@ -3099,6 +3099,26 @@
     "country": "Russian Federation"
   },
   {
+    "id": "kansai",
+    "region": "kansai",
+    "name": "Kansai region (a.k.a. Kinki region)",
+    "version": "20261111",
+    "file": "kansai-v20261111.pkg",
+    "size": 68110641,
+    "sha256": "67dbaf08ab8fa04317b2c2f2fe2a808bd4e5f9caf8de53e80e0aeefecef1ce3a",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 33.078979,
+      "minLon": 133.964396,
+      "maxLat": 36.458201,
+      "maxLon": 137.657278
+    },
+    "country": "Japan"
+  },
+  {
     "id": "kazakhstan",
     "region": "kazakhstan",
     "name": "Kazakhstan",
