@@ -5459,6 +5459,26 @@
     "country": "China"
   },
   {
+    "id": "reunion",
+    "region": "reunion",
+    "name": "Reunion",
+    "version": "20261111",
+    "file": "reunion-v20261111.pkg",
+    "size": 4640323,
+    "sha256": "29c5a1d12173671d7ddddc061d2572854edcaf33e26261408c3b858180059717",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": -21.72922,
+      "minLon": 54.94688,
+      "maxLat": -20.58589,
+      "maxLon": 56.11999
+    },
+    "country": "France"
+  },
+  {
     "id": "romania",
     "region": "romania",
     "name": "Romania",
