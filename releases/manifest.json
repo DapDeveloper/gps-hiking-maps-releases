@@ -4052,6 +4052,26 @@
     "country": "France"
   },
   {
+    "id": "mazowieckie",
+    "region": "mazowieckie",
+    "name": "Mazowieckie",
+    "version": "20261111",
+    "file": "mazowieckie-v20261111.pkg",
+    "size": 52970303,
+    "sha256": "2d9fbc353b1c4b697fae4a859cee8cacdaed1d2c50e6640f4a4c68870491293f",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 50.98451,
+      "minLon": 19.23355,
+      "maxLat": 53.5116,
+      "maxLon": 23.15637
+    },
+    "country": "Poland"
+  },
+  {
     "id": "mexico",
     "region": "mexico",
     "name": "Mexico",
