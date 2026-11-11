@@ -2319,6 +2319,26 @@
     "country": "China"
   },
   {
+    "id": "guangxi",
+    "region": "guangxi",
+    "name": "Guangxi",
+    "version": "20261111",
+    "file": "guangxi-v20261111.pkg",
+    "size": 42898162,
+    "sha256": "16293b28cc80e9712af8d5afad91e8c344fe08504e4b4b49385f18f818c9180d",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 20.689823,
+      "minLon": 104.441871,
+      "maxLat": 26.396483,
+      "maxLon": 112.065353
+    },
+    "country": "China"
+  },
+  {
     "id": "guatemala",
     "region": "guatemala",
     "name": "Guatemala",
