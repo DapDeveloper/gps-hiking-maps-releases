@@ -2069,6 +2069,26 @@
     "country": "Mozambique"
   },
   {
+    "id": "myanmar",
+    "region": "myanmar",
+    "name": "Myanmar (a.k.a. Burma)",
+    "version": "20261111",
+    "file": "myanmar-v20261111.pkg",
+    "size": 86657978,
+    "sha256": "7ef495633e7d776b84b6e885d78b2f44ea00821cc59118c4fb1ba50d1b45fce1",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 16,
+    "bounds": {
+      "minLat": 9.510211,
+      "minLon": 90.651332,
+      "maxLat": 28.574763,
+      "maxLon": 101.197093
+    },
+    "country": "Myanmar (a.k.a. Burma)"
+  },
+  {
     "id": "namibia",
     "region": "namibia",
     "name": "Namibia",
