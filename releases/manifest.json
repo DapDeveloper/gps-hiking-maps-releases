@@ -5890,6 +5890,26 @@
     "country": "China"
   },
   {
+    "id": "shanxi",
+    "region": "shanxi",
+    "name": "Shanxi",
+    "version": "20261111",
+    "file": "shanxi-v20261111.pkg",
+    "size": 23997433,
+    "sha256": "d41916ef48278da65b6a0893b3f0e95ae05cd47ed1529156cbb37b54d95666fd",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 34.578953,
+      "minLon": 110.2,
+      "maxLat": 40.751159,
+      "maxLon": 114.57
+    },
+    "country": "China"
+  },
+  {
     "id": "sicilia",
     "region": "sicilia",
     "name": "Sicilia",
