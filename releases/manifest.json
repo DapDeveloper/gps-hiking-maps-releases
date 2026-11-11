@@ -3059,6 +3059,26 @@
     "country": "Jordan"
   },
   {
+    "id": "kalimantan",
+    "region": "kalimantan",
+    "name": "Kalimantan",
+    "version": "20261111",
+    "file": "kalimantan-v20261111.pkg",
+    "size": 63924142,
+    "sha256": "4d5f11d9d7c64c62def815880542085e0c9f68b8d5f71ecb10680cf1f1411e0d",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": -5.59958,
+      "minLon": 104.96063,
+      "maxLat": 4.499767,
+      "maxLon": 119.926747
+    },
+    "country": "Indonesia (with East Timor)"
+  },
+  {
     "id": "kazakhstan",
     "region": "kazakhstan",
     "name": "Kazakhstan",
