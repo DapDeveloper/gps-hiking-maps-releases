@@ -4880,6 +4880,26 @@
     "country": "Russian Federation"
   },
   {
+    "id": "nova-scotia",
+    "region": "nova-scotia",
+    "name": "Nova Scotia",
+    "version": "20261111",
+    "file": "nova-scotia-v20261111.pkg",
+    "size": 28395558,
+    "sha256": "5ba54a155bf8940eb95f8bc805e5fc1ed2f96966e36b855736d123c5190926d6",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 42.01893,
+      "minLon": -67.51297,
+      "maxLat": 47.897934,
+      "maxLon": -58.22593
+    },
+    "country": "Canada"
+  },
+  {
     "id": "pakistan",
     "region": "pakistan",
     "name": "Pakistan",
