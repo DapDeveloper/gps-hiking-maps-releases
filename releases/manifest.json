@@ -3508,6 +3508,26 @@
     "country": "Tunisia"
   },
   {
+    "id": "turkey",
+    "region": "turkey",
+    "name": "Turkey",
+    "version": "20261111",
+    "file": "turkey-v20261111.pkg",
+    "size": 201682070,
+    "sha256": "2b1e0e2dda408525ac817875d424409816a2587cbc162cb92fd6bb6b9e375216",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 16,
+    "bounds": {
+      "minLat": 35.717,
+      "minLon": 25.523985,
+      "maxLat": 43.074814,
+      "maxLon": 44.859923
+    },
+    "country": "Turkey"
+  },
+  {
     "id": "turkmenistan",
     "region": "turkmenistan",
     "name": "Turkmenistan",
