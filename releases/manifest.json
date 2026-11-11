@@ -1139,6 +1139,26 @@
     "country": "Russian Federation"
   },
   {
+    "id": "central-zone",
+    "region": "central-zone",
+    "name": "Central Zone",
+    "version": "20261111",
+    "file": "central-zone-v20261111.pkg",
+    "size": 165129477,
+    "sha256": "d2e90107c4420c84d3b66f9a67b38eb144543152bb7fccb8b75964661cbb2bd3",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 17.770921,
+      "minLon": 74.014891,
+      "maxLat": 31.728176,
+      "maxLon": 84.646568
+    },
+    "country": "India"
+  },
+  {
     "id": "chad",
     "region": "chad",
     "name": "Chad",
