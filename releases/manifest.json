@@ -4500,6 +4500,26 @@
     "country": "New Zealand"
   },
   {
+    "id": "newfoundland-and-labrador",
+    "region": "newfoundland-and-labrador",
+    "name": "Newfoundland and Labrador",
+    "version": "20261111",
+    "file": "newfoundland-and-labrador-v20261111.pkg",
+    "size": 208530214,
+    "sha256": "5d1c2726f13d4343de023330963f25c332972af44a7c230846d3a135c9e52bb5",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 44.063915,
+      "minLon": -67.870791,
+      "maxLat": 60.508641,
+      "maxLon": -42.583052
+    },
+    "country": "Canada"
+  },
+  {
     "id": "nicaragua",
     "region": "nicaragua",
     "name": "Nicaragua",
