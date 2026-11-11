@@ -4980,6 +4980,26 @@
     "country": "Netherlands"
   },
   {
+    "id": "pais-vasco",
+    "region": "pais-vasco",
+    "name": "Pa\u00eds Vasco",
+    "version": "20261111",
+    "file": "pais-vasco-v20261111.pkg",
+    "size": 19598502,
+    "sha256": "874f98de41565014e6d25c13c55d8910b4fb2a7de2fd9b299ada011d212bca57",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 42.469185,
+      "minLon": -3.454342,
+      "maxLat": 43.747291,
+      "maxLon": -1.661685
+    },
+    "country": "Spain"
+  },
+  {
     "id": "pakistan",
     "region": "pakistan",
     "name": "Pakistan",
