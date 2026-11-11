@@ -643,6 +643,26 @@
     "country": "Benin"
   },
   {
+    "id": "berlin",
+    "region": "berlin",
+    "name": "Berlin",
+    "version": "20261111",
+    "file": "berlin-v20261111.pkg",
+    "size": 14398010,
+    "sha256": "19953d59cb3a6f761016e92456ced9a1858706d65022f54ca048e380bed21f29",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 52.33446,
+      "minLon": 13.08283,
+      "maxLat": 52.6783,
+      "maxLon": 13.762245
+    },
+    "country": "Germany"
+  },
+  {
     "id": "bhutan",
     "region": "bhutan",
     "name": "Bhutan",
