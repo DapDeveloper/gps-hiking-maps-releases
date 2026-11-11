@@ -2299,6 +2299,26 @@
     "country": "France"
   },
   {
+    "id": "guangdong",
+    "region": "guangdong",
+    "name": "Guangdong (with Hong Kong and Macau)",
+    "version": "20261111",
+    "file": "guangdong-v20261111.pkg",
+    "size": 79129297,
+    "sha256": "697aac82b736cd80ee3f7162a2b9528f9ff40875d8286f43f0a26a37dbd0e6ed",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 20.058514,
+      "minLon": 109.356535,
+      "maxLat": 25.524319,
+      "maxLon": 118.792417
+    },
+    "country": "China"
+  },
+  {
     "id": "guatemala",
     "region": "guatemala",
     "name": "Guatemala",
