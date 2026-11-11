@@ -4400,6 +4400,26 @@
     "country": "Nauru"
   },
   {
+    "id": "navarra",
+    "region": "navarra",
+    "name": "Navarra",
+    "version": "20261111",
+    "file": "navarra-v20261111.pkg",
+    "size": 14266913,
+    "sha256": "a40481738da838ad87888c1c0b86090e3ab149e28eae205c8d433378a11e4316",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 41.90611,
+      "minLon": -2.502308,
+      "maxLat": 43.372115,
+      "maxLon": -0.625534
+    },
+    "country": "Spain"
+  },
+  {
     "id": "nepal",
     "region": "nepal",
     "name": "Nepal",
