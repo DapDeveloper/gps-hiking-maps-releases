@@ -695,6 +695,26 @@
     "country": "Congo (Republic/Brazzaville)"
   },
   {
+    "id": "congo-democratic-republic",
+    "region": "congo-democratic-republic",
+    "name": "Congo (Democratic Republic/Kinshasa)",
+    "version": "20261111",
+    "file": "congo-democratic-republic-v20261111.pkg",
+    "size": 164328583,
+    "sha256": "9c609c4d95d67fe4846ac42338d77d4aedb4d7bf75796c1343ae729b6f0a50e2",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 16,
+    "bounds": {
+      "minLat": -13.5006,
+      "minLon": 11.883432,
+      "maxLat": 5.401396,
+      "maxLon": 31.335694
+    },
+    "country": "Congo (Democratic Republic/Kinshasa)"
+  },
+  {
     "id": "cook-islands",
     "region": "cook-islands",
     "name": "Cook Islands",
