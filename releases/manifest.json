@@ -835,6 +835,26 @@
     "country": "Cyprus"
   },
   {
+    "id": "denmark",
+    "region": "denmark",
+    "name": "Denmark",
+    "version": "20261111",
+    "file": "denmark-v20261111.pkg",
+    "size": 71662275,
+    "sha256": "dc9cdae6078862ce82b6f4325c7222b39c84cbfaed2ff42059e72f438935817f",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 16,
+    "bounds": {
+      "minLat": 54.44065,
+      "minLon": 7.7011,
+      "maxLat": 58.06239,
+      "maxLon": 15.65449
+    },
+    "country": "Denmark"
+  },
+  {
     "id": "djibouti",
     "region": "djibouti",
     "name": "Djibouti",
