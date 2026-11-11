@@ -1511,6 +1511,26 @@
     "country": "Kazakhstan"
   },
   {
+    "id": "kenya",
+    "region": "kenya",
+    "name": "Kenya",
+    "version": "20261111",
+    "file": "kenya-v20261111.pkg",
+    "size": 115704673,
+    "sha256": "c8fa78099e26353cb463fcc99714df7d2a6f9bc18ec3ccf22668988d93f6be13",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 16,
+    "bounds": {
+      "minLat": -4.816276,
+      "minLon": 33.8679,
+      "maxLat": 4.629931,
+      "maxLon": 41.97685
+    },
+    "country": "Kenya"
+  },
+  {
     "id": "kiribati",
     "region": "kiribati",
     "name": "Kiribati",
