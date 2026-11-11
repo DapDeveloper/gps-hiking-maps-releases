@@ -763,6 +763,26 @@
     "country": "Botswana"
   },
   {
+    "id": "bourgogne",
+    "region": "bourgogne",
+    "name": "Bourgogne",
+    "version": "20261111",
+    "file": "bourgogne-v20261111.pkg",
+    "size": 42284750,
+    "sha256": "3126e69112b75281d71c38c6e599e8b0d785d529a5ca0dc6974d222363228764",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 46.15484,
+      "minLon": 2.843279,
+      "maxLat": 48.40136,
+      "maxLon": 5.519965
+    },
+    "country": "France"
+  },
+  {
     "id": "bulgaria",
     "region": "bulgaria",
     "name": "Bulgaria",
