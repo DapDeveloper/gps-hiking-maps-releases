@@ -2099,6 +2099,26 @@
     "country": "Gabon"
   },
   {
+    "id": "galicia",
+    "region": "galicia",
+    "name": "Galicia",
+    "version": "20261111",
+    "file": "galicia-v20261111.pkg",
+    "size": 37700954,
+    "sha256": "a34e3fa32eaff614c3be15e501e120aefff3631aa777d7b415397e68797ddabc",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 41.767217,
+      "minLon": -10.360118,
+      "maxLat": 44.308135,
+      "maxLon": -6.727066
+    },
+    "country": "Spain"
+  },
+  {
     "id": "gcc-states",
     "region": "gcc-states",
     "name": "GCC States",
