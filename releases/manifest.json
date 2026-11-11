@@ -2659,6 +2659,26 @@
     "country": "Honduras"
   },
   {
+    "id": "hong-kong",
+    "region": "hong-kong",
+    "name": "Hong Kong",
+    "version": "20261111",
+    "file": "hong-kong-v20261111.pkg",
+    "size": 8959521,
+    "sha256": "2e649b3f8658be447ddc03aeaa63959898ba9681217eb32433554df1a156ef20",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 22.130413,
+      "minLon": 113.813,
+      "maxLat": 22.56904,
+      "maxLon": 114.506
+    },
+    "country": "China"
+  },
+  {
     "id": "hungary",
     "region": "hungary",
     "name": "Hungary",
