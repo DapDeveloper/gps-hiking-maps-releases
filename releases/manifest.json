@@ -2259,6 +2259,26 @@
     "country": "Greenland"
   },
   {
+    "id": "groningen",
+    "region": "groningen",
+    "name": "Groningen",
+    "version": "20261111",
+    "file": "groningen-v20261111.pkg",
+    "size": 5667175,
+    "sha256": "b19afa38ab54c9c9716448f12c804d39ddbe31b62e6b2af4e1d5290f18f315f6",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 52.837213,
+      "minLon": 6.166463,
+      "maxLat": 53.659729,
+      "maxLon": 7.450069
+    },
+    "country": "Netherlands"
+  },
+  {
     "id": "guatemala",
     "region": "guatemala",
     "name": "Guatemala",
