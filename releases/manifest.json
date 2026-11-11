@@ -251,6 +251,26 @@
     "country": "Antarctica"
   },
   {
+    "id": "aquitaine",
+    "region": "aquitaine",
+    "name": "Aquitaine",
+    "version": "20261111",
+    "file": "aquitaine-v20261111.pkg",
+    "size": 53584667,
+    "sha256": "1d880b4498ce9e4a082da1503fabdb26d7e3d93c8434edb87c5e7aaaa9fc61d9",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 42.61155,
+      "minLon": -1.842771,
+      "maxLat": 45.71724,
+      "maxLon": 1.450577
+    },
+    "country": "France"
+  },
+  {
     "id": "argentina",
     "region": "argentina",
     "name": "Argentina",
