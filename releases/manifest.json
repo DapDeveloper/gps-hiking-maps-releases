@@ -4840,6 +4840,26 @@
     "country": "India"
   },
   {
+    "id": "northwest-territories",
+    "region": "northwest-territories",
+    "name": "Northwest Territories",
+    "version": "20261111",
+    "file": "northwest-territories-v20261111.pkg",
+    "size": 1034866802,
+    "sha256": "4da6ae9d13e159ee1fa8dfb366e61e675ddd2ced1dd0fc0fd81024c165dc5e36",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 59.9896,
+      "minLon": -136.697393,
+      "maxLat": 81.65483,
+      "maxLon": -101.976
+    },
+    "country": "Canada"
+  },
+  {
     "id": "northwestern-fed-district",
     "region": "northwestern-fed-district",
     "name": "Northwestern Federal District",
