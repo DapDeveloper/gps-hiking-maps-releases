@@ -1299,6 +1299,26 @@
     "country": "China"
   },
   {
+    "id": "chubu",
+    "region": "chubu",
+    "name": "Ch\u016bbu region",
+    "version": "20261111",
+    "file": "chubu-v20261111.pkg",
+    "size": 111208473,
+    "sha256": "0b47525309a961e18c4a176de67198b955dba10b1e0e13eacef727cd213ad55c",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 34.26649,
+      "minLon": 135.4393,
+      "maxLat": 38.90717,
+      "maxLon": 139.909
+    },
+    "country": "Japan"
+  },
+  {
     "id": "colombia",
     "region": "colombia",
     "name": "Colombia",
