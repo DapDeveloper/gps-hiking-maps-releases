@@ -5562,6 +5562,26 @@
     "country": "Rwanda"
   },
   {
+    "id": "saarland",
+    "region": "saarland",
+    "name": "Saarland",
+    "version": "20261111",
+    "file": "saarland-v20261111.pkg",
+    "size": 8146791,
+    "sha256": "ad9455221992082b0be3700f56281dc866d369e9fbe7a317813959ba164cb100",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 49.040133,
+      "minLon": 6.35017,
+      "maxLat": 49.641456,
+      "maxLon": 7.406287
+    },
+    "country": "Germany"
+  },
+  {
     "id": "saint-helena-ascension-and-tristan-da-cunha",
     "region": "saint-helena-ascension-and-tristan-da-cunha",
     "name": "Saint Helena, Ascension, and Tristan da Cunha",
