@@ -1159,6 +1159,26 @@
     "country": "India"
   },
   {
+    "id": "centre",
+    "region": "centre",
+    "name": "Centre",
+    "version": "20261111",
+    "file": "centre-v20261111.pkg",
+    "size": 43809368,
+    "sha256": "cc1171b91d21554c61e9a26a44d512a716d7f99bdc822b218bf35f150cd4f95d",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 46.34591,
+      "minLon": 0.051538,
+      "maxLat": 48.9423,
+      "maxLon": 3.129925
+    },
+    "country": "France"
+  },
+  {
     "id": "chad",
     "region": "chad",
     "name": "Chad",
