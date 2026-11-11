@@ -5479,6 +5479,26 @@
     "country": "France"
   },
   {
+    "id": "rheinland-pfalz",
+    "region": "rheinland-pfalz",
+    "name": "Rheinland-Pfalz",
+    "version": "20261111",
+    "file": "rheinland-pfalz-v20261111.pkg",
+    "size": 52942028,
+    "sha256": "bb8dd5869a2e94b53f4786ca26e8a4f3ba52182cef687b46981490d4226c6d5b",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 48.963765,
+      "minLon": 6.108849,
+      "maxLat": 50.944044,
+      "maxLon": 8.511228
+    },
+    "country": "Germany"
+  },
+  {
     "id": "romania",
     "region": "romania",
     "name": "Romania",
