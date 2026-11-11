@@ -171,6 +171,26 @@
     "country": "Antarctica"
   },
   {
+    "id": "argentina",
+    "region": "argentina",
+    "name": "Argentina",
+    "version": "20261111",
+    "file": "argentina-v20261111.pkg",
+    "size": 275603509,
+    "sha256": "447e5014abcd414d2f9d0c8b1dfb3d67e85764f53f6037256249e21731390e13",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 16,
+    "bounds": {
+      "minLat": -55.682956,
+      "minLon": -73.614525,
+      "maxLat": -21.725753,
+      "maxLon": -53.63534
+    },
+    "country": "Argentina"
+  },
+  {
     "id": "armenia",
     "region": "armenia",
     "name": "Armenia",
