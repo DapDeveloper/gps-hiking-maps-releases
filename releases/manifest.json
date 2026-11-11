@@ -2459,6 +2459,26 @@
     "country": "Guyane"
   },
   {
+    "id": "hainan",
+    "region": "hainan",
+    "name": "Hainan",
+    "version": "20261111",
+    "file": "hainan-v20261111.pkg",
+    "size": 6018273,
+    "sha256": "ff6988b9b9a2cc07dca04374ff8e0e5aaed9891e74c063b687a87c37b6c0b2b8",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 11.984699,
+      "minLon": 107.578984,
+      "maxLat": 20.403849,
+      "maxLon": 118.784158
+    },
+    "country": "China"
+  },
+  {
     "id": "haiti-and-domrep",
     "region": "haiti-and-domrep",
     "name": "Haiti and Dominican Republic",
