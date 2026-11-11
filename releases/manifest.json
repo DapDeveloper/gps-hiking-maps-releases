@@ -1231,6 +1231,26 @@
     "country": "Honduras"
   },
   {
+    "id": "hungary",
+    "region": "hungary",
+    "name": "Hungary",
+    "version": "20261111",
+    "file": "hungary-v20261111.pkg",
+    "size": 61520909,
+    "sha256": "aa487a3043410da0d5a0c9e50384d9d5bd1d3cf1e30c4e53af03b39613c6f4e1",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 16,
+    "bounds": {
+      "minLat": 45.732067,
+      "minLon": 16.108446,
+      "maxLat": 48.589212,
+      "maxLon": 22.906494
+    },
+    "country": "Hungary"
+  },
+  {
     "id": "iceland",
     "region": "iceland",
     "name": "Iceland",
