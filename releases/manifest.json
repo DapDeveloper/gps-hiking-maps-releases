@@ -2979,6 +2979,26 @@
     "country": "Indonesia (with East Timor)"
   },
   {
+    "id": "jiangsu",
+    "region": "jiangsu",
+    "name": "Jiangsu",
+    "version": "20261111",
+    "file": "jiangsu-v20261111.pkg",
+    "size": 39706251,
+    "sha256": "e93a3ea25d3ee0d282f068547fa783deea8dcbb02755bfb8bc443ae656e11862",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 30.758986,
+      "minLon": 116.353798,
+      "maxLat": 35.555067,
+      "maxLon": 122.94525
+    },
+    "country": "China"
+  },
+  {
     "id": "jordan",
     "region": "jordan",
     "name": "Jordan",
