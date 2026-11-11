@@ -3515,6 +3515,26 @@
     }
   },
   {
+    "id": "limburg",
+    "region": "limburg",
+    "name": "Limburg",
+    "version": "20261111",
+    "file": "limburg-v20261111.pkg",
+    "size": 10773791,
+    "sha256": "99d47ca3b6b6c26a7e5e170b66c42a1974837375937a81caadd3421620e01afe",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 50.603516,
+      "minLon": 5.165618,
+      "maxLat": 51.77992,
+      "maxLon": 6.379776
+    },
+    "country": "Netherlands"
+  },
+  {
     "id": "lithuania",
     "region": "lithuania",
     "name": "Lithuania",
