@@ -595,6 +595,26 @@
     "country": "Chad"
   },
   {
+    "id": "chile",
+    "region": "chile",
+    "name": "Chile",
+    "version": "20261111",
+    "file": "chile-v20261111.pkg",
+    "size": 114566048,
+    "sha256": "d31a385c6eba9ef87cea8aab9294912e0df6b624fccebf8aafe55f596b29c143",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 16,
+    "bounds": {
+      "minLat": -58.45195,
+      "minLon": -113.2233,
+      "maxLat": -17.45743,
+      "maxLon": -65.5141
+    },
+    "country": "Chile"
+  },
+  {
     "id": "colombia",
     "region": "colombia",
     "name": "Colombia",
