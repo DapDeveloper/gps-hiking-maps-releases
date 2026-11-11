@@ -2652,6 +2652,26 @@
     "country": "Peru"
   },
   {
+    "id": "philippines",
+    "region": "philippines",
+    "name": "Philippines",
+    "version": "20261111",
+    "file": "philippines-v20261111.pkg",
+    "size": 100925319,
+    "sha256": "1701f83027001fd9627d9db61b7e04e70c34b690c73a2d1e1ef449a3077ad10e",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 16,
+    "bounds": {
+      "minLat": 4.382696,
+      "minLon": 112.1661,
+      "maxLat": 21.53021,
+      "maxLon": 127.0742
+    },
+    "country": "Philippines"
+  },
+  {
     "id": "piemonte",
     "region": "piemonte",
     "name": "Piemonte",
