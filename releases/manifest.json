@@ -231,6 +231,26 @@
     "country": "Bahamas"
   },
   {
+    "id": "bangladesh",
+    "region": "bangladesh",
+    "name": "Bangladesh",
+    "version": "20261111",
+    "file": "bangladesh-v20261111.pkg",
+    "size": 55235706,
+    "sha256": "d34d9a4b5cd8432f4fcd38ef51935d5d2a960365b2f577d078977c49163c684f",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 16,
+    "bounds": {
+      "minLat": 18.58403,
+      "minLon": 87.99765,
+      "maxLat": 26.64677,
+      "maxLon": 92.697142
+    },
+    "country": "Bangladesh"
+  },
+  {
     "id": "basilicata",
     "region": "basilicata",
     "name": "Basilicata",
