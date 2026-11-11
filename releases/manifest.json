@@ -5850,6 +5850,26 @@
     "country": "China"
   },
   {
+    "id": "shandong",
+    "region": "shandong",
+    "name": "Shandong",
+    "version": "20261111",
+    "file": "shandong-v20261111.pkg",
+    "size": 40818906,
+    "sha256": "b17c351a0b1b58748eda378cb14ae41ea1d6b89b11ca7afc7f5f0bd40b9f85dc",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 34.375746,
+      "minLon": 114.813309,
+      "maxLat": 38.44,
+      "maxLon": 123.563227
+    },
+    "country": "China"
+  },
+  {
     "id": "sicilia",
     "region": "sicilia",
     "name": "Sicilia",
