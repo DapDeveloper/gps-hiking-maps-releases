@@ -2164,6 +2164,26 @@
     "country": "Mauritius"
   },
   {
+    "id": "mexico",
+    "region": "mexico",
+    "name": "Mexico",
+    "version": "20261111",
+    "file": "mexico-v20261111.pkg",
+    "size": 251770732,
+    "sha256": "e1f04431abddbd3888ed6b1179e56ccbfedbe0eba7265d2445798441690f0f87",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 16,
+    "bounds": {
+      "minLat": 9.079755,
+      "minLon": -132.495161,
+      "maxLat": 32.72067,
+      "maxLon": -81.60533
+    },
+    "country": "Mexico"
+  },
+  {
     "id": "micronesia",
     "region": "micronesia",
     "name": "Micronesia",
