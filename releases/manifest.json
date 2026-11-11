@@ -3371,6 +3371,26 @@
     "country": "Tajikistan"
   },
   {
+    "id": "tanzania",
+    "region": "tanzania",
+    "name": "Tanzania",
+    "version": "20261111",
+    "file": "tanzania-v20261111.pkg",
+    "size": 210088963,
+    "sha256": "b4ba91c832f3f646f8e3da6790f88c47a1c04fea3ea6d4ec9f9ecfecffd1a919",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 16,
+    "bounds": {
+      "minLat": -11.775945,
+      "minLon": 29.24395,
+      "maxLat": -0.974988,
+      "maxLon": 40.69487
+    },
+    "country": "Tanzania"
+  },
+  {
     "id": "thailand",
     "region": "thailand",
     "name": "Thailand",
