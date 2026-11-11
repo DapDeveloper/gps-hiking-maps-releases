@@ -1991,6 +1991,26 @@
     "country": "Netherlands"
   },
   {
+    "id": "franche-comte",
+    "region": "franche-comte",
+    "name": "Franche Comte",
+    "version": "20261111",
+    "file": "franche-comte-v20261111.pkg",
+    "size": 27315558,
+    "sha256": "aa52f1fd3b2dc25ee34110ae0764af6f5e19027d27b6b0d21051f9f3c7fee4da",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 46.25975,
+      "minLon": 5.25076,
+      "maxLat": 48.02537,
+      "maxLon": 7.14439
+    },
+    "country": "France"
+  },
+  {
     "id": "friuli-venezia-giulia",
     "region": "friuli-venezia-giulia",
     "name": "Friuli-Venezia Giulia",
