@@ -2887,6 +2887,26 @@
     "country": "Syria"
   },
   {
+    "id": "taiwan",
+    "region": "taiwan",
+    "name": "Taiwan",
+    "version": "20261111",
+    "file": "taiwan-v20261111.pkg",
+    "size": 46422324,
+    "sha256": "c36d71b650efef1e12ab2a0fb0cf30ceb7bef0d562324b5234b3cfc38208d9a0",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 16,
+    "bounds": {
+      "minLat": 20.72799,
+      "minLon": 118.1036,
+      "maxLat": 26.60305,
+      "maxLon": 122.9312
+    },
+    "country": "Taiwan"
+  },
+  {
     "id": "tajikistan",
     "region": "tajikistan",
     "name": "Tajikistan",
