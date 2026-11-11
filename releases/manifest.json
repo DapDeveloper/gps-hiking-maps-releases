@@ -5368,6 +5368,26 @@
     "country": "Portugal"
   },
   {
+    "id": "prince-edward-island",
+    "region": "prince-edward-island",
+    "name": "Prince Edward Island",
+    "version": "20261111",
+    "file": "prince-edward-island-v20261111.pkg",
+    "size": 3557908,
+    "sha256": "5fe7980d6126f898396ac65480e18cc50f0b5340f3c72578c81c7b4f2bb3a12d",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 45.824972,
+      "minLon": -64.602359,
+      "maxLat": 47.685732,
+      "maxLon": -61.248785
+    },
+    "country": "Canada"
+  },
+  {
     "id": "puglia",
     "region": "puglia",
     "name": "Puglia",
