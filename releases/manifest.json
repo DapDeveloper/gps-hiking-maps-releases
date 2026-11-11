@@ -663,6 +663,26 @@
     "country": "Germany"
   },
   {
+    "id": "bermuda",
+    "region": "bermuda",
+    "name": "Bermuda",
+    "version": "20261111",
+    "file": "bermuda-v20261111.pkg",
+    "size": 406558,
+    "sha256": "904531c6b787917617058ded0ea9fa5c7d7e6b9ea586d896d87eef585d838a26",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 32.021584,
+      "minLon": -65.200504,
+      "maxLat": 32.623241,
+      "maxLon": -64.394056
+    },
+    "country": "United Kingdom"
+  },
+  {
     "id": "bhutan",
     "region": "bhutan",
     "name": "Bhutan",
