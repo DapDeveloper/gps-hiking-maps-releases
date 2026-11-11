@@ -1279,6 +1279,26 @@
     "country": "Chile"
   },
   {
+    "id": "chongqing",
+    "region": "chongqing",
+    "name": "Chongqing",
+    "version": "20261111",
+    "file": "chongqing-v20261111.pkg",
+    "size": 63842472,
+    "sha256": "791de6d49938f19624e25c721dc3a37766fa35688f9d4ea2b125e6c04ed32076",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 28.15132,
+      "minLon": 105.283012,
+      "maxLat": 32.206411,
+      "maxLon": 110.200424
+    },
+    "country": "China"
+  },
+  {
     "id": "colombia",
     "region": "colombia",
     "name": "Colombia",
