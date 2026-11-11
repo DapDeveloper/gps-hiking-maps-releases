@@ -2519,6 +2519,26 @@
     "country": "Germany"
   },
   {
+    "id": "haute-normandie",
+    "region": "haute-normandie",
+    "name": "Haute-Normandie",
+    "version": "20261111",
+    "file": "haute-normandie-v20261111.pkg",
+    "size": 14478120,
+    "sha256": "598a396f047c182881f101c82647ec9a5a3df34b0cc359586c7030bc3ce956bf",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 48.66574,
+      "minLon": 0.009482,
+      "maxLat": 50.08769,
+      "maxLon": 1.803956
+    },
+    "country": "France"
+  },
+  {
     "id": "honduras",
     "region": "honduras",
     "name": "Honduras",
