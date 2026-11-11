@@ -3575,6 +3575,26 @@
     "country": "Lithuania"
   },
   {
+    "id": "lodzkie",
+    "region": "lodzkie",
+    "name": "Lodzkie",
+    "version": "20261111",
+    "file": "lodzkie-v20261111.pkg",
+    "size": 23182974,
+    "sha256": "00f3c98e311e23c561c7f6ba750993334945a11862ba434d3864cd0611f08cfb",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 50.83091,
+      "minLon": 18.06227,
+      "maxLat": 52.40624,
+      "maxLon": 20.6691
+    },
+    "country": "Poland"
+  },
+  {
     "id": "lombardia",
     "region": "lombardia",
     "name": "Lombardia",
