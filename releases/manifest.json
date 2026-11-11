@@ -415,6 +415,26 @@
     "country": "Azerbaijan"
   },
   {
+    "id": "baden-wuerttemberg",
+    "region": "baden-wuerttemberg",
+    "name": "Baden-W\u00fcrttemberg",
+    "version": "20261111",
+    "file": "baden-wuerttemberg-v20261111.pkg",
+    "size": 120036003,
+    "sha256": "6423e16ae32d6a7cb97d5ec9e4cddea1919e3b9277379efde096fcd0c3807e59",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 47.18741,
+      "minLon": 7.372216,
+      "maxLat": 49.794564,
+      "maxLon": 10.514946
+    },
+    "country": "Germany"
+  },
+  {
     "id": "bahamas",
     "region": "bahamas",
     "name": "Bahamas",
