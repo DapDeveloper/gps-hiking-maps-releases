@@ -5582,6 +5582,26 @@
     "country": "Germany"
   },
   {
+    "id": "sachsen",
+    "region": "sachsen",
+    "name": "Sachsen",
+    "version": "20261111",
+    "file": "sachsen-v20261111.pkg",
+    "size": 49096285,
+    "sha256": "221aaf3fff224f110117e60e2c126e1361822aadb2d0f5fe8a435d96f620d3c1",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 50.031894,
+      "minLon": 11.86685,
+      "maxLat": 51.68735,
+      "maxLon": 15.163009
+    },
+    "country": "Germany"
+  },
+  {
     "id": "saint-helena-ascension-and-tristan-da-cunha",
     "region": "saint-helena-ascension-and-tristan-da-cunha",
     "name": "Saint Helena, Ascension, and Tristan da Cunha",
