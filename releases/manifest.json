@@ -2947,6 +2947,26 @@
     "country": "Tajikistan"
   },
   {
+    "id": "thailand",
+    "region": "thailand",
+    "name": "Thailand",
+    "version": "20261111",
+    "file": "thailand-v20261111.pkg",
+    "size": 159664300,
+    "sha256": "2f9be31e22576c9ae7e24d15276adf6837302e2d0751c0b64343f84bd3651129",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 16,
+    "bounds": {
+      "minLat": 5.597877,
+      "minLon": 97.135615,
+      "maxLat": 20.468752,
+      "maxLon": 105.63921
+    },
+    "country": "Thailand"
+  },
+  {
     "id": "togo",
     "region": "togo",
     "name": "Togo",
