@@ -211,6 +211,30 @@
     "country": "Armenia"
   },
   {
+    "id": "austria",
+    "region": "austria",
+    "name": "Austria",
+    "version": "20261111",
+    "file": "austria-v20261111.pkg",
+    "size": 150968928,
+    "sha256": "e3e5f25002cd242610fcca7c8957db53cf4250280c7e45fe37335272461a0045",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife \u00b7 Official trails: \u00a9 Club Alpino Italiano (CAI) \u2014 INFOMONT (infomont.cai.it), ODbL 1.0 \u00b7 \u00a9 Societ\u00e0 degli Alpinisti Tridentini (SAT) \u2014 sat.tn.it, ODbL 1.0",
+    "minZoom": 7,
+    "maxZoom": 16,
+    "bounds": {
+      "minLat": 46.369793,
+      "minLon": 9.52678,
+      "maxLat": 49.02403,
+      "maxLon": 17.164078
+    },
+    "country": "Austria",
+    "trail_sources": [
+      "CAI",
+      "SAT"
+    ]
+  },
+  {
     "id": "azerbaijan",
     "region": "azerbaijan",
     "name": "Azerbaijan",
