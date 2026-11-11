@@ -5268,6 +5268,26 @@
     "country": "Poland"
   },
   {
+    "id": "podlaskie",
+    "region": "podlaskie",
+    "name": "Podlaskie",
+    "version": "20261111",
+    "file": "podlaskie-v20261111.pkg",
+    "size": 20354069,
+    "sha256": "583dc772e85bc103bd7578e46f4a02e7e520ba4de4514ccb7107adea69f11d5a",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 52.27112,
+      "minLon": 21.58465,
+      "maxLat": 55.08646,
+      "maxLon": 24.31467
+    },
+    "country": "Poland"
+  },
+  {
     "id": "polynesie-francaise",
     "region": "polynesie-francaise",
     "name": "Polyn\u00e9sie fran\u00e7aise (French Polynesia)",
