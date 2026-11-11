@@ -111,6 +111,26 @@
     ]
   },
   {
+    "id": "alsace",
+    "region": "alsace",
+    "name": "Alsace",
+    "version": "20261111",
+    "file": "alsace-v20261111.pkg",
+    "size": 18937570,
+    "sha256": "32576ab4d41d9fd0bb08a9afdc0357eefb8e147694906018b2e8c5e8bad06160",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 47.3845,
+      "minLon": 6.838921,
+      "maxLat": 49.208014,
+      "maxLon": 8.306437
+    },
+    "country": "France"
+  },
+  {
     "id": "american-oceania",
     "region": "american-oceania",
     "name": "American Oceania",
