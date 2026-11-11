@@ -1451,6 +1451,26 @@
     "country": "Iraq"
   },
   {
+    "id": "ireland-and-northern-ireland",
+    "region": "ireland-and-northern-ireland",
+    "name": "Ireland and Northern Ireland",
+    "version": "20261111",
+    "file": "ireland-and-northern-ireland-v20261111.pkg",
+    "size": 73266707,
+    "sha256": "3f1b9cc7ba138cccafe481b510541cd64686cd1286c8de49fbee7f03497b007b",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 16,
+    "bounds": {
+      "minLat": 47.96052,
+      "minLon": -16.30824,
+      "maxLat": 56.86553,
+      "maxLon": -5.059265
+    },
+    "country": "Ireland and Northern Ireland"
+  },
+  {
     "id": "israel-and-palestine",
     "region": "israel-and-palestine",
     "name": "Israel and Palestine",
