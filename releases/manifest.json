@@ -7210,6 +7210,26 @@
     "country": "United States of America"
   },
   {
+    "id": "us-illinois",
+    "region": "us-illinois",
+    "name": "Illinois",
+    "version": "20261112",
+    "file": "us-illinois-v20261112.pkg",
+    "size": 163328571,
+    "sha256": "e6adcf20060a8ed76d820ba64906c637b15797ad280588fe8bf71a192325ca0e",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 36.96731,
+      "minLon": -91.51608,
+      "maxLat": 42.50941,
+      "maxLon": -87.49264
+    },
+    "country": "United States of America"
+  },
+  {
     "id": "uzbekistan",
     "region": "uzbekistan",
     "name": "Uzbekistan",
