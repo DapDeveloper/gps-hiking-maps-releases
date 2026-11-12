@@ -7630,6 +7630,26 @@
     "country": "United States of America"
   },
   {
+    "id": "us-north-dakota",
+    "region": "us-north-dakota",
+    "name": "North Dakota",
+    "version": "20261112",
+    "file": "us-north-dakota-v20261112.pkg",
+    "size": 51696649,
+    "sha256": "4c2a222891b6678bb7dbaa56347fb1a52b3404f71807e02d350e4648ccab074d",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 45.93448,
+      "minLon": -105.0844,
+      "maxLat": 49.70865,
+      "maxLon": -96.55292
+    },
+    "country": "United States of America"
+  },
+  {
     "id": "uzbekistan",
     "region": "uzbekistan",
     "name": "Uzbekistan",
