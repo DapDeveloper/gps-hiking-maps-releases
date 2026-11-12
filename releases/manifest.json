@@ -7050,6 +7050,26 @@
     "country": "United States of America"
   },
   {
+    "id": "us-colorado",
+    "region": "us-colorado",
+    "name": "Colorado",
+    "version": "20261112",
+    "file": "us-colorado-v20261112.pkg",
+    "size": 166366722,
+    "sha256": "af3c4031adc29d4d7107d08125fa08e760b1835c9b9d3882e16097ad4553446b",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 36.56774,
+      "minLon": -109.0631,
+      "maxLat": 41.00403,
+      "maxLon": -100.4637
+    },
+    "country": "United States of America"
+  },
+  {
     "id": "uzbekistan",
     "region": "uzbekistan",
     "name": "Uzbekistan",
