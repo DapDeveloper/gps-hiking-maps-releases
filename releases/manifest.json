@@ -7130,6 +7130,26 @@
     "country": "United States of America"
   },
   {
+    "id": "us-florida",
+    "region": "us-florida",
+    "name": "Florida",
+    "version": "20261112",
+    "file": "us-florida-v20261112.pkg",
+    "size": 167533638,
+    "sha256": "014f70250406f211bbf4a400cf7c5b427cf8c6dc3070fe6e97e427989e8e2a8b",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 23.68312,
+      "minLon": -88.70372,
+      "maxLat": 31.003067,
+      "maxLon": -77.72359
+    },
+    "country": "United States of America"
+  },
+  {
     "id": "uzbekistan",
     "region": "uzbekistan",
     "name": "Uzbekistan",
