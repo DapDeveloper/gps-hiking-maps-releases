@@ -7150,6 +7150,26 @@
     "country": "United States of America"
   },
   {
+    "id": "us-georgia",
+    "region": "us-georgia",
+    "name": "Georgia",
+    "version": "20261112",
+    "file": "us-georgia-v20261112.pkg",
+    "size": 103484794,
+    "sha256": "336f8f9ecd4d645c12af9df872d9e88b9013834722093f722b40d4cc1e44ef75",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 30.35365,
+      "minLon": -85.6068,
+      "maxLat": 35.00356,
+      "maxLon": -80.74313
+    },
+    "country": "United States of America"
+  },
+  {
     "id": "uzbekistan",
     "region": "uzbekistan",
     "name": "Uzbekistan",
