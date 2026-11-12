@@ -6970,6 +6970,26 @@
     "country": "United States of America"
   },
   {
+    "id": "us-alaska",
+    "region": "us-alaska",
+    "name": "Alaska",
+    "version": "20261112",
+    "file": "us-alaska-v20261112.pkg",
+    "size": 179025743,
+    "sha256": "f686275272084b3899b1fb27966c1ea212a3362c405e266d66903a2ba7194436",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 49.8089,
+      "minLon": -180.0,
+      "maxLat": 73.79794,
+      "maxLon": 180.0
+    },
+    "country": "United States of America"
+  },
+  {
     "id": "uzbekistan",
     "region": "uzbekistan",
     "name": "Uzbekistan",
