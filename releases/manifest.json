@@ -6401,6 +6401,26 @@
     "country": "Swaziland"
   },
   {
+    "id": "swietokrzyskie",
+    "region": "swietokrzyskie",
+    "name": "Swietokrzyskie",
+    "version": "20261112",
+    "file": "swietokrzyskie-v20261112.pkg",
+    "size": 17060347,
+    "sha256": "6f4891fe74a5f8231d435e06986dfde5fe335acd5944b0831ce24cd17df099d2",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 50.17974,
+      "minLon": 19.69901,
+      "maxLat": 51.34824,
+      "maxLon": 21.8758
+    },
+    "country": "Poland"
+  },
+  {
     "id": "switzerland",
     "region": "switzerland",
     "name": "Switzerland",
