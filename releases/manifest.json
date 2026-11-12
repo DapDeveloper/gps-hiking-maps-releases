@@ -6625,6 +6625,26 @@
     "country": "Togo"
   },
   {
+    "id": "tohoku",
+    "region": "tohoku",
+    "name": "T\u014dhoku region",
+    "version": "20261112",
+    "file": "tohoku-v20261112.pkg",
+    "size": 70725889,
+    "sha256": "d58431d40528e93ac7f3e97ebb3d48d6cd31bb6eb252359517de49392edfad05",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 36.528607,
+      "minLon": 138.93248,
+      "maxLat": 41.641794,
+      "maxLon": 142.878194
+    },
+    "country": "Japan"
+  },
+  {
     "id": "tokelau",
     "region": "tokelau",
     "name": "Tokelau",
