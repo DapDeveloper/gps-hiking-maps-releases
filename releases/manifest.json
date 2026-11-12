@@ -7990,6 +7990,26 @@
     "country": "United States of America"
   },
   {
+    "id": "us-wyoming",
+    "region": "us-wyoming",
+    "name": "Wyoming",
+    "version": "20261112",
+    "file": "us-wyoming-v20261112.pkg",
+    "size": 48104853,
+    "sha256": "f58261da29556befeb40771f634568bdf96756758dc320908e797d36237bcdc1",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 40.983393,
+      "minLon": -111.0576,
+      "maxLat": 45.019532,
+      "maxLon": -103.941289
+    },
+    "country": "United States of America"
+  },
+  {
     "id": "uzbekistan",
     "region": "uzbekistan",
     "name": "Uzbekistan",
