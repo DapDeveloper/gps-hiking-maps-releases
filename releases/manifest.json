@@ -7310,6 +7310,26 @@
     "country": "United States of America"
   },
   {
+    "id": "us-louisiana",
+    "region": "us-louisiana",
+    "name": "Louisiana",
+    "version": "20261112",
+    "file": "us-louisiana-v20261112.pkg",
+    "size": 52555106,
+    "sha256": "6454043d400a0820d85eeee0e1a3ae08c515b045f3b75a330d0c3de589516ad9",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 28.14452,
+      "minLon": -94.04376,
+      "maxLat": 33.02025,
+      "maxLon": -88.66684
+    },
+    "country": "United States of America"
+  },
+  {
     "id": "uzbekistan",
     "region": "uzbekistan",
     "name": "Uzbekistan",
