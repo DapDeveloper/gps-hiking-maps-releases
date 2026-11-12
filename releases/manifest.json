@@ -6281,6 +6281,26 @@
     "country": "Sudan"
   },
   {
+    "id": "sul",
+    "region": "sul",
+    "name": "Sul",
+    "version": "20261112",
+    "file": "sul-v20261112.pkg",
+    "size": 233241261,
+    "sha256": "e24597d8f3c8135067b2a22ef5917625af3bb1fa7c8700bd8b4a611b091291cb",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": -34.86424,
+      "minLon": -59.553147,
+      "maxLat": -22.513825,
+      "maxLon": -44.2463
+    },
+    "country": "Brazil"
+  },
+  {
     "id": "suriname",
     "region": "suriname",
     "name": "Suriname",
