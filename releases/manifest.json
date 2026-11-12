@@ -7910,6 +7910,26 @@
     "country": "United States of America"
   },
   {
+    "id": "us-virginia",
+    "region": "us-virginia",
+    "name": "Virginia",
+    "version": "20261112",
+    "file": "us-virginia-v20261112.pkg",
+    "size": 117343875,
+    "sha256": "c0f5fd5ef6b42a0ebd502d67b5f1210f2e4acf6184a8ba40675d1ca805732add",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 36.53798,
+      "minLon": -83.67841,
+      "maxLat": 39.46901,
+      "maxLon": -74.29751
+    },
+    "country": "United States of America"
+  },
+  {
     "id": "uzbekistan",
     "region": "uzbekistan",
     "name": "Uzbekistan",
