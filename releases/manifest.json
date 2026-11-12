@@ -7170,6 +7170,26 @@
     "country": "United States of America"
   },
   {
+    "id": "us-hawaii",
+    "region": "us-hawaii",
+    "name": "Hawaii",
+    "version": "20261112",
+    "file": "us-hawaii-v20261112.pkg",
+    "size": 7113854,
+    "sha256": "f30da7530615befbedade41c94967ef306039bb891749406842f5531318b5a62",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 10.83575,
+      "minLon": -179.8483,
+      "maxLat": 29.09624,
+      "maxLon": -137.5228
+    },
+    "country": "United States of America"
+  },
+  {
     "id": "uzbekistan",
     "region": "uzbekistan",
     "name": "Uzbekistan",
