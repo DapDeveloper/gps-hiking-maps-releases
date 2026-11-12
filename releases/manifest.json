@@ -7350,6 +7350,26 @@
     "country": "United States of America"
   },
   {
+    "id": "us-maryland",
+    "region": "us-maryland",
+    "name": "Maryland",
+    "version": "20261112",
+    "file": "us-maryland-v20261112.pkg",
+    "size": 51139428,
+    "sha256": "4fcfbc3d48855bceef92a3cb07291fe9e67e12076fa680e803a22c0eb20b54b3",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 37.88396,
+      "minLon": -79.48857,
+      "maxLat": 40.17054,
+      "maxLon": -74.954079
+    },
+    "country": "United States of America"
+  },
+  {
     "id": "uzbekistan",
     "region": "uzbekistan",
     "name": "Uzbekistan",
