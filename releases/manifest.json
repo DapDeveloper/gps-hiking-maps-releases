@@ -7090,6 +7090,26 @@
     "country": "United States of America"
   },
   {
+    "id": "us-delaware",
+    "region": "us-delaware",
+    "name": "Delaware",
+    "version": "20261112",
+    "file": "us-delaware-v20261112.pkg",
+    "size": 6909750,
+    "sha256": "09f10b41bb457fcc46c1742c939249321de5360cee7178fff042113ce2206485",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 38.45043,
+      "minLon": -75.78974,
+      "maxLat": 40.03221,
+      "maxLon": -74.96121
+    },
+    "country": "United States of America"
+  },
+  {
     "id": "uzbekistan",
     "region": "uzbekistan",
     "name": "Uzbekistan",
