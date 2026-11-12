@@ -7190,6 +7190,26 @@
     "country": "United States of America"
   },
   {
+    "id": "us-idaho",
+    "region": "us-idaho",
+    "name": "Idaho",
+    "version": "20261112",
+    "file": "us-idaho-v20261112.pkg",
+    "size": 52428288,
+    "sha256": "5e5db9a3141a0a9b85dfd6af8c27dffc6b5a4924fb314baca3500fac1a35671b",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 41.98306,
+      "minLon": -117.246,
+      "maxLat": 49.13466,
+      "maxLon": -111.0431
+    },
+    "country": "United States of America"
+  },
+  {
     "id": "uzbekistan",
     "region": "uzbekistan",
     "name": "Uzbekistan",
