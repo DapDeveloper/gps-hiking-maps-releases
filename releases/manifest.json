@@ -7530,6 +7530,26 @@
     "country": "United States of America"
   },
   {
+    "id": "us-new-hampshire",
+    "region": "us-new-hampshire",
+    "name": "New Hampshire",
+    "version": "20261112",
+    "file": "us-new-hampshire-v20261112.pkg",
+    "size": 23550204,
+    "sha256": "81300e4c1c8de8e8239d7fbd3bf191ab676e5944d5bf6d72bdac7f3a756d9006",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 42.69669,
+      "minLon": -72.5588,
+      "maxLat": 45.44612,
+      "maxLon": -70.48692
+    },
+    "country": "United States of America"
+  },
+  {
     "id": "uzbekistan",
     "region": "uzbekistan",
     "name": "Uzbekistan",
