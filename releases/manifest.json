@@ -7270,6 +7270,26 @@
     "country": "United States of America"
   },
   {
+    "id": "us-kansas",
+    "region": "us-kansas",
+    "name": "Kansas",
+    "version": "20261112",
+    "file": "us-kansas-v20261112.pkg",
+    "size": 41402869,
+    "sha256": "772cb15f3693a7d5be2e50801e6381f3ea7c21ad89a219683dd2977fe59e1754",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 33.40115,
+      "minLon": -107.3034,
+      "maxLat": 40.00681,
+      "maxLon": -94.58926
+    },
+    "country": "United States of America"
+  },
+  {
     "id": "uzbekistan",
     "region": "uzbekistan",
     "name": "Uzbekistan",
