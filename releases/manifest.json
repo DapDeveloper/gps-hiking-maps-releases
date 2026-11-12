@@ -6742,6 +6742,26 @@
     }
   },
   {
+    "id": "trondelag",
+    "region": "trondelag",
+    "name": "Trondelag",
+    "version": "20261112",
+    "file": "trondelag-v20261112.pkg",
+    "size": 53515295,
+    "sha256": "4d03cdf68b721dc3218675803d4ef36291e180a4541efc92f7041cf18820d319",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 62.255329,
+      "minLon": 5.790873,
+      "maxLat": 65.949549,
+      "maxLon": 14.403969
+    },
+    "country": "Norway"
+  },
+  {
     "id": "tunisia",
     "region": "tunisia",
     "name": "Tunisia",
