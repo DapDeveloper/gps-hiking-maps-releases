@@ -7490,6 +7490,26 @@
     "country": "United States of America"
   },
   {
+    "id": "us-nebraska",
+    "region": "us-nebraska",
+    "name": "Nebraska",
+    "version": "20261112",
+    "file": "us-nebraska-v20261112.pkg",
+    "size": 48477228,
+    "sha256": "21925dcb61063ef92acd3f1a213e284fd76ffaea49ecf80dd14df77331653be9",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 40.00015,
+      "minLon": -104.7301,
+      "maxLat": 43.00172,
+      "maxLon": -95.30703
+    },
+    "country": "United States of America"
+  },
+  {
     "id": "uzbekistan",
     "region": "uzbekistan",
     "name": "Uzbekistan",
