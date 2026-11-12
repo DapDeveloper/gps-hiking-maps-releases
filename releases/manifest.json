@@ -6990,6 +6990,26 @@
     "country": "United States of America"
   },
   {
+    "id": "us-arizona",
+    "region": "us-arizona",
+    "name": "Arizona",
+    "version": "20261112",
+    "file": "us-arizona-v20261112.pkg",
+    "size": 116105476,
+    "sha256": "5bb63c9f3c2bef91ae2dd5912455905d87b1fdb542c981822c3e712430f4bcf9",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 30.05891,
+      "minLon": -114.8325,
+      "maxLat": 37.00596,
+      "maxLon": -109.0437
+    },
+    "country": "United States of America"
+  },
+  {
     "id": "uzbekistan",
     "region": "uzbekistan",
     "name": "Uzbekistan",
