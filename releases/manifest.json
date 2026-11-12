@@ -7710,6 +7710,26 @@
     "country": "United States of America"
   },
   {
+    "id": "us-pennsylvania",
+    "region": "us-pennsylvania",
+    "name": "Pennsylvania",
+    "version": "20261112",
+    "file": "us-pennsylvania-v20261112.pkg",
+    "size": 138369769,
+    "sha256": "12fed5c3dafc7af0719625a7cca73340f916af0d907733c004b1ca773aed13a9",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 38.92139,
+      "minLon": -81.37832,
+      "maxLat": 42.516493,
+      "maxLon": -74.687612
+    },
+    "country": "United States of America"
+  },
+  {
     "id": "uzbekistan",
     "region": "uzbekistan",
     "name": "Uzbekistan",
