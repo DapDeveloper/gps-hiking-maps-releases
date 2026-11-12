@@ -7770,6 +7770,26 @@
     "country": "United States of America"
   },
   {
+    "id": "us-south-carolina",
+    "region": "us-south-carolina",
+    "name": "South Carolina",
+    "version": "20261112",
+    "file": "us-south-carolina-v20261112.pkg",
+    "size": 67626676,
+    "sha256": "5ab84d22d70594f34f17f3c6733c2e4783e582bb3eb618eadef9671d753a74c5",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 32.02967,
+      "minLon": -83.35622,
+      "maxLat": 35.2184,
+      "maxLon": -78.51867
+    },
+    "country": "United States of America"
+  },
+  {
     "id": "uzbekistan",
     "region": "uzbekistan",
     "name": "Uzbekistan",
