@@ -7870,6 +7870,26 @@
     "country": "United States of America"
   },
   {
+    "id": "us-utah",
+    "region": "us-utah",
+    "name": "Utah",
+    "version": "20261112",
+    "file": "us-utah-v20261112.pkg",
+    "size": 67847334,
+    "sha256": "3c98d5588833e873aed7eda67239145075ea17eeea6a40337a7e9871cb8c94ed",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 36.9963,
+      "minLon": -114.0556,
+      "maxLat": 42.00323,
+      "maxLon": -109.0394
+    },
+    "country": "United States of America"
+  },
+  {
     "id": "uzbekistan",
     "region": "uzbekistan",
     "name": "Uzbekistan",
