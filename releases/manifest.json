@@ -7570,6 +7570,26 @@
     "country": "United States of America"
   },
   {
+    "id": "us-new-mexico",
+    "region": "us-new-mexico",
+    "name": "New Mexico",
+    "version": "20261112",
+    "file": "us-new-mexico-v20261112.pkg",
+    "size": 55615434,
+    "sha256": "910c30301e0ea4e6b3d3a55b7e531b567caea72a725214a66ea225228cb6f71f",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 27.02788,
+      "minLon": -109.0504,
+      "maxLat": 37.00184,
+      "maxLon": -96.11707
+    },
+    "country": "United States of America"
+  },
+  {
     "id": "uzbekistan",
     "region": "uzbekistan",
     "name": "Uzbekistan",
