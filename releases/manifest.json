@@ -7250,6 +7250,26 @@
     "country": "United States of America"
   },
   {
+    "id": "us-iowa",
+    "region": "us-iowa",
+    "name": "Iowa",
+    "version": "20261112",
+    "file": "us-iowa-v20261112.pkg",
+    "size": 64342139,
+    "sha256": "fbc7273d2138f1a31b0324ad1f6be68c1ddd63499f8bd4573a83f80187250a7f",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 40.37266,
+      "minLon": -96.6426,
+      "maxLat": 43.50182,
+      "maxLon": -90.13581
+    },
+    "country": "United States of America"
+  },
+  {
     "id": "uzbekistan",
     "region": "uzbekistan",
     "name": "Uzbekistan",
