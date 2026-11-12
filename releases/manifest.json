@@ -8010,6 +8010,26 @@
     "country": "United States of America"
   },
   {
+    "id": "utrecht",
+    "region": "utrecht",
+    "name": "Utrecht",
+    "version": "20261112",
+    "file": "utrecht-v20261112.pkg",
+    "size": 10764591,
+    "sha256": "68390778fe87b790313e921dbbc10296c16bd481f56adad07e526e9da066a337",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 51.85615,
+      "minLon": 4.790849,
+      "maxLat": 52.30494,
+      "maxLon": 5.62829
+    },
+    "country": "Netherlands"
+  },
+  {
     "id": "uzbekistan",
     "region": "uzbekistan",
     "name": "Uzbekistan",
