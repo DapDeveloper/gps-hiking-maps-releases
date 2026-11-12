@@ -7010,6 +7010,26 @@
     "country": "United States of America"
   },
   {
+    "id": "us-arkansas",
+    "region": "us-arkansas",
+    "name": "Arkansas",
+    "version": "20261112",
+    "file": "us-arkansas-v20261112.pkg",
+    "size": 40714023,
+    "sha256": "7af714e7cc02f2d36472431f5ec32f9e5fcd6f57a153b7ef5a54d36af2635757",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 33.0038,
+      "minLon": -94.62217,
+      "maxLat": 36.55212,
+      "maxLon": -89.63987
+    },
+    "country": "United States of America"
+  },
+  {
     "id": "uzbekistan",
     "region": "uzbekistan",
     "name": "Uzbekistan",
