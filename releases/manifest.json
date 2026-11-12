@@ -7370,6 +7370,26 @@
     "country": "United States of America"
   },
   {
+    "id": "us-massachusetts",
+    "region": "us-massachusetts",
+    "name": "Massachusetts",
+    "version": "20261112",
+    "file": "us-massachusetts-v20261112.pkg",
+    "size": 46580589,
+    "sha256": "e8b292a9ef00f9e68bbeba05ea7f637be2f121a448de8950f609bb72f8767a68",
+    "format": "hlv1",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 built by HikingLife",
+    "minZoom": 7,
+    "maxZoom": 20,
+    "bounds": {
+      "minLat": 40.82573,
+      "minLon": -73.51096,
+      "maxLat": 42.88768,
+      "maxLon": -68.71948
+    },
+    "country": "United States of America"
+  },
+  {
     "id": "uzbekistan",
     "region": "uzbekistan",
     "name": "Uzbekistan",
